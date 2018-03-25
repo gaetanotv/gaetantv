@@ -39,18 +39,18 @@
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
-<!-- <item>
-<title>MOVISTAR DEPORTES 1 *</title>
+<item>
+<title>MOVISTAR DEPORTES 1 </title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/plusdeportes.php</page>
+<page>http://vergol.com/live1/plusdeportes1.php</page>
 <referer>http://www.vercanalestv.com/ver-canal-plus-deportes-online-y-en-directo-las-24-en-vivo/</referer>
 </regex>
 <thumbnail>https://s18.postimg.org/7l0tctyax/deportes1.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item> -->
+</item>
 
 <item>
 <title>MOVISTAR DEPORTES 2</title>
