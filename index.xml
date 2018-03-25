@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+<item>
+<title>#0</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/plus1.php</page>
+<referer>http://www.vercanalestv.com/canal-plus-hd-online-y-gratis-las-24-en-vivo/</referer>
+</regex>
+<thumbnail>https://s18.postimg.org/4vabhtjqx/cero.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>#0</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/plus1.php</page>
+<referer>http://www.vercanalestv.com/canal-plus-hd-online-y-gratis-las-24-en-vivo/</referer>
+</regex>
+<thumbnail>https://s18.postimg.org/4vabhtjqx/cero.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>#0</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/plus1.php</page>
+<referer>http://www.vercanalestv.com/canal-plus-hd-online-y-gratis-las-24-en-vivo/</referer>
+</regex>
+<thumbnail>https://s18.postimg.org/4vabhtjqx/cero.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>#0</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/plus1.php</page>
+<referer>http://www.vercanalestv.com/canal-plus-hd-online-y-gratis-las-24-en-vivo/</referer>
+</regex>
+<thumbnail>https://s18.postimg.org/4vabhtjqx/cero.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+ 
