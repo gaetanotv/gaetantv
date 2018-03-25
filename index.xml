@@ -39,7 +39,7 @@
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
-<item>
+<!-- <item>
 <title>MOVISTAR DEPORTES 1 *</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
@@ -50,7 +50,7 @@
 </regex>
 <thumbnail>https://s18.postimg.org/7l0tctyax/deportes1.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
+</item> -->
 
 <item>
 <title>MOVISTAR DEPORTES 2</title>
@@ -91,13 +91,13 @@
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item
 
-<item>
+<!-- <item>
 <title>NICK JR *</title>
 <sportsdevil>http://livesports.pw/embed2.php?file=nickjr&width=650&height=400&autostart=true</sportsdevil>
 <referer>http://konectas.es/</referer>
 <thumbnail>https://s1.postimg.org/840pwwv25b/NICKJR.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
+ </item> -->
 
 <item>
 <title>HOLLYWOOD</title>
