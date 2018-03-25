@@ -108,7 +108,7 @@
 <page>http://livesports.pw/embedna.php?file=hollywesp&width=650&height=400</page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail></thumbnail>
+<thumbnail>http://canalhollywood.es/wp-content/uploads/2016/01/Canal-Hollywood-logo.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -121,7 +121,7 @@
 <page>http://vergol.com/live/plusaccion.php</page>
 <referer>http://www.vercanalestv.com/ver-canal-plus-accion-online-y-en-directo-gratis-las-24h-por-internet/</referer>
 </regex>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1575px-Movistar_Acci%C3%B3n.svg.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
@@ -134,7 +134,7 @@
 <page>http://vergol.com/live/comedia.php</page>
 <referer>http://www.vercanalestv.com/ver-canal-plus-comedia-online-y-en-directo-gratis-las-24h-por-internet/</referer>
 </regex>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>		
 </item>
 
