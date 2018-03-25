@@ -295,15 +295,15 @@
 </item>
  
  <item>
-<title>TNT</title>
+<title>El Partidazo</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/tnt.php</page>
-<referer>http://www.vercanalestv.com/ver-tnt-online-en-directo-gratis-24h-por-internet/</referer>
+<page>http://www.playerfs.com/hembedplayer/dfdcmjj5d/2/650/400</page>
+<referer>http://www.vercanalestv.com/ver-canal-plus-partidazo-online-y-directo-gratis/</referer>
 </regex>
-<thumbnail>https://s1.postimg.org/1pyn4584rj/TNT.png</thumbnail>
+<thumbnail>http://www.vertelevision.online/wp-content/uploads/2017/07/MovistarPartidazo.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
