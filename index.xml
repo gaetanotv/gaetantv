@@ -14,42 +14,269 @@
 </item>
 
 <item>
-<title>#0</title>
+<title>Formula 1</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/plus1.php</page>
-<referer>http://www.vercanalestv.com/canal-plus-hd-online-y-gratis-las-24-en-vivo/</referer>
+<page>http://vergol.com/live3/formula1.php</page>
+<referer>http://www.vercanalestv.com/ver-formula-1-en-directo-y-online-gratis/</referer>
 </regex>
-<thumbnail>https://s18.postimg.org/4vabhtjqx/cero.png</thumbnail>
+<thumbnail>https://s1.postimg.org/639ucfrwin/MVF1.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
 <item>
-<title>#0</title>
+<title>MOVISTAR MOTOGP</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/plus1.php</page>
-<referer>http://www.vercanalestv.com/canal-plus-hd-online-y-gratis-las-24-en-vivo/</referer>
+<page>http://vergol.com/live3/motogp.php</page>
+<referer>http://www.vercanalestv.com/ver-motogp-en-directo-y-online-24h-gratis/</referer>
 </regex>
-<thumbnail>https://s18.postimg.org/4vabhtjqx/cero.png</thumbnail>
+<thumbnail>https://s1.postimg.org/1mp50nwewv/MVMTGP.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
 <item>
-<title>#0</title>
+<title>MOVISTAR DEPORTES 1 *</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/plus1.php</page>
-<referer>http://www.vercanalestv.com/canal-plus-hd-online-y-gratis-las-24-en-vivo/</referer>
+<page>http://vergol.com/live1/plusdeportes.php</page>
+<referer>http://www.vercanalestv.com/ver-canal-plus-deportes-online-y-en-directo-las-24-en-vivo/</referer>
 </regex>
-<thumbnail>https://s18.postimg.org/4vabhtjqx/cero.png</thumbnail>
+<thumbnail>https://s18.postimg.org/7l0tctyax/deportes1.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
- 
+<item>
+<title>MOVISTAR DEPORTES 2</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live1/plusdeportes2.php</page>
+<referer>http://www.vercanalestv.com/ver-canal-plus-deportes-2-online-y-en-directo-las-24h-en-vivo/</referer>
+</regex>
+<thumbnail>https://s18.postimg.org/tq74xh4kp/deportes2.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>BEIN SPORTS LA LIGA</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live3/beinliga.php</page>
+<referer>http://www.vercanalestv.com/ver-bein-sports-la-liga-en-directo-24h-online/</referer>
+</regex>
+<thumbnail>https://s18.postimg.org/cvau189ft/beinlaliga.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>MOVISTAR DISNEY</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/plusdisney.php</page>
+<referer>http://www.vertelevisor.com/ver-movistar-disney-online-gratis-24h-por-internet/</referer>
+</regex>
+<thumbnail>https://s18.postimg.org/df6nt1fm1/disney.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item
+
+<item>
+<title>NICK JR *</title>
+<sportsdevil>http://livesports.pw/embed2.php?file=nickjr&width=650&height=400&autostart=true</sportsdevil>
+<referer>http://konectas.es/</referer>
+<thumbnail>https://s1.postimg.org/840pwwv25b/NICKJR.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>HOLLYWOOD</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=hollywesp&width=650&height=400</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>MOVISTAR ACCION</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/plusaccion.php</page>
+<referer>http://www.vercanalestv.com/ver-canal-plus-accion-online-y-en-directo-gratis-las-24h-por-internet/</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>MOVISTAR COMEDIA</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/comedia.php</page>
+<referer>http://www.vercanalestv.com/ver-canal-plus-comedia-online-y-en-directo-gratis-las-24h-por-internet/</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>		
+</item>
+
+<item>
+<title>MOVISTAR DCINE</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/dcine.php</page>
+<referer>http://www.vercanalestv.com/ver-canal-plus-dcine-en-vivo-y-online-por-internet-las-24h/</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>MOVISTAR ESTRENOS</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/plusestrenos.php</page>
+<referer>http://www.vercanalestv.com/ver-canal-plus-estrenos-en-directo-y-online-las-24h/</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>MOVISTAR SERIES</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live1/plusseries.php</page>
+<referer>http://verdirectotv.com/tv/digitales/plus-series.html</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>AXN</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/axn.php</page>
+<referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
+</regex>
+<thumbnail>https://s1.postimg.org/36bfk3pgbz/AXN.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>	
+</item>
+
+<item>
+<title>FOX</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/fox.php</page>
+<referer>http://vercanalestv.com/tv/nacionales/fox.html</referer>
+</regex>
+<thumbnail>https://s1.postimg.org/2skb31g9dr/FOXGE.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>FOX LIFE</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/foxlife.php</page>
+<referer>http://verdirectotv.com/tv/nacionales/foxlife.html</referer>
+</regex>
+<thumbnail>https://s1.postimg.org/9ouny4hd7j/FOXCR.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>HOLLYWOOD</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=hollywesp&width=650&height=400</page>
+<referer>http://vercanalestv.com/tv/nacionales/canal-hollywood.html</referer>
+</regex>
+<thumbnail>https://s1.postimg.org/4y6wx0v2lr/HOLLYW.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>MTV</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/mtv.php</page>
+<referer>http://vercanalestv.com/tv/nacionales/mtv.html</referer>
+</regex>
+<thumbnail>https://s1.postimg.org/68nwsy25yn/MTV.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>SYFY</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/syfy.php</page>
+<referer>http://vercanalestv.com/tv/nacionales/mtv.html</referer>
+</regex>
+<thumbnail>https://s1.postimg.org/9tj8l1coyn/SCI-_FI.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>TCM</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/tcm.php</page>
+<referer>http://www.vercanalestv.com/ver-canal-tcm-online-gratis-24h-por-internet/</referer>
+</regex>
+<thumbnail>https://s1.postimg.org/90tlp4efq7/TCM.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>TNT</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/tnt.php</page>
+<referer>http://www.vercanalestv.com/ver-tnt-online-en-directo-gratis-24h-por-internet/</referer>
+</regex>
+<thumbnail>https://s1.postimg.org/1pyn4584rj/TNT.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
