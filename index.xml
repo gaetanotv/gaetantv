@@ -280,3 +280,42 @@
 <thumbnail>https://s1.postimg.org/1pyn4584rj/TNT.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
+
+<item>
+<title>la liga 123</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/plusliga2.php</page>
+<referer>http://www.vercanalestv.com/ver-canal-plus-liga-2-en-directo-partidos-de-2o-division-gratis/</referer>
+</regex>
+<thumbnail>p://static.goltelevision.com/uploads/gol/web/img/logos/laliga-123-lg-v.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+ 
+ <item>
+<title>TNT</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/tnt.php</page>
+<referer>http://www.vercanalestv.com/ver-tnt-online-en-directo-gratis-24h-por-internet/</referer>
+</regex>
+<thumbnail>https://s1.postimg.org/1pyn4584rj/TNT.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
