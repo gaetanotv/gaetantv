@@ -307,9 +307,31 @@
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
-
+<item>
+<title>Gol Tv</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embeddeporte.php?file=golesp&width=650&height=397</page>
+<referer>http://verplusonline.com/ver-gol-tv-online-gratis-vivo/</referer>
+</regex>
+<thumbnail>http://www.vertelevision.online/wp-content/uploads/2017/07/MovistarPartidazo.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
  
- 
+<item>
+<title>El Partidazo</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live3/beinliga.php</page>
+<referer>http://www.vercanalestv.com/ver-canal-plus-partidazo-online-y-directo-gratis/</referer>
+</regex>
+<thumbnail>http://www.vertelevision.online/wp-content/uploads/2017/07/MovistarPartidazo.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
  
  
  
