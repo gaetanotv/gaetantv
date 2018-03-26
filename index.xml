@@ -99,7 +99,7 @@
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
  </item> -->
 
-<item>
+<!-- <item>
 <title>HOLLYWOOD</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
@@ -110,7 +110,7 @@
 </regex>
 <thumbnail>http://canalhollywood.es/wp-content/uploads/2016/01/Canal-Hollywood-logo.jpg</thumbnail>
 <fanart></fanart>
-</item>
+</item> -->
 
 <item>
 <title>MOVISTAR ACCION</title>
