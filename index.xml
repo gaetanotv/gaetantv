@@ -303,7 +303,7 @@
 <page>http://vergol.com/live3/beinliga.php</page>
 <referer>http://www.vercanalestv.com/ver-canal-plus-partidazo-online-y-directo-gratis/</referer>
 </regex>
-<thumbnail>http://www.vertelevision.online/wp-content/uploads/2017/07/MovistarPartidazo.png</thumbnail>
+<thumbnail>http://vercanalestv.com/imagenes/movistar-partidazo.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
@@ -316,20 +316,20 @@
 <page>http://livesports.pw/embeddeporte.php?file=golesp&width=650&height=397</page>
 <referer>http://verplusonline.com/ver-gol-tv-online-gratis-vivo/</referer>
 </regex>
-<thumbnail>http://www.vertelevision.online/wp-content/uploads/2017/07/MovistarPartidazo.png</thumbnail>
+<thumbnail>http://michaelshuemaker.com/blog/new/gol-tv-online-live-3.jpg</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
  
 <item>
-<title>El Partidazo</title>
+<title>NBA ONLINE</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live3/beinliga.php</page>
-<referer>http://www.vercanalestv.com/ver-canal-plus-partidazo-online-y-directo-gratis/</referer>
+<page>http://livesports.pw/embedna.php?file=nnba&width=650&height=397</page>
+<referer>http://verplusonline.com/ver-nba-online-gratis/</referer>
 </regex>
-<thumbnail>http://www.vertelevision.online/wp-content/uploads/2017/07/MovistarPartidazo.png</thumbnail>
+<thumbnail>https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
  
