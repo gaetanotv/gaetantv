@@ -27,6 +27,19 @@
 </item>
 
 <item>
+<title>Formula 1 OP.1</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embeddeporte.php?file=funoesp&width=650&height=397</page>
+<referer>http://verplusonline.com/ver-movistar-f1-online/</referer>
+</regex>
+<thumbnail>https://s1.postimg.org/639ucfrwin/MVF1.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
 <title>MOVISTAR MOTOGP</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
