@@ -20,7 +20,7 @@
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
 <page>http://vergol.com/live3/formula1.php</page>
-<referer>http://www.vercanalestv.com/ver-formula-1-en-directo-y-online-gratis/</referer>
+<referer>http://www.vertelevisor.com/ver-la-f1-online-en-directo-por-internet-formula-1-gratis/</referer>
 </regex>
 <thumbnail>https://s1.postimg.org/639ucfrwin/MVF1.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
@@ -71,8 +71,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/plusdeportes2.php</page>
-<referer>http://www.vercanalestv.com/ver-canal-plus-deportes-2-online-y-en-directo-las-24h-en-vivo/</referer>
+<page>http://livesports.pw/embeddeporte.php?file=deportedos&width=650&height=397</page>
+<referer>http://verplusonline.com/ver-movistar-deporte-2-online/</referer>
 </regex>
 <thumbnail>https://s18.postimg.org/tq74xh4kp/deportes2.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
