@@ -117,18 +117,18 @@
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
-<!-- <item>
-<title>HOLLYWOOD</title>
+<item>
+<title>CALLE 13</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=hollywesp&width=650&height=400</page>
-<cookieJar></cookieJar>
+<page>http://livesports.pw/embedna.php?file=calle13&width=650&height=397</page>
+<referer>http://verplusonline.com/ver-calle-13-online-y-gratis-por-internet-las-24h/</referer>
 </regex>
-<thumbnail>http://canalhollywood.es/wp-content/uploads/2016/01/Canal-Hollywood-logo.jpg</thumbnail>
+<thumbnail>http://www.caratulasylogos.com/sites/default/files/calle13.jpg</thumbnail>
 <fanart></fanart>
-</item> -->
+</item>
 
 <item>
 <title>MOVISTAR ACCION</title>
