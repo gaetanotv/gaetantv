@@ -404,15 +404,15 @@
 </item>
 
 <item>
-<title>HISTORIA</title>
+<title>ODISEA</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=historiaesp&width=650&height=397</page>
-<referer>http://verplusonline.com/ver-canal-historia-en-directo/</referer>
+<page>http://livesports.pw/embedna.php?file=odiseatelef&width=650&height=400</page>
+<referer>http://verplusonline.com/ver-odisea-en-directo/</referer>
 </regex>
-<thumbnail>http://todotele.com/wp-content/uploads/2016/03/LOGO-CANAL-HISTORIA-MARZO-2016.jpg</thumbnail>
+<thumbnail>http://livesports.pw/embedna.php?file=odiseatelef&width=650&height=400</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
  
