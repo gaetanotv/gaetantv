@@ -253,8 +253,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://tv.megaseedbox.com:8000/live/mega31713/plus/251.ts</page>
-<referer>http://tv.megaseedbox.com:8000/live/mega31713/plus/251.ts</referer>
+<page>http://livesports.pw/embedna.php?file=hollywesp&width=650&height=400</page>
+<referer>http://vercanalestv.com/tv/nacionales/canal-hollywood.html</referer>
 </regex>
 <thumbnail>https://s1.postimg.org/4y6wx0v2lr/HOLLYW.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
@@ -412,7 +412,7 @@
 <page>http://livesports.pw/embedna.php?file=odiseatelef&width=650&height=400</page>
 <referer>http://verplusonline.com/ver-odisea-en-directo/</referer>
 </regex>
-<thumbnail>http://tutele.s3.amazonaws.com/wp-content/uploads/2013/07/odisea-nuevo-logo-300x161.png</thumbnail>
+<thumbnail>https://s1.postimg.org/4er6ix5jqn/ODISEA.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
  
