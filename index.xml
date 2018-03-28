@@ -253,8 +253,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=hollywesp&width=650&height=397</page>
-<referer>http://verplusonline.com/hollywood-espana/</referer>
+<page>http://tv.megaseedbox.com:8000/live/mega31713/plus/251.ts</page>
+<referer></referer>
 </regex>
 <thumbnail>https://s1.postimg.org/4y6wx0v2lr/HOLLYW.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
