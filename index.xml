@@ -132,8 +132,11 @@
 
 <item>
 <title>CALLE 13</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
 <sportdevil>http://142.44.212.105:8000/live/andrew1/andrew1/5525.ts</sportdevil>
 <referer>http://verplusonline.com/ver-calle-13-online-y-gratis-por-internet-las-24h/</referer>
+</regex>
 <thumbnail>http://www.caratulasylogos.com/sites/default/files/calle13.jpg</thumbnail>
 <fanart></fanart>
 </item>
