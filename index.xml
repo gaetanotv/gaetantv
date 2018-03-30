@@ -32,7 +32,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte.php?file=funoesp&width=650&height=397</page>
+<page>http://player.livesports.pw/formulauno/</page>
 <referer>http://verplusonline.com/ver-movistar-f1-online/</referer>
 </regex>
 <thumbnail>https://s1.postimg.org/639ucfrwin/MVF1.png</thumbnail>
