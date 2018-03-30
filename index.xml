@@ -136,7 +136,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=calle13&width=650&height=397</page>
+<page>http://player.livesports.pw/calle13/</page>
 <referer>http://verplusonline.com/ver-calle-13-online-y-gratis-por-internet-las-24h/</referer>
 </regex>
 <thumbnail>http://www.caratulasylogos.com/sites/default/files/calle13.jpg</thumbnail>
@@ -162,7 +162,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=mcomedia&width=650&height=397</page>
+<page>http://player.livesports.pw/mcomedia/</page>
 <referer>http://verplusonline.com/ver-canal-plus-comedia-hd-online-y-en-directo-las-24h-en-vivo/</referer>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png</thumbnail>
