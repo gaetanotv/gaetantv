@@ -370,8 +370,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=historiaesp&width=650&height=397</page>
-<referer>http://verplusonline.com/ver-canal-historia-en-directo/</referer>
+<page>http://player.livesports.pw/historia/</page>
+<referer>http://telefivegb.com/canales/documental/historia</referer>
 </regex>
 <thumbnail>http://todotele.com/wp-content/uploads/2016/03/LOGO-CANAL-HISTORIA-MARZO-2016.jpg</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
@@ -383,8 +383,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=natgeo&width=650&height=397</page>
-<referer>http://verplusonline.com/ver-online-national-geographic/</referer>
+<page>http://player.livesports.pw/natgeo/</page>
+<referer>http://telefivegb.com/canales/documental/natgeo</referer>
 </regex>
 <thumbnail>http://www.ranklogos.com/wp-content/uploads/2015/01/National-Geographic-Channel-HD-Logo.jpg</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
@@ -396,8 +396,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=discoverychannel&width=650&height=397</page>
-<referer>http://verplusonline.com/discovery-channel/</referer>
+<page>http://player.livesports.pw/discoverychannel/</page>
+<referer>http://telefivegb.com/canales/documental/discoverychannel</referer>
 </regex>
 <thumbnail>http://logok.org/wp-content/uploads/2014/04/Discovery-channel-logo-old-1024x768.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
@@ -409,8 +409,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=odiseatelef&width=650&height=400</page>
-<referer>http://verplusonline.com/ver-odisea-en-directo/</referer>
+<page>http://player.livesports.pw/odisea/</page>
+<referer>http://telefivegb.com/canales/documental/odisea</referer>
 </regex>
 <thumbnail>https://s1.postimg.org/4er6ix5jqn/ODISEA.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
