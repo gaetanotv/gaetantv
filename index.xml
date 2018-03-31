@@ -132,12 +132,9 @@
 
 <item>
 <title>CALLE 13</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://ver.movistarplus.es/player/?canal=CL13&serviceUid=13&id_perfil=OTT&suscripcion=PS-APERTURALI%2CPS-APERTURAPC%2CPS-CERO%2CPS-FAKENU%2CPS-MINTDTLI%2CPS-PREMEXLI%2CPS-PREMEXPC%2CPS-SELEPLI%2CPS-SELEPPC&nv=2&network=movistarplus</page>
-<referer>http://ver.movistarplus.es/player/?canal=CL13&serviceUid=13&id_perfil=OTT&suscripcion=PS-APERTURALI%2CPS-APERTURAPC%2CPS-CERO%2CPS-FAKENU%2CPS-MINTDTLI%2CPS-PREMEXLI%2CPS-PREMEXPC%2CPS-SELEPLI%2CPS-SELEPPC&nv=2&network=movistarplus</referer>
+<sportdevil>http://www.pop.verplusonline.com/Fezban.php</sportevil>
+<referer>http://verplusonline.com/ver-calle-13-online-y-gratis-por-internet-las-24h/</referer>
 </regex>
 <thumbnail>http://www.caratulasylogos.com/sites/default/files/calle13.jpg</thumbnail>
 <fanart></fanart>
