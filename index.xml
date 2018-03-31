@@ -134,8 +134,6 @@
 <title>CALLE 13</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex> 
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres> 
 <sportdevil>http://www.pop.verplusonline.com/Fezban.php?file=calle13esp&width=650&height=400&autostart=true</sportdevil>
 <referer>http://vercanalestv.com/tv/nacionales/calle-13.html</referer>
 </regex> 
