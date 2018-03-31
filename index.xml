@@ -136,7 +136,7 @@
 <regex> 
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://pop.verplusonline.com//iframe/index.php</page>
+<page>http://pop.verplusonline.com//ezban.php</page>
 <referer>http://vercanalestv.com/tv/nacionales/calle-13.html</referer>
 </regex> 
 <thumbnail>http://www.caratulasylogos.com/sites/default/files/calle13.jpg</thumbnail>
