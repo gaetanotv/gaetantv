@@ -32,8 +32,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://player.livesports.pw/formulauno/</page>
-<referer>http://telefivegb.com/canales/pelis/formulauno</referer>
+<page>http://cinestrenostv.tv/canales/deportes/formula1.php</page>
+<referer>http://cinestrenostv.tv/canales-deportes/</referer>
 </regex>
 <thumbnail>https://s1.postimg.org/639ucfrwin/MVF1.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
