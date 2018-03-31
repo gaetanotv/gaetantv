@@ -33,7 +33,7 @@
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
 <page>http://player.livesports.pw/formulauno/</page>
-<referer>http://verplusonline.com/ver-movistar-f1-online/</referer>
+<referer>http://telefivegb.com/canales/pelis/formulauno</referer>
 </regex>
 <thumbnail>https://s1.postimg.org/639ucfrwin/MVF1.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
