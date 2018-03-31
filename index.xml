@@ -136,8 +136,8 @@
 <regex> 
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<sportdevil>http://player.livesports.pw/calle13/</sportdevil>
-<referer>http://vercanalestv.com/tv/nacionales/calle-13.html</referer>
+<page>http://player.livesports.pw/calle13/</page>
+<referer>http://telefivegb.com/canales/pelis/calle13</referer>
 </regex> 
 <thumbnail>http://www.caratulasylogos.com/sites/default/files/calle13.jpg</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
