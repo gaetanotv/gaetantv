@@ -136,7 +136,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<sportdevil>http://142.44.212.105:8000/live/andrew1/andrew1/5525.ts</sportdevil>
+<page>http://player.livesports.pw/calle13/</page>
 <referer>http://verplusonline.com/ver-calle-13-online-y-gratis-por-internet-las-24h/</referer>
 </regex>
 <thumbnail>http://www.caratulasylogos.com/sites/default/files/calle13.jpg</thumbnail>
