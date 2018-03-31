@@ -254,7 +254,7 @@
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
 <page>http://player.livesports.pw/hollywood/</page>
-<referer>http://verplusonline.com/hollywood-espana/</referer>
+<referer>http://telefivegb.com/canales/pelis/hollywood</referer>
 </regex>
 <thumbnail>https://s1.postimg.org/4y6wx0v2lr/HOLLYW.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
