@@ -136,8 +136,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/calle13.php</page>
-<referer>http://www.vertelevisor.com/ver-calle-13-gratis-por-internet/</referer>
+<page>http://ver.movistarplus.es/player/?canal=CL13&serviceUid=13&id_perfil=OTT&suscripcion=PS-APERTURALI%2CPS-APERTURAPC%2CPS-CERO%2CPS-FAKENU%2CPS-MINTDTLI%2CPS-PREMEXLI%2CPS-PREMEXPC%2CPS-SELEPLI%2CPS-SELEPPC&nv=2&network=movistarplus</page>
+<referer>http://ver.movistarplus.es/player/?canal=CL13&serviceUid=13&id_perfil=OTT&suscripcion=PS-APERTURALI%2CPS-APERTURAPC%2CPS-CERO%2CPS-FAKENU%2CPS-MINTDTLI%2CPS-PREMEXLI%2CPS-PREMEXPC%2CPS-SELEPLI%2CPS-SELEPPC&nv=2&network=movistarplus</referer>
 </regex>
 <thumbnail>http://www.caratulasylogos.com/sites/default/files/calle13.jpg</thumbnail>
 <fanart></fanart>
