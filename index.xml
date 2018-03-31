@@ -39,18 +39,18 @@
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
-<!--item>
-<title>Formula 1 OP.2</title>
+<item>
+<title>Series xtra</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://cinestrenostv.tv/canales/deportes/formula1.php</page>
-<referer>http://latelete.tv/ver-la-f1online-en-directo-gratis-formula-1/</referer>
+<page>http://player.livesports.pw/mseriesxtra/</page>
+<referer>http://telefivegb.com/canales/series/m_series_xtra</referer>
 </regex>
-<thumbnail>https://s1.postimg.org/639ucfrwin/MVF1.png</thumbnail>
+<thumbnail>https://4.bp.blogspot.com/-yI8ULeguKEM/V6b5RiEYodI/AAAAAAAAAS0/lZdLO_GiC8Ia7SBne8jzqwxZDZEbWi2awCLcB/s1600/movistar-series-xtra.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item -->
+</item>
 
 <item>
 <title>MOVISTAR MOTOGP</title>
