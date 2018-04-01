@@ -137,8 +137,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte.php?file=motogpm&width=650&height=397</page>
-<referer>http://verplusonline.com/movistar-motogp-online-vivo-gratis/</referer>
+<page>http://player.livesports.pw/motogp/</page>
+<referer>http://telefivegb.com/canales/deporte/motogp/</referer>
 </regex>
 <thumbnail>https://s1.postimg.org/1mp50nwewv/MVMTGP.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
