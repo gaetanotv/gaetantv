@@ -255,8 +255,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page> http://player.livesports.pw/fox/</page>
-<referer>http://telefivegb.com/canales/series/fox</referer>
+<page>http://player.livesports.pw/fox/</page>
+<referer>http://telefivegb.com/canales/series/fox/</referer>
 </regex>
 <thumbnail>https://s1.postimg.org/2skb31g9dr/FOXGE.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
