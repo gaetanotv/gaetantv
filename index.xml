@@ -398,7 +398,7 @@
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
 <page>http://vergol.com/live1/goltv.php</page>
-<referer>http://cinestrenostv.tv/canales/deportes/multibein/canal1.html</referer>
+<referer>http://vercanalestv.com/tv/deportes/goltv.html</referer>
 </regex>
 <thumbnail>http://michaelshuemaker.com/blog/new/gol-tv-online-live-3.jpg</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
