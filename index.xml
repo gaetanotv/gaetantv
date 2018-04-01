@@ -412,7 +412,7 @@
 <page>http://player.livesports.pw/historia/</page>
 <referer>http://telefivegb.com/canales/documental/historia</referer>
 </regex>
-<thumbnail>http://todotele.com/wp-content/uploads/2016/03/LOGO-CANAL-HISTORIA-MARZO-2016.jpg</thumbnail>
+<thumbnail>http://pmcdeadline2.files.wordpress.com/2014/05/history_channel_logo__140523153130.jpeg</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
  
@@ -425,7 +425,7 @@
 <page>http://player.livesports.pw/natgeo/</page>
 <referer>http://telefivegb.com/canales/documental/natgeo</referer>
 </regex>
-<thumbnail>http://www.ranklogos.com/wp-content/uploads/2015/01/National-Geographic-Channel-HD-Logo.jpg</thumbnail>
+<thumbnail>http://famouslogos.net/images/national-geographic-logo.jpg</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
@@ -438,7 +438,7 @@
 <page>http://player.livesports.pw/discoverychannel/</page>
 <referer>http://telefivegb.com/canales/documental/discoverychannel</referer>
 </regex>
-<thumbnail>http://logok.org/wp-content/uploads/2014/04/Discovery-channel-logo-old-1024x768.png</thumbnail>
+<thumbnail>http://mymutual.files.wordpress.com/2010/06/discovery_channel_logo-800w_600h.jpg</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
