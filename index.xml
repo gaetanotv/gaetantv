@@ -339,6 +339,19 @@
 </item>
 
 <item>
+<title>AMC</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://player.livesports.pw/amc/</page>
+<referer>http://telefivegb.com/canales/pelis/amc</referer>
+</regex>
+<thumbnail>https://pmcvariety.files.wordpress.com/2013/11/amc-logo.jpg</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
 <title>la liga 123</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
