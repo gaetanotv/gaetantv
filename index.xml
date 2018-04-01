@@ -461,7 +461,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://www.tvxpc.com/play/nick-junior.php</page>
+<page>http://www.tvxpc.com/play/nick-junior-op4.php</page>
 <referer>http://www.tvxpc.com/play/nick-junior.php</referer>
 </regex>
 <thumbnail>http://www.vectorsland.com/imgd/l41771-nick-jr-logo-48435.png</thumbnail>
