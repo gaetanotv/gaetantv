@@ -357,7 +357,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live3/liga123.php</page>
+<page>http://verliga.net/live/verliga11.php</page>
 <referer>http://www.vercanalestv.com/ver-canal-plus-liga-2-en-directo-partidos-de-2o-division-gratis/</referer>
 </regex>
 <thumbnail>http://static.goltelevision.com/uploads/gol/web/img/logos/laliga-123-lg-v.png</thumbnail>
