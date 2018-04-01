@@ -455,7 +455,7 @@
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
-<item>
+<!--item>
 <title>NICK JR</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
@@ -466,7 +466,7 @@
 </regex>
 <thumbnail>http://www.vectorsland.com/imgd/l41771-nick-jr-logo-48435.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
+</item-->
 
 <item>
 <title>DISNEY CHANNEL</title>
