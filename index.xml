@@ -372,7 +372,7 @@
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
 <page>http://vergol.com/live3/liga123.php</page>
-<referer>http://telefivegb.com/canales/deporte/LIGA123/</referer>
+<referer>http://verliga.net/live/verliga11.php</referer>
 </regex>
 <thumbnail>http://static.goltelevision.com/uploads/gol/web/img/logos/laliga-123-lg-v.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
