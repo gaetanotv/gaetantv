@@ -100,7 +100,7 @@
 <page>http://vergol.com/live3/beinliga.php</page>
 <referer>http://www.vercanalestv.com/ver-bein-sports-la-liga-en-directo-24h-online/</referer>
 </regex>
-<thumbnail>https://www.ono.es/resources/images/imagen_bein_liga.png</thumbnail>
+<thumbnail>https://static.beinconnect.es/uploads/comun/img/logos/bein-laliga-md.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
