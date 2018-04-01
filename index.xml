@@ -454,6 +454,19 @@
 <thumbnail>https://s1.postimg.org/4er6ix5jqn/ODISEA.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
+
+<item>
+<title>NICK JR</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://www.tvxpc.com/play/nick-junior-op4.php</page>
+<referer>http://www.tvxpc.com/play/nick-junior.php</referer>
+</regex>
+<thumbnail>http://www.vectorsland.com/imgd/l41771-nick-jr-logo-48435.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
  
  
  
