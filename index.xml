@@ -242,8 +242,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/axn.php</page>
-<referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
+<page>http://player.livesports.pw/axn/</page>
+<referer>http://telefivegb.com/canales/series/axn</referer>
 </regex>
 <thumbnail>https://s1.postimg.org/36bfk3pgbz/AXN.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>	
@@ -255,8 +255,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/fox.php</page>
-<referer>http://vercanalestv.com/tv/nacionales/fox.html</referer>
+<page> http://player.livesports.pw/fox/</page>
+<referer>http://telefivegb.com/canales/series/fox</referer>
 </regex>
 <thumbnail>https://s1.postimg.org/2skb31g9dr/FOXGE.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
