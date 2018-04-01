@@ -137,7 +137,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://player.livesports.pw/motogp/</page>
+<page>http://bro.adca.st/stream/23965.html</page>
 <referer>http://telefivegb.com/canales/deporte/motogp/index2.html</referer>
 </regex>
 <thumbnail>https://s1.postimg.org/1mp50nwewv/MVMTGP.png</thumbnail>
