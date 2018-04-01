@@ -184,6 +184,19 @@
 </item>
 
 <item>
+<title>MOVISTAR XTRA</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://player.livesports.pw/mxtra/</page>
+<referer>http://telefivegb.com/canales/pelis/xtrem</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Movistar_Xtra.svg/1200px-Movistar_Xtra.svg.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>		
+</item>
+
+<item>
 <title>MOVISTAR DCINE</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
