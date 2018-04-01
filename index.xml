@@ -462,7 +462,7 @@
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
 <page>http://www.tvxpc.com/play/nick-junior-op4.php</page>
-<referer>http://www.tvxpc.com/play/nick-junior.php</referer>
+<referer>http://www.tvxpc.com/tv/general/nick-jr/</referer>
 </regex>
 <thumbnail>http://www.vectorsland.com/imgd/l41771-nick-jr-logo-48435.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
