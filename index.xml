@@ -98,7 +98,7 @@
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
 <page>hhttp://player.livesports.pw/beinlaliga/</page>
-<referer>http://verplusonline.com/bein-sport-laliga-espana/</referer>
+<referer>http://telefivegb.com/canales/deporte/beinlaliga/</referer>
 </regex>
 <thumbnail>https://static.beinconnect.es/uploads/comun/img/logos/bein-laliga-md.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
