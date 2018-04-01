@@ -540,7 +540,8 @@
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
 <page>http://player.livesports.pw/antena3/</page>
-<referer>http://telefivegb.com/canales/tdt/ant3/</referer>
+<referer>http://telefivegb.com/canales/tdt/ant3/
+ </referer>
 </regex>
 <thumbnail>http://www.karlitoway.co.uk/images/logo-antena3.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
