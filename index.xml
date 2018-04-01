@@ -326,6 +326,19 @@
 </item>
 
 <item>
+<title>DARK</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://player.livesports.pw/dark/</page>
+<referer>http://telefivegb.com/canales/pelis/dark</referer>
+</regex>
+<thumbnail>http://verplusonline.com/wp-content/uploads/2016/12/dark.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
 <title>la liga 123</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
