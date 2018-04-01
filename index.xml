@@ -97,8 +97,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>hhttp://player.livesports.pw/beinlaliga/</page>
-<referer>http://telefivegb.com/canales/deporte/beinlaliga/</referer>
+<page>http://player.livesports.pw/beinlaliga/</page>
+<referer>http://telefivegb.com/canales/deporte/beinlaliga/beinlaligallevar.html</referer>
 </regex>
 <thumbnail>https://static.beinconnect.es/uploads/comun/img/logos/bein-laliga-md.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
