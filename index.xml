@@ -467,7 +467,6 @@
 <thumbnail>http://www.vectorsland.com/imgd/l41771-nick-jr-logo-48435.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
- 
 
 <item>
 <title>DISNEY CHANNEL</title>
@@ -478,10 +477,9 @@
 <page>http://player.livesports.pw/disneychannel/</page>
 <referer>http://telefivegb.com/canales/animacion/disneychannel</referer>
 </regex>
-<thumbnail>http://dcbanners.weebly.com/uploads/9/7/8/2/9782867/4575037_orig.png</thumbnail>
+<thumbnail>https://img00.deviantart.net/22da/i/2016/343/f/b/disney_channel_logo_redesign_by_megamario99-dar2n4v.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
-
 
 <item>
 <title>BOING</title>
@@ -495,7 +493,6 @@
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
-
 
 <item>
 <title>NICKELODEON</title>
