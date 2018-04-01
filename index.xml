@@ -85,8 +85,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte.php?file=deportedos&width=650&height=397</page>
-<referer>http://verplusonline.com/ver-movistar-deporte-2-online/</referer>
+<page>http://vergol.com/live1/plusdeportes2.php</page>
+<referer>http://vercanalestv.com/tv/deportes/canal-plus-deportes-2.html</referer>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/langfr-280px-Movistar_Deportes_2.svg.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
