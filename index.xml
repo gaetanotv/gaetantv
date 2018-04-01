@@ -468,7 +468,47 @@
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
  
- 
+
+<item>
+<title>DISNEY CHANNEL</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://player.livesports.pw/disneychannel/</page>
+<referer>http://telefivegb.com/canales/animacion/disneychannel</referer>
+</regex>
+<thumbnail>http://player.livesports.pw/disneychannel/</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+
+<item>
+<title>BOING</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://player.livesports.pw/boing/</page>
+<referer>http://telefivegb.com/canales/animacion/boing</referer>
+</regex>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+
+<item>
+<title>NICKELODEON</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://player.livesports.pw/nickelon/</page>
+<referer>http://telefivegb.com/canales/animacion/nickelon</referer>
+</regex>
+<thumbnail>https://clarky7.files.wordpress.com/2013/10/nickelodeon_logo.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
  
  
  
