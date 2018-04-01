@@ -97,8 +97,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live3/beinliga.php</page>
-<referer>http://www.vercanalestv.com/ver-bein-sports-la-liga-en-directo-24h-online/</referer>
+<page>hhttp://player.livesports.pw/beinlaliga/</page>
+<referer>http://telefivegb.com/canales/deporte/beinlaliga/beinlaligallevar.html</referer>
 </regex>
 <thumbnail>https://static.beinconnect.es/uploads/comun/img/logos/bein-laliga-md.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
@@ -383,8 +383,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte.php?file=golesp&width=650&height=397</page>
-<referer>http://verplusonline.com/ver-gol-tv-online-gratis-vivo/</referer>
+<page>http://vergol.com/live1/goltv.php</page>
+<referer>http://cinestrenostv.tv/canales/deportes/multibein/canal1.html</referer>
 </regex>
 <thumbnail>http://michaelshuemaker.com/blog/new/gol-tv-online-live-3.jpg</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
