@@ -79,6 +79,7 @@
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
+
 <item>
 <title>MOVISTAR DEPORTES 2</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
