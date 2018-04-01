@@ -74,7 +74,7 @@
 <page>http://vergol.com/live1/plusdeportes1.php</page>
 <referer>http://www.vercanalestv.com/ver-canal-plus-deportes-online-y-en-directo-las-24-en-vivo/</referer>
 </regex>
-<thumbnail>https://s18.postimg.org/7l0tctyax/deportes1.png</thumbnail>
+<thumbnail>http://meteoalcorcon.es/1_0_19_7828_428_1_C00000_0_0_0.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
@@ -87,7 +87,7 @@
 <page>http://livesports.pw/embeddeporte.php?file=deportedos&width=650&height=397</page>
 <referer>http://verplusonline.com/ver-movistar-deporte-2-online/</referer>
 </regex>
-<thumbnail>https://s18.postimg.org/tq74xh4kp/deportes2.png</thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/langfr-280px-Movistar_Deportes_2.svg.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
@@ -126,7 +126,7 @@
 <page>http://vergol.com/live/plusdisney.php</page>
 <referer>http://www.vertelevisor.com/ver-movistar-disney-online-gratis-24h-por-internet/</referer>
 </regex>
-<thumbnail>https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBF4V3U.img</thumbnail>
+<thumbnail>http://verplusonline.com/wp-content/uploads/2017/12/disney.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item
 
