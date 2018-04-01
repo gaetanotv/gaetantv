@@ -48,7 +48,7 @@
 <page>http://player.livesports.pw/mseriesxtra/</page>
 <referer>http://telefivegb.com/canales/series/m_series_xtra</referer>
 </regex>
-<thumbnail>https://4.bp.blogspot.com/-yI8ULeguKEM/V6b5RiEYodI/AAAAAAAAAS0/lZdLO_GiC8Ia7SBne8jzqwxZDZEbWi2awCLcB/s1600/movistar-series-xtra.png</thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/d/db/Logo-series-xtra.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
@@ -334,7 +334,7 @@
 <page>http://player.livesports.pw/dark/</page>
 <referer>http://telefivegb.com/canales/pelis/dark</referer>
 </regex>
-<thumbnail>http://verplusonline.com/wp-content/uploads/2016/12/dark.png</thumbnail>
+<thumbnail>http://adminweb.onlycable.net/img/Canale/small/Buzz/Buzz_.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
