@@ -411,8 +411,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=nnba&width=650&height=397</page>
-<referer>http://verplusonline.com/ver-nba-online-gratis/</referer>
+<page>http://player.livesports.pw/nba/</page>
+<referer>http://telefivegb.com/canales/deporte/NBA/</referer>
 </regex>
 <thumbnail>https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
