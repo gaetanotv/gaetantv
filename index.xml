@@ -40,7 +40,6 @@
 </item>
 
 <item>
- 
 <title>Series xtra</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
