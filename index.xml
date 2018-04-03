@@ -59,7 +59,7 @@
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
 <page>http://cinestrenostv/canales/deportes/motogp.php</page>
-<referer>http://cinestrenostv.tv/tv/deportes/motogp3.html</referer>
+<referer>http://cinestrenostv.tv/canales/envivo/motogp.html</referer>
 </regex>
 <thumbnail>https://s1.postimg.org/1mp50nwewv/MVMTGP.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
