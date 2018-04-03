@@ -53,14 +53,9 @@
 </item>
 
 <item>
-<title>MOVISTAR MOTOGP</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://cinestrenostv/canales/deportes/motogp.php</page>
-<referer>http://cinestrenostv.tv/canales/envivo/motogp.html</referer>
-</regex>
+<title>MOTO GP</title>
+<sportsdevil>http://verdirectotv.com/tv/deportes/motogp3.html</sportsdevil>
+<referer>http://konectas.es/</referer>
 <thumbnail>https://s1.postimg.org/1mp50nwewv/MVMTGP.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
