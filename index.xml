@@ -19,8 +19,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live3/formula1.php</page>
-<referer>http://www.vertelevisor.com/ver-la-f1-online-en-directo-por-internet-formula-1-gratis/</referer>
+<page>http://bro.adca.st/stream/24116.html</page>
+<referer>http://verdirectotv.com/tv/deportes/formula1.html</referer>
 </regex>
 <thumbnail>https://s1.postimg.org/639ucfrwin/MVF1.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
@@ -59,7 +59,7 @@
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
 <page>http://bro.adca.st/stream/24007.html</page>
-<referer>http://verdirectotv.com/tv/deportes/motogp3.html</referer>
+<referer>http://cinestrenostv.tv/canales/envivo/motogp.html</referer>
 </regex>
 <thumbnail>https://s1.postimg.org/1mp50nwewv/MVMTGP.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
