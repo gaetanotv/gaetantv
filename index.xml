@@ -78,7 +78,6 @@
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
-
 <item>
 <title>MOVISTAR DEPORTES 2</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
@@ -99,7 +98,20 @@
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
 <page>http://player.livesports.pw/beinlaliga/</page>
-<referer>http://telefivegb.com/canales/deporte/beinlaliga/</referer>
+<referer>http://telefivegb.com/canales/deporte/beinlaliga/beinlaligallevar.html</referer>
+</regex>
+<thumbnail>https://static.beinconnect.es/uploads/comun/img/logos/bein-laliga-md.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>BEIN SPORTS</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://player.livesports.pw/beinsportesp/</page>
+<referer>http://telefivegb.com/canales/deporte/deporte2</referer>
 </regex>
 <thumbnail>https://static.beinconnect.es/uploads/comun/img/logos/bein-laliga-md.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
@@ -202,8 +214,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/dcine.php</page>
-<referer>http://www.vercanalestv.com/ver-canal-plus-dcine-en-vivo-y-online-por-internet-las-24h/</referer>
+<page>http://player.livesports.pw/mdine/</page>
+<referer>http://telefivegb.com/canales/pelis/dcinen</referer>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1200px-Movistar_DCine.svg.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
