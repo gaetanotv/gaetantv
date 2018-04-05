@@ -71,8 +71,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live1/plusdeportes1.php</page>
-<referer>http://www.vercanalestv.com/ver-canal-plus-deportes-online-y-en-directo-las-24-en-vivo/</referer>
+<page>http://player.livesports.pw/deporte1/</page>
+<referer>http://telefivegb.com/canales/deporte/deporte1</referer>
 </regex>
 <thumbnail>http://meteoalcorcon.es/1_0_19_7828_428_1_C00000_0_0_0.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
@@ -113,7 +113,20 @@
 <page>http://player.livesports.pw/beinsportesp/</page>
 <referer>http://telefivegb.com/canales/deporte/deporte2</referer>
 </regex>
-<thumbnail>https://static.beinconnect.es/uploads/comun/img/logos/bein-laliga-md.png</thumbnail>
+<thumbnail>https://beinmediagroup.com/wp-content/uploads/2015/03/beINSPORTS.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>MOVISTAR FUTBOL</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://player.livesports.pw/futbol/</page>
+<referer>http://telefivegb.com/canales/deporte/futbol/index2.html</referer>
+</regex>
+<thumbnail>http://vercanalestv.com/imagenes/movistar-futbol.jpg</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
