@@ -7,7 +7,7 @@
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
 <page>http://www.playerfs.com/hembedplayer/000LK/1/650/400</page>
-<referer>http://cinestrenostv.tv/canales/envivo/plus1.php</referer>
+<referer>http://cinestrenostv.tv/canales/envivo/plus1.html</referer>
 </regex>
 <thumbnail>https://s18.postimg.org/4vabhtjqx/cero.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
