@@ -52,18 +52,18 @@
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
-<!--item>
+<item>
 <title>MOVISTAR MOTOGP</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://bro.adca.st/stream/24007.html</page>
-<referer>http://verdirectotv.com/tv/deportes/motogp3.html</referer>
+<page>http://vergol.com/live3/motogp.php</page>
+<referer>http://vercanalestv.com/tv/deportes/motogp-multi.php</referer>
 </regex>
 <thumbnail>https://s1.postimg.org/1mp50nwewv/MVMTGP.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item-->
+</item>
 
 <item>
 <title>MOVISTAR DEPORTES 1 </title>
