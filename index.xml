@@ -3,12 +3,12 @@
 <item>
 <title>#0</title>
 <!--link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link-->
-<regex>
+<!--regex-->
 <!--name>GetPageUrl</name-->
 <!--expres>source: '(.*?)'</expres-->
 <sportdevil>http://www.playerfs.com/hembedplayer/000LK/1/650/400</sportdevil>
 <referer>http://cinestrenostv.tv</referer>
-</regex>
+<!--/regex-->
 <thumbnail>https://s18.postimg.org/4vabhtjqx/cero.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
