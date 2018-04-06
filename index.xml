@@ -15,13 +15,8 @@
 
 <item>
 <title>#0</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://player.livesports.pw/cero/</page>
+<sportdevil>http://player.livesports.pw/cero/</sportdevil>
 <referer>http://telefivegb.com.com/canales/pelis/movistar0/</referer>
-</regex>
 <thumbnail>https://s18.postimg.org/4vabhtjqx/cero.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
