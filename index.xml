@@ -6,8 +6,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://player.livesports.pw/cero/</page>
-<referer>http://telefivegb.com.com/canales/pelis/movistar0/</referer>
+<page>http://vergol.com/live/plus1.php</page>
+<referer>http://vercanalestv.com/tv/nacionales/canal-plus-1.html</referer>
 </regex>
 <thumbnail>https://s18.postimg.org/4vabhtjqx/cero.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
