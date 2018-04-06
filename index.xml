@@ -14,25 +14,17 @@
 </item>
 
 <item>
-<title>#0</title>
-<sportdevil>http://player.livesports.pw/cero/</sportdevil>
-<referer>http://telefivegb.com.com/canales/pelis/movistar0/</referer>
-<thumbnail>https://s18.postimg.org/4vabhtjqx/cero.png</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
-
-<!--item>
 <title>Formula 1</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://bro.adca.st/stream/24116.html</page>
-<referer>http://cinestrenostv.tv/canales/envivo/formula1.html</referer>
+<page>http://vergol.com/live3/formula1.php</page>
+<referer>http://vercanalestv.com/tv/deportes/formula1-multi.php</referer>
 </regex>
 <thumbnail>https://s1.postimg.org/639ucfrwin/MVF1.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item-->
+</item>
 
 <item>
 <title>Formula 1 OP.1</title>
