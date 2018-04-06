@@ -6,7 +6,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://www.playerfs.com/hembedplayer/000LK/1/650/400</page>
+<page>http://www.playerfs.com/hembedplayer/000LK/1/650/400/</page>
 <referer>http://verdirectotv.com/tv/digitales/plus.html</referer>
 </regex>
 <thumbnail>https://s18.postimg.org/4vabhtjqx/cero.png</thumbnail>
