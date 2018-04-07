@@ -39,6 +39,18 @@
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
+<!--item>
+<title>Formula 1 OP.2</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<sportdevil>http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/612/index.m3u8</sportdevil>
+<referer>http://telefivegb.com</referer>
+</regex>
+<thumbnail>https://s1.postimg.org/639ucfrwin/MVF1.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item-->
+
 <item>
 <title>Series xtra</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
