@@ -44,6 +44,7 @@
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
 <page>http://bro.adca.st/stream/24116.html</page>
 <referer>http://verdirectotv.com/tv/deportes/formula1.html</referer>
 </regex>
