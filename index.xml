@@ -39,18 +39,18 @@
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
-<item>
+<!--item>
 <title>Formula 1 OP.2</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
 <page>http://bro.adca.st/stream/24116.html</page>
-<referer>http://verdirectotv.com/tv/deportes/formula1.html</referer>
+<referer>http://cinestrenostv.tv/canales/envivo/formula1.html</referer>
 </regex>
 <thumbnail>https://s1.postimg.org/639ucfrwin/MVF1.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
+</item-->
 
 <item>
 <title>Series xtra</title>
