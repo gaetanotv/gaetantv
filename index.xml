@@ -560,6 +560,11 @@
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
+<item> 
+<title>NICK JR</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/515.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICK JR</link> 
+</item> 
+
 <item>
 <title>TELECINCO</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
