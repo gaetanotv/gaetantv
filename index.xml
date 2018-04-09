@@ -39,18 +39,10 @@
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
-<!--item>
-<title>Formula 1 OP.2</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://bro.adca.st/stream/24116.html</page>
-<referer>http://cinestrenostv.tv/canales/envivo/formula1.html</referer>
-</regex>
-<thumbnail>https://s1.postimg.org/639ucfrwin/MVF1.png</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item-->
+<item> 
+<title>M.FORMULA1HD</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/526.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.FORMULA1HD</link> 
+</item> 
 
 <item>
 <title>Series xtra</title>
