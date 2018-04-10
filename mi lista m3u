@@ -62,7 +62,7 @@ http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-b.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1,MOVISTAR DCINE
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1200px-Movistar_Series.svg.png",M+ Series Xtra HD
+#EXTINF:-1,M+ Series Xtra HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
 #EXTINF:-1,tvg-logo="http://vertelevisor.com/imagenes/movistar-accion.png", M+ Accion HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/576/index.m3u8
@@ -112,7 +112,7 @@ http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8
 http://enc-fwt.lorini.net/telet/telet/index.m3u8
 #EXTINF:-1,Series Xtra
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
-#EXTINF:-1,tvg-logo="http://vertelevisor.com/imagenes/movistar-accion.png", M+ Accion HD
+#EXTINF:-1,M+ Accion HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/576/index.m3u8
 #EXTINF:-1,tv
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/606/index.m3u8
@@ -144,9 +144,9 @@ http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/737/inde
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/733/index.m3u8
 #EXTINF:-1,Rai Sports
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/528/index.m3u8
-#EXTINF:-1,tvg-logo="http://vertelevisor.com/imagenes/movistar-accion.png", M+ Accion HD
+#EXTINF:-1,M+ Accion HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/605/index.m3u8
-#EXTINF:-1,tvg-logo="http://vertelevisor.com/imagenes/movistar-accion.png", M+ Accion HD
+#EXTINF:-1,M+ Accion HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/576/index.m3u8
 #EXTINF:-1,MOVISTAR COMEDIA
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/606/index.m3u8
