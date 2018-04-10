@@ -24,7 +24,7 @@
 <name>makelist</name>
 <listrepeat><![CDATA[
 <title>[COLOR gold][makelist.param1][/COLOR]</title>
-<thumbnail>[makelist.param4]</thumbnail>
+<thumbnail>https://i.imgur.com/85EcsKO.png</thumbnail>
 <sportsdevil>[makelist.param2]</sportsdevil>
 <referer>[makelist.param3]</referer>
 ]]></listrepeat>
