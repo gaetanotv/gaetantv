@@ -1,32 +1,32 @@
 #EXTM3U
  
-#EXTINF:-1,Nacional:La 1
+#EXTINF:-1,La 1
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
-#EXTINF:-1,Nacional:Antena 3
+#EXTINF:-1,Antena 3
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
-#EXTINF:-1,Nacional:Cuatro
+#EXTINF:-1,Cuatro
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
-#EXTINF:-1,Nacional:Telecinco
+#EXTINF:-1,Telecinco
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
-#EXTINF:-1,Nacional:La Sexta
+#EXTINF:-1,La Sexta
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
-#EXTINF:-1,Nacional:A3Series
+#EXTINF:-1,A3Series
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-#EXTINF:-1,Nacional:Nova
+#EXTINF:-1,Nova
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
-#EXTINF:-1,Nacional:Neox
+#EXTINF:-1,Neox
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-#EXTINF:-1,ESPAÑA:Telecinco
+#EXTINF:-1,Telecinco
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
-#EXTINF:-1,Nacional:Mega
+#EXTINF:-1,Mega
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
-#EXTINF:-1,Nacional:Be Mad TV
+#EXTINF:-1,Be Mad TV
 https://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_1.m3u8
-#EXTINF:-1,Nacional:Divinity
+#EXTINF:-1,Divinity
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
 #EXTINF:-1,ENERGY
 http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/558.m3u8
-#EXTINF:-1,Nacional:Real Madrid TV
+#EXTINF:-1,Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
 #EXTINF:-1,Mundo Auto TV
 https://593b04c4c5670.streamlock.net/8702/8702/chunklist.m3u8
@@ -42,12 +42,6 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/inde
 http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/189.m3u8
 #EXTINF:-1,Cine:[Movistar de cine]
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8
-#EXTINF:-1,Lancelot TV PELI
-http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
-#EXTINF:-1,Entretenimiento:Wow TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
-#EXTINF:-1,PERU:Top Latino
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
 #EXTINF:-1,FOX Life Spain
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/567/index.m3u8
 #EXTINF:-1,FOX Spain
@@ -58,13 +52,13 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/inde
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/566/index.m3u8
 #EXTINF:-1,beIN La Liga HD
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/index.m3u8
-#EXTINF:-1,Entretenimiento:Atres Series
+#EXTINF:-1,Atres Series
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-p.m3u8
 #EXTINF:-1,TNT Music (Opt-1)
 http://cdn-g.bonus-tv.ru:80/tntmusic/playlist.m3u8
-#EXTINF:-1,ESPAÑA:NEOX SERIES
+#EXTINF:-1,NEOX SERIES
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-#EXTINF:-1,ESPAÑA:NEOX
+#EXTINF:-1,NEOX
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-b.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1,MOVISTAR DCINE
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8
@@ -82,8 +76,6 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/inde
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/567/index.m3u8
 #EXTINF:-1,FOX Spain
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
-#EXTINF:-1,
-#EXTINF:-1 ,AXN White Spain
 #EXTINF:-1,AXN White Spain
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
 #EXTINF:-1,Movistar F1 opción 1
