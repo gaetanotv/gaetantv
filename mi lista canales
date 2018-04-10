@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+ 
+<item>
+<title>#0</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/plus1.php</page>
+<referer>http://vercanalestv.com/tv/nacionales/canal-plus-1.html</referer>
+</regex>
+<thumbnail>https://s18.postimg.org/4vabhtjqx/cero.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>Formula 1</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live3/formula1.php</page>
+<referer>http://vercanalestv.com/tv/deportes/formula1-multi.php</referer>
+</regex>
+<thumbnail>https://s1.postimg.org/639ucfrwin/MVF1.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>Formula 1 OP.1</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://player.livesports.pw/formulauno/</page>
+<referer>http://telefivegb.com/canales/deporte/F1/</referer>
+</regex>
+<thumbnail>https://s1.postimg.org/639ucfrwin/MVF1.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>Series xtra</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://player.livesports.pw/mseriesxtra/</page>
+<referer>http://telefivegb.com/canales/series/m_series_xtra</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/d/db/Logo-series-xtra.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+
+<item>
+<title>MOVISTAR DEPORTES 1 </title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://player.livesports.pw/deporte1/</page>
+<referer>http://telefivegb.com/canales/deporte/deporte1</referer>
+</regex>
+<thumbnail>http://meteoalcorcon.es/1_0_19_7828_428_1_C00000_0_0_0.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>MOVISTAR DEPORTES 2</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live1/plusdeportes2.php</page>
+<referer>http://vercanalestv.com/tv/deportes/canal-plus-deportes-2.html</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/langfr-280px-Movistar_Deportes_2.svg.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>BEIN SPORTS LA LIGA</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://player.livesports.pw/beinlaliga/</page>
+<referer>http://telefivegb.com/canales/deporte/beinlaliga/</referer>
+</regex>
+<thumbnail>https://static.beinconnect.es/uploads/comun/img/logos/bein-laliga-md.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>BEIN SPORTS</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://player.livesports.pw/beinsportesp/</page>
+<referer>http://telefivegb.com/canales/deporte/deporte2</referer>
+</regex>
+<thumbnail>https://beinmediagroup.com/wp-content/uploads/2015/03/beINSPORTS.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>MOVISTAR FUTBOL</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://player.livesports.pw/futbol/</page>
+<referer>http://telefivegb.com/canales/deporte/futbol/index2.html</referer>
+</regex>
+<thumbnail>http://vercanalestv.com/imagenes/movistar-futbol.jpg</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>LA LIGA TV</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://player.livesports.pw/ligatv/</page>
+<referer>http://telefivegb.com/canales/deporte/ligatvbar</referer>
+</regex>
+<thumbnail>http://cdn8.staztic.com/app/a/4766/4766724/la-liga-tv-official-12-b-512x250.jpg</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>MOVISTAR DISNEY</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/plusdisney.php</page>
+<referer>http://www.vertelevisor.com/ver-movistar-disney-online-gratis-24h-por-internet/</referer>
+</regex>
+<thumbnail>http://verplusonline.com/wp-content/uploads/2017/12/disney.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item
+
+<item>
+<title>MOVISTAR MOTOGP OP.1</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://player.livesports.pw/motogp/</page>
+<referer>http://telefivegb.com/canales/deporte/motogp/</referer>
+</regex>
+<thumbnail>https://s1.postimg.org/1mp50nwewv/MVMTGP.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>MOVISTAR MOTOGP OP.2</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live3/motogp.php</page>
+<referer>http://vercanalestv.com/tv/deportes/motogp-multi.php</referer>
+</regex>
+<thumbnail>https://s1.postimg.org/1mp50nwewv/MVMTGP.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>CALLE 13</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex> 
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://player.livesports.pw/calle13/</page>
+<referer>http://telefivegb.com/canales/pelis/calle13</referer>
+</regex> 
+<thumbnail>http://domingomartinez.com/bitacora/wp-content/media/captura-de-pantalla-2013-05-24-a-las-012543-300x296.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>MOVISTAR ACCION</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/plusaccion.php</page>
+<referer>http://www.vercanalestv.com/ver-canal-plus-accion-online-y-en-directo-gratis-las-24h-por-internet/</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1575px-Movistar_Acci%C3%B3n.svg.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>MOVISTAR COMEDIA</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/comedia.php</page>
+<referer>http://www.vercanalestv.com/ver-canal-plus-comedia-online-y-en-directo-gratis-las-24h-por-internet/</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>		
+</item>
+
+<item>
+<title>MOVISTAR XTRA</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://player.livesports.pw/mxtra/</page>
+<referer>http://telefivegb.com/canales/pelis/xtrem</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Movistar_Xtra.svg/1200px-Movistar_Xtra.svg.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>		
+</item>
+
+<item>
+<title>MOVISTAR DCINE</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://player.livesports.pw/mdine/</page>
+<referer>http://telefivegb.com/canales/pelis/dcinen</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1200px-Movistar_DCine.svg.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>MOVISTAR ESTRENOS</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/plusestrenos.php</page>
+<referer>http://www.vercanalestv.com/ver-canal-plus-estrenos-en-directo-y-online-las-24h/</referer>
+</regex>
+<thumbnail>https://i0.wp.com/diariomnipresente.com/wp-content/uploads/2016/09/Star-Wars-Movistar-Estrenos.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>MOVISTAR SERIES</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live1/plusseries.php</page>
+<referer>http://verdirectotv.com/tv/digitales/plus-series.html</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1200px-Movistar_Series.svg.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>AXN</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://player.livesports.pw/axn/</page>
+<referer>http://telefivegb.com/canales/series/axn</referer>
+</regex>
+<thumbnail>https://s1.postimg.org/36bfk3pgbz/AXN.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>	
+</item>
+
+<item>
+<title>FOX</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://player.livesports.pw/fox/</page>
+<referer>http://telefivegb.com/canales/series/fox</referer>
+</regex>
+<thumbnail>https://s1.postimg.org/2skb31g9dr/FOXGE.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>FOX LIFE</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/foxlife.php</page>
+<referer>http://verdirectotv.com/tv/nacionales/foxlife.html</referer>
+</regex>
+<thumbnail>https://s1.postimg.org/9ouny4hd7j/FOXCR.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>HOLLYWOOD</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://player.livesports.pw/hollywood/</page>
+<referer>http://telefivegb.com/canales/pelis/hollywood</referer>
+</regex>
+<thumbnail>https://s1.postimg.org/4y6wx0v2lr/HOLLYW.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>MTV</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/mtv.php</page>
+<referer>http://vercanalestv.com/tv/nacionales/mtv.html</referer>
+</regex>
+<thumbnail>https://s1.postimg.org/68nwsy25yn/MTV.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>SYFY</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/syfy.php</page>
+<referer>http://vercanalestv.com/tv/nacionales/mtv.html</referer>
+</regex>
+<thumbnail>https://s1.postimg.org/9tj8l1coyn/SCI-_FI.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>TCM</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/tcm.php</page>
+<referer>http://www.vercanalestv.com/ver-canal-tcm-online-gratis-24h-por-internet/</referer>
+</regex>
+<thumbnail>https://s1.postimg.org/90tlp4efq7/TCM.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>TNT</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/tnt.php</page>
+<referer>http://www.vercanalestv.com/ver-tnt-online-en-directo-gratis-24h-por-internet/</referer>
+</regex>
+<thumbnail>https://s1.postimg.org/1pyn4584rj/TNT.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>DARK</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://player.livesports.pw/dark/</page>
+<referer>http://telefivegb.com/canales/pelis/dark</referer>
+</regex>
+<thumbnail>http://adminweb.onlycable.net/img/Canale/small/Buzz/Buzz_.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>AMC</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://player.livesports.pw/amc/</page>
+<referer>http://telefivegb.com/canales/pelis/amc</referer>
+</regex>
+<thumbnail>https://pmcvariety.files.wordpress.com/2013/11/amc-logo.jpg</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>la liga 123</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live3/liga123.php</page>
+<referer>http://verliga.net/live/verliga11.php</referer>
+</regex>
+<thumbnail>http://static.goltelevision.com/uploads/gol/web/img/logos/laliga-123-lg-v.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+1/OpenSport<title>La liga 123 multi 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://primitivos.mine.nu:8000/live/Juanignaciovalver/A9FR12om5M/13571.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="LaLiga 123 TV HD Multi 1/OpenSport" tvg-logo="" group-title="DIRECTO"LaLiga 123 TV HD Multi 1/OpenSport</link> 
+ 
+<item>
+<title>El Partidazo</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live3/beinliga.php</page>
+<referer>http://www.vercanalestv.com/ver-canal-plus-partidazo-online-y-directo-gratis/</referer>
+</regex>
+<thumbnail>http://vercanalestv.com/imagenes/movistar-partidazo.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>Gol Tv</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://player.livesports.pw/goltv/</page>
+<referer>http://telefivegb.com/canales/deporte/goltv</referer>
+</regex>
+<thumbnail>http://michaelshuemaker.com/blog/new/gol-tv-online-live-3.jpg</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+ 
+<item>
+<title>NBA ONLINE</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://player.livesports.pw/nba/</page>
+<referer>http://telefivegb.com/canales/deporte/NBA/
+ </referer>
+</regex>
+<thumbnail>https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+ 
+<item>
+<title>HISTORIA</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://player.livesports.pw/historia/</page>
+<referer>http://telefivegb.com/canales/documental/historia</referer>
+</regex>
+<thumbnail>http://pmcdeadline2.files.wordpress.com/2014/05/history_channel_logo__140523153130.jpeg</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+ 
+<item>
+<title>NATIONAL GEOGRAFIC</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://player.livesports.pw/natgeo/</page>
+<referer>http://telefivegb.com/canales/documental/natgeo</referer>
+</regex>
+<thumbnail>http://famouslogos.net/images/national-geographic-logo.jpg</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>DISCOVERY CHANNEL</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://player.livesports.pw/discoverychannel/</page>
+<referer>http://telefivegb.com/canales/documental/discoverychannel</referer>
+</regex>
+<thumbnail>http://mymutual.files.wordpress.com/2010/06/discovery_channel_logo-800w_600h.jpg</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>ODISEA</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://player.livesports.pw/odisea/</page>
+<referer>http://telefivegb.com/canales/documental/odisea</referer>
+</regex>
+<thumbnail>https://s1.postimg.org/4er6ix5jqn/ODISEA.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<!--item>
+<title>NICK JR</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://www.tvxpc.com/play/nick-junior-op4.php</page>
+<referer>http://www.tvxpc.com/tv/general/nick-jr/</referer>
+</regex>
+<thumbnail>http://www.vectorsland.com/imgd/l41771-nick-jr-logo-48435.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item-->
+
+<item>
+<title>DISNEY CHANNEL</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://player.livesports.pw/disneychannel/</page>
+<referer>http://telefivegb.com/canales/animacion/disneychannel</referer>
+</regex>
+<thumbnail>https://img00.deviantart.net/22da/i/2016/343/f/b/disney_channel_logo_redesign_by_megamario99-dar2n4v.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>BOING</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://player.livesports.pw/boing/</page>
+<referer>http://telefivegb.com/canales/animacion/boing</referer>
+</regex>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>NICKELODEON</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://player.livesports.pw/nickelon/</page>
+<referer>http://telefivegb.com/canales/animacion/nickelon</referer>
+</regex>
+<thumbnail>https://clarky7.files.wordpress.com/2013/10/nickelodeon_logo.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item> 
+<title>NICK JR</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/515.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICK JR</link> 
+</item> 
+
+<item>
+<title>TELECINCO</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://player.livesports.pw/telecinco/</page>
+<referer>http://telefivegb.com/canales/tdt/telecinco</referer>
+</regex>
+<thumbnail>https://www.ono.es/ono-resources/img/products-web/logos_parrilla_tv/img_logo_telecinco.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>CUATRO</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://player.livesports.pw/cuatro/</page>
+<referer>http://telefivegb.com/canales/tdt/cuatro</referer>
+</regex>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/b/b2/Cuatro_HD2012.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>ANTENA3</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://player.livesports.pw/antena3/</page>
+<referer>http://telefivegb.com/canales/tdt/ant3/
+ </referer>
+</regex>
+<thumbnail>http://www.karlitoway.co.uk/images/logo-antena3.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
+<title>SEXTA</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://player.livesports.pw/sexta/</page>
+<referer>http://telefivegb.com/canales/tdt/sexta</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/La_Sexta.svg/966px-La_Sexta.svg.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+
+
+ 
+ 
+
+ 
