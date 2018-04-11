@@ -138,8 +138,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/plusdisney.php</page>
-<referer>http://www.vertelevisor.com/ver-movistar-disney-online-gratis-24h-por-internet/</referer>
+<page>http://player.livesports.pw/mdisney/</page>
+<referer>http://telefivegb.com/canales/animacion/mdisney</referer>
 </regex>
 <thumbnail>http://verplusonline.com/wp-content/uploads/2017/12/disney.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
