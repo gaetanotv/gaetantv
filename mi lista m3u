@@ -68,16 +68,6 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/inde
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/576/index.m3u8
 #EXTINF:-1,M+ Comedia
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/606/index.m3u8
-#EXTINF:-1,M+ DCine
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/607/index.m3u8
-#EXTINF:-1,M+ Xtra
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
-#EXTINF:-1,FOX Life Spain
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/567/index.m3u8
-#EXTINF:-1,FOX Spain
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
-#EXTINF:-1,AXN White Spain
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
 #EXTINF:-1,Movistar F1 opción 1
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
 #EXTINF:-1,Movistar F1 opción 2
@@ -96,14 +86,6 @@ http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/574/inde
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8
 #EXTINF:-1,LaLiga TV opción 1
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
-#EXTINF:-1,Bein Sports Ñ Latino
-http://192.99.39.218:25461/live/arodriguez/arodriguez/5768.ts
-#EXTINF:-1,beIN Sports Opción 1
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/566/index.m3u8
-#EXTINF:-1,Bein Sports Opción 2
-http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/566/index.m3u8
-#EXTINF:-1,beIN Sports Opción 4
-http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/566/index.m3u8
 #EXTINF:-1,Movistar Fútbol
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
 #EXTINF:-1,ESPAÑA:8 TV
@@ -114,28 +96,6 @@ http://enc-fwt.lorini.net/telet/telet/index.m3u8
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
 #EXTINF:-1,M+ Accion HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/576/index.m3u8
-#EXTINF:-1,tv
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/606/index.m3u8
-#EXTINF:-1,M+ DCine
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/607/index.m3u8
-#EXTINF:-1,FOX Life Spain
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/567/index.m3u8
-#EXTINF:-1,FOX Spain
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
-#EXTINF:-1,Hollywood HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/index.m3u8
-#EXTINF:-1,AXN White Spain
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
-#EXTINF:-1,FilmBox Premium
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/552/index.m3u8
-#EXTINF:-1,FilmBox Arthouse
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/480/index.m3u8
-#EXTINF:-1,FilmBox
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/948/index.m3u8
-#EXTINF:-1,FilmBox Action
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/554/index.m3u8
-#EXTINF:-1,CBS Action
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/405/index.m3u8
 #EXTINF:-1,Eurosport 2 HD
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/77/index.m3u8
 #EXTINF:-1,Sky Sports 1 DE
@@ -146,10 +106,6 @@ http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/733/inde
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/528/index.m3u8
 #EXTINF:-1,M+ Accion HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/605/index.m3u8
-#EXTINF:-1,M+ Accion HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/576/index.m3u8
-#EXTINF:-1,MOVISTAR COMEDIA
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/606/index.m3u8
 #EXTINF:-1,AXN
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/610/index.m3u8
 #EXTINF:-1,AXN HD
@@ -158,18 +114,12 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/inde
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
 #EXTINF:-1,AMC HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/614/index.m3u
-#EXTINF:-1,FOX LIFE
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/601/index.m3u8
-#EXTINF:-1,FOX LIFE HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/567/index.m3u8
 #EXTINF:-1,AXN WHITE
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/index.m3u8
 #EXTINF:-1,FOX
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/608/index.m3u8
 #EXTINF:-1,Cosmo Spain
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8
-#EXTINF:-1,beIN Sports ES HD
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/566/index.m3u8
 #EXTINF:-1,beIN La Liga HD
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/index.m3u8
 #EXTINF:-1,La Liga TV HD
@@ -194,38 +144,16 @@ http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/616/inde
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/617/index.m3u8
 #EXTINF:-1,La Sexta HD
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/618/index.m3u8
-#EXTINF:-1,Telesur HD
-http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/803/index.m3u8
-#EXTINF:-1,FOX
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/608/index.m3u8
-#EXTINF:-1,AXN
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/610/index.m3u8
-#EXTINF:-1,AXN HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8
 #EXTINF:-1,COMEDY CENTRAL HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
 #EXTINF:-1,AMC HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/614/index.m3u8
-#EXTINF:-1,FOX LIFE
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/601/index.m3u8
-#EXTINF:-1,FOX LIFE HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/567/index.m3u8
-#EXTINF:-1,AXN WHITE
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/index.m3u8
 #EXTINF:-1,ATRESERIES HD
 http://a3live-lh.akamaihd.net:80/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8
-#EXTINF:-1,MOVISTAR ACCION
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/605/index.m3u8
-#EXTINF:-1,MOVISTAR ACCION HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/576/index.m3u8
-#EXTINF:-1,MOVISTAR COMEDIA
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/606/index.m3u8
 #EXTINF:-1,MOVISTAR COMEDIA HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/580/index.m3u8
 #EXTINF:-1,MOVISTAR DCINE
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8
-#EXTINF:-1,HOLLYWOOD HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/577/index.m3u8
 #EXTINF:-1,MOVISTAR FUTBOL HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/index.m3u8
 #EXTINF:-1,BEIN SPORTS LALIGA HD
@@ -238,15 +166,12 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/612/inde
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/index.m3u8
 #EXTINF:-1,CUATRO HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/616/index.m3u8
-#EXTINF:-1,TELECINCO
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/617/index.m3u8
 #EXTINF:-1,TELECINCO HD
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/617/index.m3u8
 #EXTINF:-1,LA SEXTA HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/618/index.m3u8
 #EXTINF:-1,#0
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/611/index.m3u8
-#EXTINF:-1,REAL MADRID TV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1200px-Movistar_Series.svg.png",M+ Series Xtra HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
