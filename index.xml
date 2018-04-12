@@ -16,7 +16,7 @@
 <externallink>https://raw.githubusercontent.com/gaetanotv/gaetantv/master/mi%20lista%20m3u</externallink> 
 <item>
  
-<item>
+<!--item>
 <title>[COLOR red] _*_  [/COLOR][COLOR red] CANALES TV Sportdevil [/COLOR] [COLOR red] _*_  [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <thumbnail>https://i.imgur.com/85EcsKO.png</thumbnail>
@@ -34,7 +34,7 @@
 <expres><![CDATA[canal:"(.*?)" url:"(.*?)" referer:"(.*?)" logo:"(.*?)";]]></expres>
 <page>https://pastebin.com/raw/aZCiPcM7</page>
 </regex>
-</item>
+</item-->
 
 <item>
 <title>[COLOR lime]SPORT365[/COLOR] [COLOR white](CLICAR AQUI)[/COLOR]</title>
