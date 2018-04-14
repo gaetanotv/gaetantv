@@ -83,10 +83,10 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 #EXTINF:-1 tvg-logo="",liga 123
 http://xxedge509.livesports.pw/live/liga123/chunklist.m3u8
 #EXTINF:-1,NICK JR
-http://hackveneno.tk/Play!TV1.4.1/StreamON/Channels/nickjr-q3.php?index.m3u
+http://hackveneno.tk/Play!TV1.4.1/StreamON/Channels/nickjr-q3.php?index.m3u8
 #EXTINF:-1,ES:MOVISTAR DISNEY
 http://applive.online:25461/live/4JUnQNNm9N/7nH8xbbMRD/2774.ts
 #EXTINF:-1,ES:MOVISTAR ESTRENOS
-http://applive.online:25461/live/4JUnQNNm9N/7nH8xbbMRD/17.ts
+http://applive.online:25461/live/4JUnQNNm9N/7nH8xbbMRD/index.m3u8
 
 
