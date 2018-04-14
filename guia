@@ -84,6 +84,8 @@ http://109.102.254.246:8000/live/zBp88Y4fQt/O0GClw5N4F/3574.m3u8
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/611/index.m3u8
 #EXTINF:-1 tvg-name="Anime TV" tvg-logo="http://www.imperioanime.com/wp-content/uploads/2011/06/TVavatar.png",Anime TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:-1,MOVISTAR FightBox
+http://hls.redefine.pl/ECD95B41/1573/0/hls720/masterlist.m3u8
 #EXTINF:-1,MOVISTAR DISNEY
 http://applive.online:25461/live/4JUnQNNm9N/7nH8xbbMRD/2774.ts
 #EXTINF:-1,MOVISTAR ESTRENOS
