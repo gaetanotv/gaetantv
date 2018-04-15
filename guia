@@ -98,5 +98,7 @@ http://109.102.254.246:8000/live/zBp88Y4fQt/O0GClw5N4F/3557.m3u8
 http://109.102.254.246:8000/live/zBp88Y4fQt/O0GClw5N4F/3552.m3u8
 #EXTINF:-1,DISCOVERY 
 http://109.102.254.246:8000/live/zBp88Y4fQt/O0GClw5N4F/6204.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ma9Kz5T.png" group-title="DEPORTES", Box Nation
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/316/index.m3u8
 
 
