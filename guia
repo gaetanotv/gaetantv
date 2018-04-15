@@ -23,7 +23,7 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/inde
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/11151/logo_canal%20hollywood3.png",Hollywood
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png", Movistar Comedia
-http://10gbs.edgelink.ovh:8000/live/dosdispositivos/smartv.kodi/189.m3u8
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/606/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1200px-Movistar_DCine.svg.png", Movistar DCine
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8
 #EXTINF:-1 tvg-logo="http://dshm.tmsimg.com/h5/NowShowing/49263/s49263_h5_aa.png",Fox Life
@@ -43,7 +43,7 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/inde
 #EXTINF:-1 tvg-logo="",Comedy Central
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VTeboaN.png",beIN SPORTS
-http://109.102.254.246:8000/live/zBp88Y4fQt/O0GClw5N4F/6205.m3u8
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8 
 #EXTINF:-1 tvg-logo="https://static.beinconnect.es/uploads/comun/img/logos/bein-laliga-md.png",Bein LaLiga 
 http://playlist.onlybhttps://static.beinconnect.es/uploads/comun/img/logos/bein-laliga-md.pngest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1200px-Movistar_Series.svg.png",Movistar Series Xtra 
@@ -75,7 +75,7 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/inde
 #EXTINF:-1 tvg-logo="",Eurosport 2 HD
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/77/index.m3u8
 #EXTINF:-1 tvg-logo="https://s1.postimg.org/639ucfrwin/MVF1.png",Movistar Fórmula 1
-ttp://109.102.254.246:8000/live/zBp88Y4fQt/O0GClw5N4F/3589.m3u8
+http://109.102.254.246:8000/live/zBp88Y4fQt/O0GClw5N4F/3589.m3u8
 #EXTINF:-1 tvg-logo="https://s1.postimg.org/1mp50nwewv/MVMTGP.png",Movistar Moto GP 
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/613/index.m3u8
 #EXTINF:-1 tvg-logo="",Movistar Golf 
@@ -89,9 +89,9 @@ http://hls.redefine.pl/ECD95B41/1573/0/hls720/masterlist.m3u8
 #EXTINF:-1,MOVISTAR DISNEY
 http://applive.online:25461/live/4JUnQNNm9N/7nH8xbbMRD/2774.ts
 #EXTINF:-1,MOVISTAR ESTRENOS
-http://109.102.254.246:8000/live/zBp88Y4fQt/O0GClw5N4F/3580.m3u8
-#EXTINF:-1,Nat Geograph 
-http://109.102.254.246:8000/live/zBp88Y4fQt/O0GClw5N4F/3551.m3u8
+http://iptvdosogro.cloudns.cx:8585/live/hugo.miller@gmail.com/hugo.miller@gmail.com/9808.ts
+#EXTINF:-1,Nick jr
+http://iptvdosogro.cloudns.cx:8585/live/hugo.miller@gmail.com/hugo.miller@gmail.com/9688.ts
 #EXTINF:-1,Historia 
 http://109.102.254.246:8000/live/zBp88Y4fQt/O0GClw5N4F/3557.m3u8
 #EXTINF:-1,Nat Geo Wild 
