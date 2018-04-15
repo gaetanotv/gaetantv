@@ -54,17 +54,17 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/inde
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/576/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Movistar_Xtra.svg/1200px-Movistar_Xtra.svg.png", Movistar Xtra
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
-#EXTINF:-1 tvg-logo="https://s1.postimg.org/639ucfrwin/MVF1.png",Movistar Fórmula 1
+#EXTINF:-1 tvg-logo="http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png",Movistar Fórmula 1
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
-#EXTINF:-1 tvg-logo="https://s1.postimg.org/639ucfrwin/MVF1.png",Movistar Fórmula 1 
+#EXTINF:-1 tvg-logo="http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png",Movistar Fórmula 1 
 http://iptvdosogro.cloudns.cx:8585/live/hugo.miller@gmail.com/hugo.miller@gmail.com/9720.ts
-#EXTINF:-1 tvg-logo="https://s1.postimg.org/639ucfrwin/MVF1.png",Movistar Fórmula 1 
+#EXTINF:-1 tvg-logo="http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png",Movistar Fórmula 1 
 http://iptvdosogro.cloudns.cx:8585/live/hugo.miller@gmail.com/hugo.miller@gmail.com/9728.ts
-#EXTINF:-1 tvg-logo="https://s1.postimg.org/1mp50nwewv/MVMTGP.png",Movistar Moto GP 
+#EXTINF:-1 tvg-logo="http://todotele.com/wp-content/uploads/2016/04/movistar-motoGP-logo.png",Movistar Moto GP 
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
-#EXTINF:-1 tvg-logo="https://s1.postimg.org/1mp50nwewv/MVMTGP.png",Movistar Moto GP 
+#EXTINF:-1 tvg-logo="http://todotele.com/wp-content/uploads/2016/04/movistar-motoGP-logo.png",Movistar Moto GP 
 http://iptvdosogro.cloudns.cx:8585/live/hugo.miller@gmail.com/hugo.miller@gmail.com/9725.ts
-#EXTINF:-1 tvg-logo="https://s1.postimg.org/1mp50nwewv/MVMTGP.png",Movistar Moto GP
+#EXTINF:-1 tvg-logo="http://todotele.com/wp-content/uploads/2016/04/movistar-motoGP-logo.png",Movistar Moto GP
 http://iptvdosogro.cloudns.cx:8585/live/hugo.miller@gmail.com/hugo.miller@gmail.com/9717.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VTeboaN.png",beIN SPORTS
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8 
@@ -86,9 +86,9 @@ http://iptvdosogro.cloudns.cx:8585/live/hugo.miller@gmail.com/hugo.miller@gmail.
 http://iptvdosogro.cloudns.cx:8585/live/hugo.miller@gmail.com/hugo.miller@gmail.com/9729.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Eurosport_2_Logo.jpg",Eurosport 2 HD
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/77/index.m3u8
-#EXTINF:-1 tvg-logo="https://s1.postimg.org/639ucfrwin/MVF1.png",Movistar Fórmula 1
+#EXTINF:-1 tvg-logo="http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png",Movistar Fórmula 1
 http://109.102.254.246:8000/live/zBp88Y4fQt/O0GClw5N4F/3589.m3u8
-#EXTINF:-1 tvg-logo="https://s1.postimg.org/1mp50nwewv/MVMTGP.png",Movistar Moto GP 
+#EXTINF:-1 tvg-logo="http://todotele.com/wp-content/uploads/2016/04/movistar-motoGP-logo.png",Movistar Moto GP 
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/613/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/120px-Movistar_Golf.svg.png",Movistar Golf 
 http://109.102.254.246:8000/live/zBp88Y4fQt/O0GClw5N4F/3574.m3u8
