@@ -28,13 +28,13 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/567/inde
 http://iptvdosogro.cloudns.cx:8585/live/hugo.miller@gmail.com/hugo.miller@gmail.com/9783.ts
 #EXTINF:-1 tvg-logo="https://s1.postimg.org/36bfk3pgbz/AXN.png",AXN
 http://iptvdosogro.cloudns.cx:8585/live/hugo.miller@gmail.com/hugo.miller@gmail.com/9806.ts
-#EXTINF:-1,Calle 13
+#EXTINF:-1 tvg-logo="http://domingomartinez.com/bitacora/wp-content/media/captura-de-pantalla-2013-05-24-a-las-012543-300x296.png",Calle 13
 http://iptvdosogro.cloudns.cx:8585/live/hugo.miller@gmail.com/hugo.miller@gmail.com/9781.ts
-#EXTINF:-1 tvg-logo="",Tnt
+#EXTINF:-1 tvg-logo="https://s1.postimg.org/1pyn4584rj/TNT.png",Tnt
 http://iptvdosogro.cloudns.cx:8585/live/hugo.miller@gmail.com/hugo.miller@gmail.com/9781.ts
 #EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2013/11/amc-logo.jpg",AMC
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/614/index.m3u
-#EXTINF:-1,Syfy 
+#EXTINF:-1 tvg-logo="https://s1.postimg.org/9tj8l1coyn/SCI-_FI.png",Syfy 
 http://iptvdosogro.cloudns.cx:8585/live/hugo.miller@gmail.com/hugo.miller@gmail.com/9787.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/1200px-Cosmo_TV_logo.svg.png",Cosmo
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8
@@ -42,7 +42,7 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/inde
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
 #EXTINF:-1 tvg-logo="https://s18.postimg.org/4vabhtjqx/cero.png",#0
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/611/index.m3u8
-#EXTINF:-1,MOVISTAR ESTRENOS
+#EXTINF:-1 tvg-logo="https://i0.wp.com/diariomnipresente.com/wp-content/uploads/2016/09/Star-Wars-Movistar-Estrenos.png",Movistar Estrenos
 http://iptvdosogro.cloudns.cx:8585/live/hugo.miller@gmail.com/hugo.miller@gmail.com/9808.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1200px-Movistar_Series.svg.png",Movistar Series Xtra 
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
@@ -80,9 +80,9 @@ http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/inde
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
 #EXTINF:-1 tvg-logo="http://vercanalestv.com/imagenes/movistar-futbol.jpg",Movistar Fútbol
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
-#EXTINF:-1 tvg-logo="",Movistar Deportes 1
+#EXTINF:-1 tvg-logo="http://meteoalcorcon.es/1_0_19_7828_428_1_C00000_0_0_0.png",Movistar Deportes 1
 http://iptvdosogro.cloudns.cx:8585/live/hugo.miller@gmail.com/hugo.miller@gmail.com/9712.ts
-#EXTINF:-1 tvg-logo="",Movistar Deportes 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/langfr-280px-Movistar_Deportes_2.svg.png",Movistar Deportes 2
 http://iptvdosogro.cloudns.cx:8585/live/hugo.miller@gmail.com/hugo.miller@gmail.com/9729.ts
 #EXTINF:-1 tvg-logo="",Eurosport 2 HD
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/77/index.m3u8
