@@ -7,8 +7,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://player.livesports.pw/cero/</page>
-<referer>http://verplusonline.com/ver-canal-plus0-hd-online-gratis-vivo/</referer>
+<page>http://livesports.pw/embedna.php?file=movistarcero&width=650&height=397</page>
+<referer>http://telefivegb.com/canales/pelis/movistar0/</referer>
 </regex>
 <thumbnail>https://s18.postimg.org/4vabhtjqx/cero.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
@@ -46,7 +46,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://player.livesports.pw/mseriesxtra/</page>
+<page>http://livesports.pw/embedna.php?file=movistarseriesxtra&width=650&height=397</page>
 <referer>http://telefivegb.com/canales/series/m_series_xtra</referer>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/d/db/Logo-series-xtra.png</thumbnail>
@@ -60,7 +60,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://player.livesports.pw/deporte1/</page>
+<page>http://livesports.pw/embeddeporte.php?file=deporteone&width=650&height=397</page>
 <referer>http://telefivegb.com/canales/deporte/deporte1</referer>
 </regex>
 <thumbnail>http://meteoalcorcon.es/1_0_19_7828_428_1_C00000_0_0_0.png</thumbnail>
