@@ -270,7 +270,7 @@
 <page>http://livesports.pw/embedna.php?file=axn&width=650&height=397</page>
 <referer>http://telefivegb.com/canales/series/axn</referer>
 </regex>
-<thumbnail>https://s1.postimg.org/36bfk3pgbz/AXN.png</thumbnail>
+<thumbnail>http://4.bp.blogspot.com/-6TCNxaYMCHg/TdUHkmTKX7I/AAAAAAAAAyo/yBfpTQ-02JQ/s1600/HighResLogo_RGB.jpg</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>	
 </item>
 
@@ -283,7 +283,7 @@
 <page>http://livesports.pw/embedna.php?file=foxespana&width=650&height=397</page>
 <referer>http://telefivegb.com/canales/series/fox</referer>
 </regex>
-<thumbnail>https://s1.postimg.org/2skb31g9dr/FOXGE.png</thumbnail>
+<thumbnail>http://dshm.tmsimg.com/h5/NowShowing/75423/s75423_h5_aa.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
@@ -296,7 +296,7 @@
 <page>http://vergol.com/live/foxlife.php</page>
 <referer>http://verdirectotv.com/tv/nacionales/foxlife.html</referer>
 </regex>
-<thumbnail>https://s1.postimg.org/9ouny4hd7j/FOXCR.png</thumbnail>
+<thumbnail>https://dash.mediaupdate.co.za/story/image/121261/121261_t.jpg</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
@@ -309,7 +309,7 @@
 <page>http://livesports.pw/embedna.php?file=hollywoodesp&width=650&height=397/</page>
 <referer>http://telefivegb.com/canales/pelis/hollywood</referer>
 </regex>
-<thumbnail>https://s1.postimg.org/4y6wx0v2lr/HOLLYW.png</thumbnail>
+<thumbnail>https://ulango.tv/uploads/channels/11151/logo_canal%20hollywood3.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
@@ -335,7 +335,7 @@
 <page>http://vergol.com/live/syfy.php</page>
 <referer>http://vercanalestv.com/tv/nacionales/mtv.html</referer>
 </regex>
-<thumbnail>https://s1.postimg.org/9tj8l1coyn/SCI-_FI.png</thumbnail>
+<thumbnail>https://i0.wp.com/media2.slashfilm.com/slashfilm/wp/wp-content/images/Syfy-new-logo.jpg</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
@@ -361,7 +361,7 @@
 <page>http://vergol.com/live/tnt.php</page>
 <referer>http://www.vercanalestv.com/ver-tnt-online-en-directo-gratis-24h-por-internet/</referer>
 </regex>
-<thumbnail>https://s1.postimg.org/1pyn4584rj/TNT.png</thumbnail>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/46/88/e6/4688e66e78ed451e0d55733386ead24d.jpg</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
