@@ -322,7 +322,7 @@
 <page>http://vergol.com/live/mtv.php</page>
 <referer>http://vercanalestv.com/tv/nacionales/mtv.html</referer>
 </regex>
-<thumbnail>https://s1.postimg.org/68nwsy25yn/MTV.png</thumbnail>
+<thumbnail>http://www.disruptivedigitalmarketing.com/wp-content/uploads/2015/07/mtv-logo.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
@@ -348,7 +348,7 @@
 <page>http://vergol.com/live/tcm.php</page>
 <referer>http://www.vercanalestv.com/ver-canal-tcm-online-gratis-24h-por-internet/</referer>
 </regex>
-<thumbnail>https://s1.postimg.org/90tlp4efq7/TCM.png</thumbnail>
+<thumbnail>http://img.zanda.com/item/93090250000007/1024x768/TCM_logo.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
@@ -499,7 +499,7 @@
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
-<!--item>
+<item>
 <title>NICK JR</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
@@ -508,9 +508,9 @@
 <page>http://www.tvxpc.com/play/nick-junior-op4.php</page>
 <referer>http://www.tvxpc.com/tv/general/nick-jr/</referer>
 </regex>
-<thumbnail>http://www.vectorsland.com/imgd/l41771-nick-jr-logo-48435.png</thumbnail>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/92/d3/67/92d367188454874297c67bf1bdd9bf8e.jpg</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item-->
+</item>
 
 <item>
 <title>DISNEY CHANNEL</title>
@@ -550,11 +550,6 @@
 <thumbnail>https://clarky7.files.wordpress.com/2013/10/nickelodeon_logo.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
-
-<item> 
-<title>NICK JR</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://iptvdosogro.cloudns.cx:8585/live/hugo.miller@gmail.com/hugo.miller@gmail.com/9689.ts;name=NICK JR</link> 
-</item> 
 
 <item>
 <title>TELECINCO</title>
