@@ -9,7 +9,7 @@
 <page>http://livesports.pw/embedna.php?file=movistarcero&width=650&height=397</page>
 <referer>http://telefivegb.com/canales/pelis/movistar0/</referer>
 </regex>
-<thumbnail>https://s18.postimg.org/4vabhtjqx/cero.png</thumbnail>
+<thumbnail>https://1.bp.blogspot.com/-fMpB1ufWR0g/VuwigsX1_WI/AAAAAAAAACQ/n2Fy1VyrYSQ9b-tSuTveLCXf4wRpB_HMQ/s1600/-CD4VuPl.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
@@ -22,7 +22,7 @@
 <page>http://livesports.pw/embeddeporte.php?file=funoesp&width=650&height=397</page>
 <referer>http://telefivegb.com/canales/deporte/F1/</referer>
 </regex>
-<thumbnail>https://s1.postimg.org/639ucfrwin/MVF1.png</thumbnail>
+<thumbnail>http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
@@ -35,7 +35,7 @@
 <page>http://player.livesports.pw/formulauno/</page>
 <referer>http://telefivegb.com/canales/deporte/F1/</referer>
 </regex>
-<thumbnail>https://s1.postimg.org/639ucfrwin/MVF1.png</thumbnail>
+<thumbnail>http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
@@ -153,7 +153,7 @@
 <page>http://player.livesports.pw/motogp/</page>
 <referer>http://telefivegb.com/canales/deporte/motogp/</referer>
 </regex>
-<thumbnail>https://s1.postimg.org/1mp50nwewv/MVMTGP.png</thumbnail>
+<thumbnail>http://todotele.com/wp-content/uploads/2016/04/movistar-motoGP-logo.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
@@ -166,7 +166,7 @@
 <page>http://vergol.com/live3/motogp.php</page>
 <referer>http://vercanalestv.com/tv/deportes/motogp-multi.php</referer>
 </regex>
-<thumbnail>https://s1.postimg.org/1mp50nwewv/MVMTGP.png</thumbnail>
+<thumbnail>http://todotele.com/wp-content/uploads/2016/04/movistar-motoGP-logo.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
