@@ -306,7 +306,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=hollywoodesp&width=650&height=397/</page>
+<page>http://livesports.pw/embedna.php?file=hollywesp&width=650&height=397/</page>
 <referer>http://telefivegb.com/canales/pelis/hollywood</referer>
 </regex>
 <thumbnail>https://ulango.tv/uploads/channels/11151/logo_canal%20hollywood3.png</thumbnail>
