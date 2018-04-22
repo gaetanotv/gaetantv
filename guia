@@ -19,13 +19,13 @@ http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/558.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png",AXN White 
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/index.m3u8
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/11151/logo_canal%20hollywood3.png",Hollywood
-http://king365tv.mine.nu:2103/live/David.Benizri/9834839902/635.m3u8?sd=10&rebase;=on
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/index.m3u8
 #EXTINF:-1 tvg-logo="https://dash.mediaupdate.co.za/story/image/121261/121261_t.jpg",Fox Life
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/567/index.m3u8
 #EXTINF:-1 tvg-logo="http://dshm.tmsimg.com/h5/NowShowing/75423/s75423_h5_aa.png",Fox 
-http://king365tv.mine.nu:2103/live/David.Benizri/9834839902/630.m3u8?sd=10&rebase;=on
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/608/index.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-6TCNxaYMCHg/TdUHkmTKX7I/AAAAAAAAAyo/yBfpTQ-02JQ/s1600/HighResLogo_RGB.jpg",AXN
-http://king365tv.mine.nu:2103/live/David.Benizri/9834839902/2263.m3u8?sd=10&rebase;=on
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8
 #EXTINF:-1 tvg-logo="http://domingomartinez.com/bitacora/wp-content/media/captura-de-pantalla-2013-05-24-a-las-012543-300x296.png",Calle 13
 http://king365tv.mine.nu:2103/live/David.Benizri/9834839902/713.m3u8?sd=10&rebase;=on
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/46/88/e6/4688e66e78ed451e0d55733386ead24d.jpg",TNT
@@ -33,31 +33,31 @@ http://king365tv.mine.nu:2103/live/David.Benizri/9834839902/714.m3u8?sd=10&rebas
 #EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2013/11/amc-logo.jpg",AMC
 http://playlist.onlybest.tv/en/channel/78ad82ff7979f9daa5f44464e8788080/614/index.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/media2.slashfilm.com/slashfilm/wp/wp-content/images/Syfy-new-logo.jpg",SYFY 
-http://king365tv.mine.nu:2103/live/David.Benizri/9834839902/716.m3u8?sd=10&rebase;=on
+http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/608/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/1200px-Cosmo_TV_logo.svg.png",COSMO
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.televisiontdtonline.com/wp-content/uploads/2012/11/divinity_tw.png",Divinity
-http://king365tv.mine.nu:2103/live/David.Benizri/9834839902/965.m3u8?sd=10&rebase;=on
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Comedy_Central_logo_(1990s).svg/793px-Comedy_Central_logo_(1990s).svg.png",Comedy Central
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fMpB1ufWR0g/VuwigsX1_WI/AAAAAAAAACQ/n2Fy1VyrYSQ9b-tSuTveLCXf4wRpB_HMQ/s1600/-CD4VuPl.png",#0
-http://king365tv.mine.nu:2103/live/David.Benizri/9834839902/662.m3u8?sd=10&rebase;=on
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/611/index.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/diariomnipresente.com/wp-content/uploads/2016/09/Star-Wars-Movistar-Estrenos.png",Movistar Estrenos
 http://king365tv.mine.nu:2103/live/David.Benizri/9834839902/2085.m3u8?sd=1000&rebase;=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1200px-Movistar_Series.svg.png",Movistar Series Xtra 
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png", Movistar Comedia
-http://king365tv.mine.nu:2103/live/David.Benizri/9834839902/628.m3u8?sd=10&rebase;=on
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/606/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1200px-Movistar_DCine.svg.png", Movistar DCine
-http://king365tv.mine.nu:2103/live/David.Benizri/9834839902/821.m3u8?sd=10&rebase;=on
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8
 #EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/movistar-accion.png", Movistar Acción 
-http://king365tv.mine.nu:2103/live/David.Benizri/9834839902/364.m3u8?sd=10&rebase;=on
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/576/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Movistar_Xtra.svg/1200px-Movistar_Xtra.svg.png", Movistar Xtra
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
 #EXTINF:-1 tvg-logo="http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png",Movistar Fórmula 1
-http://king365tv.mine.nu:2103/live/David.Benizri/9834839902/621.m3u8?sd=10&rebase;=on
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
 #EXTINF:-1 tvg-logo="http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png",Movistar Fórmula 1 
-http://king365tv.mine.nu:2103/live/David.Benizri/9834839902/2574.m3u8?sd=10&rebase;=on
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/59/index.m3u8
 #EXTINF:-1 tvg-logo="http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png",Movistar Fórmula 1 
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
 #EXTINF:-1 tvg-logo="http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png",Movistar Fórmula 1 
