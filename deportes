@@ -6,3 +6,5 @@ http://1.ocdtv.co.uk:83/live/32634325/82554889/21146.ts
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://www.gestiondemedios.es/wp-content/uploads/2014/12/ETB-300x125.png", Etb (Vasco)
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTINF:-1 tvg-logo="http://17r1l63fshd52dy9yakdizhkog.wpengine.netdna-cdn.com/wp-content/uploads/2016/03/UFC-Logo-640x370.jpg", UFC pass
+http://1.ocdtv.co.uk:83/live/32634325/82554889/221850.ts
