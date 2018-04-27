@@ -1,40 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VTeboaN.png" group-title="DEPORTES", Bein Sports 1 | FHD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/566/index.m3u8
-#EXTINF:-1,beIN La Liga HD
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/index.m3u8
-#EXTINF:-1,Movistar F1 opción 1
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
-#EXTINF:-1,Movistar F1 opción 2
-http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/612/index.m3u8
-#EXTINF:-1,M+ Formula 1 HD
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/612/index.m3u8
-#EXTINF:-1,Movistar MotoGP Opción 1
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
-#EXTINF:-1,Movistar MotoGP Opción 2
-http://163.172.202.69:4022/motogphd
-#EXTINF:-1,M+ MotoGP HD
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/613/index.m3u8
-#EXTINF:-1,beIN LaLiga opción 1
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/574/index.m3u8
-#EXTINF:-1,Bein LaLiga opción 2
-http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/574/index.m3u8
-#EXTINF:-1,beIN LaLiga opción 4
-http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8
-#EXTINF:-1,LaLiga TV opción 1
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
-#EXTINF:-1,Bein Sports Ñ Latino
-http://192.99.39.218:25461/live/arodriguez/arodriguez/5768.ts
-#EXTINF:-1,beIN Sports Opción 1
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/566/index.m3u8
-#EXTINF:-1,Bein Sports Opción 2
-http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/566/index.m3u8
-#EXTINF:-1,beIN Sports Opción 4
-http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/566/index.m3u8
-#EXTINF:-1,Movistar Fútbol
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
-#EXTINF:-1,M+ Futbol HD
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/575/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ma9Kz5T.png" group-title="DEPORTES", Box Nation | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ma9Kz5T.png", Box Nation
 http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/316/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.gestiondemedios.es/wp-content/uploads/2014/12/ETB-300x125.png", Etb
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
