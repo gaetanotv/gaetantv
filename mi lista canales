@@ -150,8 +150,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://player.livesports.pw/motogp/</page>
-<referer>http://telefivegb.com/canales/deporte/motogp/</referer>
+<page>http://bro.adca.st/stream/23965.html</page>
+<referer>http://telefivegb.com/canales/deporte/motogp/index2.html</referer>
 </regex>
 <thumbnail>http://todotele.com/wp-content/uploads/2016/04/movistar-motoGP-logo.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
