@@ -518,7 +518,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://player.livesports.pw/disneychannel/</page>
+<page>http://livesports.pw/embedna.php?file=disneychannel&width=650&height=397/</page>
 <referer>http://telefivegb.com/canales/animacion/disneychannel</referer>
 </regex>
 <thumbnail>https://img00.deviantart.net/22da/i/2016/343/f/b/disney_channel_logo_redesign_by_megamario99-dar2n4v.png</thumbnail>
@@ -531,7 +531,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://player.livesports.pw/boing/</page>
+<page>http://livesports.pw/embedna.php?file=boing&width=650&height=397</page>
 <referer>http://telefivegb.com/canales/animacion/boing</referer>
 </regex>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png</thumbnail>
@@ -550,6 +550,20 @@
 <thumbnail>https://clarky7.files.wordpress.com/2013/10/nickelodeon_logo.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
+
+<item>
+<title>CABALLEROS DEL ZODIACO 24H</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://www.vidaentv.com/los-caballeros-del-zodiaco-en-vivo-24-horas/</page>
+<referer>http://vaughnlive.tv/embed/video/variedtv?viewers=true&watermark=left&autoplay=true</referer>
+</regex>
+<thumbnail>https://img00.deviantart.net/520e/i/2016/304/d/e/logo_los_caballeros_del_zodiaco_esp_saint_seiya_by_emakcolo-damu5k2.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
 
 <item>
 <title>TELECINCO</title>
