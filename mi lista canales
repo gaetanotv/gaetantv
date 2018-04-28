@@ -557,8 +557,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://www.vidaentv.com/los-caballeros-del-zodiaco-en-vivo-24-horas/</page>
-<referer>http://vaughnlive.tv/embed/video/variedtv?viewers=true&watermark=left&autoplay=true</referer>
+<page>http://vaughnlive.tv/embed/video/variedtv?viewers=true&watermark=left&autoplay=true</page>
+<referer>http://www.vidaentv.com/los-caballeros-del-zodiaco-en-vivo-24-horas/</referer>
 </regex>
 <thumbnail>https://img00.deviantart.net/520e/i/2016/304/d/e/logo_los_caballeros_del_zodiaco_esp_saint_seiya_by_emakcolo-damu5k2.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
