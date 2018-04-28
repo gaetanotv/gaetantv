@@ -551,7 +551,7 @@
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
-<item>
+<!--item>
 <title>CABALLEROS DEL ZODIACO 24H</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
@@ -562,7 +562,7 @@
 </regex>
 <thumbnail>https://img00.deviantart.net/520e/i/2016/304/d/e/logo_los_caballeros_del_zodiaco_esp_saint_seiya_by_emakcolo-damu5k2.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
+</item-->
 
 
 <item>
