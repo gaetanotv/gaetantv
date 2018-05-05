@@ -98,7 +98,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://www.playerfs.com/hembedplayer/54fkgkg59lklf/2/650/400</page>
+<page>http://vergol.com/live3/beinliga.php</page>
 <referer>http://vercanalestv.com/tv/deportes/bein-sports-liga.html</referer>
 </regex>
 <thumbnail>https://static.beinconnect.es/uploads/comun/img/logos/bein-laliga-md.png</thumbnail>
