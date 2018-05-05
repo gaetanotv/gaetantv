@@ -163,7 +163,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://bro.adca.st/stream/23965.html</page>
+<page>http://livesports.pw/embeddeporte.php?file=motogpm&width=650&height=397</page>
 <referer>http://telefivegb.com/canales/deporte/motogp/index2.html</referer>
 </regex>
 <thumbnail>http://todotele.com/wp-content/uploads/2016/04/movistar-motoGP-logo.png</thumbnail>
