@@ -1,1 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://bilder.4ever.eu/data/download/sport/fussball/fc-barcelona-vs-real-madrid-153834.jpg", R.MADRID-BARCELONA
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/574/index.m3u8
+#EXTINF:-1 tvg-logo="http://bilder.4ever.eu/data/download/sport/fussball/fc-barcelona-vs-real-madrid-153834.jpg", R.MADRID-BARCELONA op.1
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/index.m3u8
+#EXTINF:-1 tvg-logo="http://bilder.4ever.eu/data/download/sport/fussball/fc-barcelona-vs-real-madrid-153834.jpg", R.MADRID-BARCELONA op.2
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/574/index.m3u8
+#EXTINF:-1 tvg-logo="http://bilder.4ever.eu/data/download/sport/fussball/fc-barcelona-vs-real-madrid-153834.jpg", R.MADRID-BARCELONA op.3
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/566/index.m3u8
+#EXTINF:-1 tvg-logo="http://bilder.4ever.eu/data/download/sport/fussball/fc-barcelona-vs-real-madrid-153834.jpg", R.MADRID-BARCELONA op.4
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/581/index.m3u8
+#EXTINF:-1 tvg-logo="http://bilder.4ever.eu/data/download/sport/fussball/fc-barcelona-vs-real-madrid-153834.jpg", R.MADRID-BARCELONA op.5
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
+
+
+
+
+
+
+
+
+
+
 
