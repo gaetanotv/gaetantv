@@ -93,6 +93,19 @@
 </item>
 
 <item>
+<title>BEIN SPORTS LA LIGA OP.1</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://www.playerfs.com/hembedplayer/54fkgkg59lklf/2/650/400</page>
+<referer>http://vercanalestv.com/tv/deportes/bein-sports-liga.html</referer>
+</regex>
+<thumbnail>https://static.beinconnect.es/uploads/comun/img/logos/bein-laliga-md.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
+
+<item>
 <title>BEIN SPORTS</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
