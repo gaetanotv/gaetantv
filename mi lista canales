@@ -85,8 +85,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://player.livesports.pw/beinlaliga/</page>
-<referer>http://telefivegb.com/canales/deporte/beinlaliga/</referer>
+<page>http://livesports.pw/embeddeporte.php?file=beinlaliga&width=650&height=397</page>
+<referer>http://telefivegb.com/canales/deporte/beinlaliga/beinlaligallevar.html</referer>
 </regex>
 <thumbnail>https://static.beinconnect.es/uploads/comun/img/logos/bein-laliga-md.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
@@ -98,7 +98,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://player.livesports.pw/beinsportesp/</page>
+<page>http://livesports.pw/embeddeporte.php?file=beinsport&width=650&height=397</page>
 <referer>http://telefivegb.com/canales/deporte/deporte2</referer>
 </regex>
 <thumbnail>https://beinmediagroup.com/wp-content/uploads/2015/03/beINSPORTS.png</thumbnail>
