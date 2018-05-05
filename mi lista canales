@@ -618,7 +618,10 @@
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
 </item>
 
-
+ "name": "Bein Sports (Opc.2)",
+                    "image": "http://todocanales.net/wp-content/uploads/2014/04/bein-sports.jpg",
+                    "url": "http://37.187.128.169:8000/live/meCaonla44lech33e1/noMar88o33bo4512/31.ts",
+                    "userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git"
 
 
 
