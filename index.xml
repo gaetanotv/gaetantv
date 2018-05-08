@@ -76,6 +76,7 @@
 <referer></referer>
 <thumbnail>http://cinestrenostv.tv[makelist.param3]</thumbnail>
 ]]></listrepeat>
+<thumbnail>https://i.imgur.com/85EcsKO.png</thumbnail>
 <expres>a href="(.*)".*title="(.*?)".*?src="(.*?)"</expres>
 <page>http://cinestrenostv.tv/</page>
 <referer></referer>
