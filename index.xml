@@ -31,15 +31,38 @@
 <externallink>https://raw.githubusercontent.com/gaetanotv/gaetantv/master/deportes</externallink> 
 </item>
 
-<item--!>
-<title>[COLOR red]_*_  [/COLOR][COLOR gold]R.MADRID -BARCELONA[/COLOR][COLOR red]  _*_[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://wallpapercave.com/wp/iyQCBpm.jpg</thumbnail>
-<fanart>http://images6.alphacoders.com/469/thumb-350-469896.jpg<fanart>
-<externallink>https://raw.githubusercontent.com/gaetanotv/gaetantv/master/deportes2</externallink> 
-</item-->
+<item>
+<title>Verliga.net</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2] [makelist.param3]</title> <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26videoTitle=VerLiga%26url%3D[makelist.param4]</link>
+<thumbnail>[makelist.param1]</thumbnail>
+]]></listrepeat>
+<expres>&gt;\d+:\d+.*img\s+src="([^"]+)".*&lt;strong&gt;([^&lt;]+).*?&gt;([^&lt;]+).*?href="([^"]+)</expres>
+<page>http://verliga.net/</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0</agent>
+</regex>
+</item>
 
-
+<item>
+<title>Lista de canales opcionales</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<sportsdevil>http://cinestrenostv.tv[makelist.param1]</sportsdevil>
+<referer></referer>
+<thumbnail>http://cinestrenostv.tv[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres>a href="(.*)".*title="(.*?)".*?src="(.*?)"</expres>
+<page>http://cinestrenostv.tv/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
 
 
 
