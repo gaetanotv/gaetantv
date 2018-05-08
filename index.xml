@@ -55,7 +55,7 @@
 <title>[makelist.param2]</title>
 <sportsdevil>http://cinestrenostv.tv[makelist.param1]</sportsdevil>
 <referer></referer>
-<thumbnail>http://cinestrenostv.tv[makelist.param3]</thumbnail>
+<thumbnail>https://i.imgur.com/85EcsKO.png[makelist.param3]</thumbnail>
 ]]></listrepeat>
 <expres>a href="(.*)".*title="(.*?)".*?src="(.*?)"</expres>
 <page>http://cinestrenostv.tv/</page>
