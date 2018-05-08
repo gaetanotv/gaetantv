@@ -24,6 +24,25 @@
 </item> 
  
 <item>
+<title>[COLOR orange]AVEZY SOLO EVENTOS EN CASTELLANO[/COLOR]</title>
+<link>$doregex[picapau]</link>
+<regex>
+<name>picapau</name>
+<listrepeat><![CDATA[
+<title>[COLOR orange][picapau.param1][/COLOR] [COLOR yellow][picapau.param2]H.[/COLOR][COLOR goldenrod][picapau.param4][/COLOR] [COLOR white][picapau.param5][/COLOR][COLOR red] ([picapau.param7])[/COLOR]</title>
+<thumbnail>https://avezy.xyz/[picapau.param3]</thumbnail>
+<fanart>http://makambaonline.com/wp-content/uploads/2017/11/UEFA-Champions-League-Stadium-Wallpaper.jpg</fanart>
+<link>plugin://program.plexus/?url=[picapau.param8]&amp;mode=1&amp;name=picapau</link>
+</item>
+]]></listrepeat>
+<expres><![CDATA[(?s)center'>([^<]+).*?br>([^<]+).*? src="(.*?)".*? title='([^']+).*?br>([^<]+).*?spa([^']+).*?AV([^<]+).*?acestream://(.*?)".*?]]></expres>
+<page>https://avezy.xyz/</page>
+</regex>
+<thumbnail>https://1.bp.blogspot.com/-XWS-ula5dok/WDLAzEh8apI/AAAAAAAADGo/3B6jDpUfBGwYNXd0jx9zzJV2BrHsvrJOACPcB/s640/arenavision3.PNG</thumbnail>
+<fanart>http://makambaonline.com/wp-content/uploads/2017/11/UEFA-Champions-League-Stadium-Wallpaper.jpg</fanart>
+</item>
+ 
+<item>
 <title>[COLOR red]_*_  [/COLOR][COLOR gold] EVENTOS DEPORTES(BOXEO) [/COLOR][COLOR red]  _*_[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://logosdatabase.com/logoimages/77109301.jpg</thumbnail>
