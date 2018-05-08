@@ -47,7 +47,7 @@
 </item>
 
 <item>
-<title>Lista de canales opcionales</title>
+<title>Mas canales</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
