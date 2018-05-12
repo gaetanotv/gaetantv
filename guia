@@ -90,7 +90,7 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/inde
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/581/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.goltelevision.com/uploads/gol/web/img/logos/laliga-123-lg-v.png",BEIN_LA_LIGA_123
 http://king365tv.mine.nu:2103/live/David.Benizri/9834839902/2155.m3u8?sd=10&rebase;=on
-#EXTINF:-1 tvg-logo="http://vercanalestv.com/imagenes/movistar-futbol.jpg",Movistar Fútbol
+#EXTINF:-1 tvg-logo="http://vercanalestv.com/imagenes/movistar-futbol.jpg",Movistar Futbol
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
 #EXTINF:-1 tvg-logo="http://meteoalcorcon.es/1_0_19_7828_428_1_C00000_0_0_0.png",Movistar Deportes 1
 http://king365tv.mine.nu:2103/live/David.Benizri/9834839902/594.m3u8?sd=10&rebase;=on
@@ -98,7 +98,7 @@ http://king365tv.mine.nu:2103/live/David.Benizri/9834839902/594.m3u8?sd=10&rebas
 http://king365tv.mine.nu:2103/live/David.Benizri/9834839902/593.m3u8?sd=10&rebase;=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Eurosport_2_Logo.jpg",Eurosport 2
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/77/index.m3u8
-#EXTINF:-1 tvg-logo="http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png",Movistar Fórmula 1
+#EXTINF:-1 tvg-logo="http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png",Movistar Formula 1
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/612/index.m3u8
 #EXTINF:-1 tvg-logo="http://todotele.com/wp-content/uploads/2016/04/movistar-motoGP-logo.png",Movistar Moto GP 
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/613/index.m3u8
@@ -108,7 +108,7 @@ http://king365tv.mine.nu:2103/live/David.Benizri/9834839902/2203.m3u8?sd=10&reba
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/NVsHrx9Asc4/maxresdefault.jpg",MOVISTAR FightBox
 http://hls.redefine.pl/ECD95B41/1573/0/hls720/masterlist.m3u8
-#EXTINF:-1,MOVISTAR DISNEY
+#EXTINF:-1,Movistar Disney
 http://applive.online:25461/live/4JUnQNNm9N/7nH8xbbMRD/2774.ts
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/92/d3/67/92d367188454874297c67bf1bdd9bf8e.jpg",NICK JR
 http://1.ocdtv.co.uk:83/live/32634325/82554889/92817.ts
