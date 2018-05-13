@@ -9,9 +9,9 @@ https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="https://www.ono.es/ono-resources/img/products-web/logos_parrilla_tv/img_logo_telecinco.png",Telecinco
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/La_Sexta.svg/966px-La_Sexta.svg.png",La Sexta
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+https://atresplayerp-i.akamaized.net/geolasextampp/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-lqGJ545BQTo/TjIpa6LDVII/AAAAAAAAB0g/uKqJLyFzluI/s500/Antena+Neox+logo.png",Neox
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+https://atresplayerp-i.akamaized.net/geoneoxmpp/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.televisiontdtonline.com/wp-content/uploads/2012/11/divinity_tw.png",Divinity
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="http://vertelevisor.com/logos/energy.png",Energy
