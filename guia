@@ -55,7 +55,7 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/605/inde
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Movistar_Xtra.svg/1200px-Movistar_Xtra.svg.png", Movistar Xtra
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
 #EXTINF:-1 tvg-logo="http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png",Movistar Formula 1
-http://esnifadores.listasdf.com/live/formula1/index.m3u8
+http://95.215.62.222/live/formula1/index.m3u8?token=WDWiD9nLgDgYEONisT55VA&expires=1526442349
 #EXTINF:-1 tvg-logo="http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png",Movistar Formula 1 
 http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/59/index.m3u8
 #EXTINF:-1 tvg-logo="http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png",Movistar Formula 1 
@@ -111,7 +111,7 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/NVsHrx9Asc4/maxresdefault.jpg",MOVISTAR FightBox
 http://hls.redefine.pl/ECD95B41/1573/0/hls720/masterlist.m3u8
 #EXTINF:-1,Movistar Disney
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3361.m3u8
+http://195.154.236.48/live/plusdisney/index.m3u8?token=4j0Bgl9UdYEuJ8OsRGKS5A&expires=1526442227
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/92/d3/67/92d367188454874297c67bf1bdd9bf8e.jpg",NICK JR
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3324.m3u8
 #EXTINF:-1 tvg-logo="http://lofrev.net/wp-content/photos/2016/06/nickelodeon-logo.jpg",Nickelodeon
