@@ -32,8 +32,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://player.livesports.pw/formulauno/</page>
-<referer>http://emb.aliez.me/player/live.php?id=64415&w=728&h=480</referer>
+<page>http://esnifadores.listasdf.com/live/formula1/</page>
+<referer>http://esnifadores.listasdf.com/live/formula1/index.m3u8</referer>
 </regex>
 <thumbnail>http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
