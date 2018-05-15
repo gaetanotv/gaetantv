@@ -28,12 +28,12 @@
 
 <item>
 <title>Formula 1 OP.1</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<link>$doregex[GetPageUrl]|User-Agent= Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36</link>
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live3/formula1.php</page>
-<sportdevil>http://petopa151.caraponi.me/live/formula1/index.m3u8?token=HWHZ-2eFWLz3MZAqBYPr0w&expires=1526500944</sportdevil>
+<page>http://petopa151.caraponi.me/live/formula1/index.m3u8?token=HWHZ-2eFWLz3MZAqBYPr0w&expires=1526500944</page>
+<referer>http://vergol.com/live3/formula1.php</referer>
 </regex>
 <thumbnail>http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
