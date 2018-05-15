@@ -33,7 +33,7 @@
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
 <page>http://vergol.com/live3/formula1.php</page>
-<referer>http://petopa151.caraponi.me/live/formula1/index.m3u8?token=HWHZ-2eFWLz3MZAqBYPr0w&expires=1526500944</referer>
+<sportdevil>http://petopa151.caraponi.me/live/formula1/index.m3u8?token=HWHZ-2eFWLz3MZAqBYPr0w&expires=1526500944</sportdevil>
 </regex>
 <thumbnail>http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
