@@ -104,7 +104,7 @@ http://hls.redefine.pl/ECD95B41/1573/0/hls720/masterlist.m3u8
 #EXTINF:-1,MOVISTAR DISNEY
 http://applive.online:25461/live/4JUnQNNm9N/7nH8xbbMRD/2774.ts
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/92/d3/67/92d367188454874297c67bf1bdd9bf8e.jpg",NICK JR
-http://mypanel.tv:8080/live/berto/berto/13526.m3u8
+http://178.132.4.252:25461/live/berto/berto/13526.m3u8?token=Q0ddWUQNEg9AAAlaWg1XVgoNVAVQVlRVVVYMV1ILVFYNUQxcB1cHVgEbFEAQTBFQUlRtCFAXD1cCUQdTHBFCRF0XalFTRwoXVQwPVlIaTxdHUF8EFg8FShMUXAESCRUPAFEXFBUASEEHS1YDD2cHUEVQUQQWD1sTXQgZR19daFNdCFRWU0cKF1IbFEAKSxMXCRtkDlBUUwlfARUgQ0NWWVlFZhZ2S2UbQBUaAApMEVRHXBBbFgQFVQRGGUdTXEJZTBdMGg1HdWZAFRoHG0wGW0BQXQ8WDxcLAhENRxwRXkRnF1BLQxdVVA9cSkBZGlMXHxtfAExqVglfClAGRFpYWUtHDxoGRxwXD1ZWCxdXEWpDUFZDDhcEVwlSDUdN
 #EXTINF:-1 tvg-logo="http://lofrev.net/wp-content/photos/2016/06/nickelodeon-logo.jpg",Nickelodeon
 http://iptvdtv.sw1a2aa.com:25461/live/2tQ0WPMxd4/NTtNxSNBcB/8349.ts
 #EXTINF:-1 tvg-logo="http://t03.deviantart.net/06qA8F4dev0i9E0rDwP4VVqoyRk=/fit-in/700x350/filters:fixed_height(100,100):origin()/pre01/903b/th/pre/i/2016/343/f/b/disney_channel_logo_redesign_by_megamario99-dar2n4v.png",Disney Channel
