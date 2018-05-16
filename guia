@@ -3,7 +3,8 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1200px-Logo_TVE-1.svg.png",LA 1
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.karlitoway.co.uk/images/logo-antena3.png",Antena 3
-http://185.21.216.153:7071/cdn/antena3es/playlist.m3u8
+#EXTVLCOPT:network-caching=1000
+http://mypanel.tv:8080/live/berto/berto/7253.m3u8
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/b2/Cuatro_HD2012.png",Cuatro
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="https://www.ono.es/ono-resources/img/products-web/logos_parrilla_tv/img_logo_telecinco.png",Telecinco
