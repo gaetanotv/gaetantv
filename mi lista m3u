@@ -104,7 +104,6 @@ http://hls.redefine.pl/ECD95B41/1573/0/hls720/masterlist.m3u8
 #EXTINF:-1,MOVISTAR DISNEY
 http://applive.online:25461/live/4JUnQNNm9N/7nH8xbbMRD/2774.ts
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/92/d3/67/92d367188454874297c67bf1bdd9bf8e.jpg",NICK JR
-#EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live/berto/berto/13526.m3u8
 #EXTINF:-1 tvg-logo="http://lofrev.net/wp-content/photos/2016/06/nickelodeon-logo.jpg",Nickelodeon
 http://iptvdtv.sw1a2aa.com:25461/live/2tQ0WPMxd4/NTtNxSNBcB/8349.ts
