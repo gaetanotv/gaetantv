@@ -32,8 +32,7 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/inde
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live/berto/berto/7247.m3u8
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/46/88/e6/4688e66e78ed451e0d55733386ead24d.jpg",TNT
-#EXTOPT:network-caching=10000
-http://mypanel.tv:8080/live/berto/berto/7177.m3u8
+http://185.21.216.153:7071/cdn/tntes/chunks.m3u8?nimblesessionid=5154943&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDE4IDk6MDc6MTYgUE0maGFzaF92YWx1ZT13TExjNzVTVTFBWUFMMm1oZFB3Y0ZRPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2013/11/amc-logo.jpg",AMC
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/614/index.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/media2.slashfilm.com/slashfilm/wp/wp-content/images/Syfy-new-logo.jpg",SYFY 
@@ -50,7 +49,7 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/611/inde
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live/berto/berto/8771.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1200px-Movistar_Series.svg.png",Movistar Series Xtra 
-http://185.21.216.153:7071/cdn/mseriesxtra/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDE4IDc6MTY6MDEgUE0maGFzaF92YWx1ZT1UdnZsV0lkU3pKN2hjbkl1WWI5ZzdnPT0mdmFsaWRtaW51dGVzPTI=
+http://185.21.216.153:7071/cdn/mseriesxtra/chunks.m3u8?nimblesessionid=5154551&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDE4IDk6MDU6MzYgUE0maGFzaF92YWx1ZT0rUzJ0aU5ha1IyenVYUUgwUkU1WXp3PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png", Movistar Comedia
 http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/580/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1200px-Movistar_DCine.svg.png", Movistar DCine
@@ -69,7 +68,7 @@ http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/612/inde
 #EXTINF:-1 tvg-logo="http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png",Movistar Formula 1 
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3245.m3u8
 #EXTINF:-1 tvg-logo="http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png",Movistar Formula 1 
-http://esnifadores.listasdf.com/live/formula1/index.m3u8
+http://185.231.163.17/651/1/index.m3u8?k=d5341bf963e5bf8d9231aeab90fd6c4f1557dbf020062a81af7415d619fef4f913d4a338ae1f75608dde9c17b037923edf3889d159654dc095e85c4dc724c5854b232afe97beea2641979076fabec254bad7d7776bd08b3c4ebcd0d8186f84346252bb53bee187e452e07fbc714206ba
 #EXTINF:-1 tvg-logo="http://todotele.com/wp-content/uploads/2016/04/movistar-motoGP-logo.png",Movistar Moto GP 
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/613/index.m3u8
 #EXTINF:-1 tvg-logo="http://todotele.com/wp-content/uploads/2016/04/movistar-motoGP-logo.png",Movistar Moto GP 
@@ -119,8 +118,7 @@ http://hls.redefine.pl/ECD95B41/1573/0/hls720/masterlist.m3u8
 #EXTINF:-1,Movistar Disney
 http://195.154.236.48/live/plusdisney/index.m3u8?token=4j0Bgl9UdYEuJ8OsRGKS5A&expires=1526442227
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/92/d3/67/92d367188454874297c67bf1bdd9bf8e.jpg",NICK JR
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live/berto/berto/13526.m3u8
+http://178.132.5.98:25461/live/oDNKz4UHGu/47iuV7JxAv/3654.m3u8
 #EXTINF:-1 tvg-logo="http://lofrev.net/wp-content/photos/2016/06/nickelodeon-logo.jpg",Nickelodeon
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3323.m3u8
 #EXTINF:-1 tvg-logo="http://t03.deviantart.net/06qA8F4dev0i9E0rDwP4VVqoyRk=/fit-in/700x350/filters:fixed_height(100,100):origin()/pre01/903b/th/pre/i/2016/343/f/b/disney_channel_logo_redesign_by_megamario99-dar2n4v.png",Disney Channel
