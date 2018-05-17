@@ -132,8 +132,7 @@ http://185.21.216.153:7071/cdn/disneyjres/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rp
 #EXTINF:-1 tvg-logo="http://beyondthemarquee.com/wp-content/uploads/2012/04/Disney+XD+Logo.jpg",Disney XD
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3325.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Historia_Logo_2015.png",Historia 
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live/berto/berto/7217.m3u8
+http://185.21.216.153:7071/cdn/historyes/chunks.m3u8?nimblesessionid=5153937&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDE4IDk6MDM6MDcgUE0maGFzaF92YWx1ZT1IY1FjTmJRbDBkSnE4NmVtYTVyKy93PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 tvg-logo="https://www.nationalgeographic.com/content/dam/magazine/Logos/national-geographic.ngsversion.1475151192637.adapt.1900.1.jpg",National Geographic
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3337.m3u8
 #EXTINF:-1 tvg-logo="http://media-cache-ak0.pinimg.com/736x/8f/8d/03/8f8d03b5ec0fe64cd8541bcbc6dd1f63.jpg",Nat Geo Wild 
