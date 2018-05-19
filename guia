@@ -53,7 +53,7 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/611/inde
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fMpB1ufWR0g/VuwigsX1_WI/AAAAAAAAACQ/n2Fy1VyrYSQ9b-tSuTveLCXf4wRpB_HMQ/s1600/-CD4VuPl.png",#0
 http://185.231.163.17/650/2/index.m3u8?k=e6207ef8be436d8a1095b53c6ed37fbf044553749d0a74372bad264eaea479bfd83a2a543e09f3ae222aefbf4faa0ba3b9f8b981e13845fe52a57110a38d0a00225df24cafc75b907564c977d4ccff377119c8afb7fe860820ac7e72d122d7f62b26d9eb8152af76cb4ace1fee08e9d5
 #EXTINF:-1 tvg-logo="https://i0.wp.com/diariomnipresente.com/wp-content/uploads/2016/09/Star-Wars-Movistar-Estrenos.png",Movistar Estrenos
-http://copo2.mitopo.me/live/plusestrenos/index.m3u8?token=bVqj4c_7DVrgP7qhzH2W7g&expires=1526822537
+http://copo2.mitopo.me/live/plusestrenos/index.m3u8?token=_7kR5587B3GETKoLO2AB6Q&expires=1526826394
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1200px-Movistar_Series.svg.png",Movistar Series Xtra 
 http://185.231.163.17/600/1/index.m3u8?k=98504a26fa2d4d2b93ea82500c97c19c8e6d02e5d5f2e344c46ad0229ccb2bc650d0c50f63ec0a686ab7486edf6b1cc37b18bddb23d7d3506632e2d00850e89b6ce0f9417421df84323087c9c55a852e402cd94c88e4e8fac238daa4244e98da2b7806e86d52b57569c081c3aba1ad03
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png", Movistar Comedia
@@ -73,8 +73,6 @@ http://185.231.163.17/651/1/index.m3u8?k=87a873c9d29b04e342caa6a7307c5853d919e47
 #EXTINF:-1 tvg-logo="http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png",Movistar Formula 1 
 http://185.231.163.17/651/1/index.m3u8?k=0d5911cd9fc2cc8360773fd99cd78b2528e894afe2c97affc13c39ee30dafa47a77d514c1b11d429f67beca0312a918a2427a1f236e5d411f4a3134911a9a4791c708093ebdb44f8022ff796a802ade46fe7e193eb79966e0fbf7f9b49aa3ad2fadccfc3e3894bb86c1907e89f50d74e
 #EXTINF:-1 tvg-logo="http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png",Movistar Formula 1 
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/612/index.m3u8
-#EXTINF:-1 tvg-logo="http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png",Movistar Formula 1 
 http://185.231.163.17/651/1/index.m3u8?k=369bf62eaf1f47227a01b8abd1bc852aedb00b33d4629c622419d515ba8ea1b784b1adc6ad798fc3942d28ed989f22a4502a6a775abf5397c7c42fa296e18c322a6148f140a169abdf1012f028ddf03ff44aea93974e421a7dc7cbd93bf1697067758be1ac679e7c59080744e35ba516
 #EXTINF:-1 tvg-logo="http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png",Movistar Formula 1 
 http://185.231.163.17/651/1/index.m3u8?k=d5341bf963e5bf8d9231aeab90fd6c4f1557dbf020062a81af7415d619fef4f913d4a338ae1f75608dde9c17b037923edf3889d159654dc095e85c4dc724c5854b232afe97beea2641979076fabec254bad7d7776bd08b3c4ebcd0d8186f84346252bb53bee187e452e07fbc714206ba
@@ -82,16 +80,12 @@ http://185.231.163.17/651/1/index.m3u8?k=d5341bf963e5bf8d9231aeab90fd6c4f1557dbf
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/613/index.m3u8
 #EXTINF:-1 tvg-logo="http://todotele.com/wp-content/uploads/2016/04/movistar-motoGP-logo.png",Movistar Moto GP 
 http://185.21.216.153:7071/cdn/mmotogpes/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDE4IDc6MDg6NDggUE0maGFzaF92YWx1ZT1wMHpXdE9uL0dlaVRCTFpPU2d1Z0lnPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1 tvg-logo="http://todotele.com/wp-content/uploads/2016/04/movistar-motoGP-logo.png",Movistar Moto GP 
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/613/index.m3u8
 #EXTINF:-1 tvg-logo="http://todotele.com/wp-content/uploads/2016/04/movistar-motoGP-logo.png",Movistar Moto GP
 http://185.231.163.17/652/1/index.m3u8?k=16373f5234b2314d74e61c7ced16be8d3b5ed1084c6fdce94303c2185d3a99966cae2544b3a2ba7580e49009ae99a10c659a3ce082697f7baf79ad49222a79ad6e89888c6c31ee1571141a839ecf929254cfce9c8e3b5d4ee26401e0c15885b93678d89cf78288d823a986c5ef1b14f9
 #EXTINF:-1 tvg-logo="http://todotele.com/wp-content/uploads/2016/04/movistar-motoGP-logo.png",Movistar Moto GP
 http://185.231.163.17/652/1/index.m3u8?k=24c702b4737680e24c1f39d8d51893b7a5100fb1069e1f56f829203194858d4077b5e7b0c29f3da24c559ea0a9eed947e752eb12faf41fe637cd83b65467ed701378010cd4101b127ebaf8ad3a302a772452f2f47c1e67488683ff2af6429a5b1ac974af328e5f0eb3bab8e97d83d434
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VTeboaN.png",beIN SPORTS 
 http://185.231.163.17/607/1/index.m3u8?k=586bb405f364645802e13be569beffb7a8d71fdf5d2ab866ca8fe483e0d39b42d13cccb59b5159973f1125ebfd34c0419c39dd37a0eb71eb6b43c6cdaa3fc96521e2a2665308b299d60df116e0752804b193008c3d5c6acd05cf5948633fac10d49fc6815645946aee76c67ecc15aae1 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VTeboaN.png",beIN SPORTS 
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.beinconnect.es/uploads/comun/img/logos/bein-laliga-md.png",Bein LaLiga 
 http://185.231.163.17/614/1/index.m3u8?k=bfc36a8fc235bda5ddfb400f1cbb15993ca1722399a4a10270a0b86f75550a99ceb289115cbc8deb204477c9c94f2007b1bf42b5613810977ade9cb857205c3d8c77765defb201137ffed276522fd2e453869c938766f4130515597ae7163260efa083c0b96826c86fe450080a91b2f6
 #EXTINF:-1 tvg-logo="https://static.beinconnect.es/uploads/comun/img/logos/bein-laliga-md.png",Bein LaLiga 
@@ -114,10 +108,6 @@ http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3246.m3u8
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3247.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Eurosport_2_Logo.jpg",Eurosport 2
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/77/index.m3u8
-#EXTINF:-1 tvg-logo="http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png",Movistar Formula 1
-http://185.21.216.153:7071/cdn/mf1es/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDE4IDE6NDU6MjIgUE0maGFzaF92YWx1ZT1BWURHL1RIQVRFRW5MZ3RaWEJORjRBPT0mdmFsaWRtaW51dGVzPTI
-#EXTINF:-1 tvg-logo="http://todotele.com/wp-content/uploads/2016/04/movistar-motoGP-logo.png",Movistar Moto GP 
-http://185.21.216.153:7071/cdn/mmotogpes/chunks.m3u8?nimblesessionid=4633682&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDE4IDk6MDg6MzEgUE0maGFzaF92YWx1ZT1xNGtsWC9Hck1jM2svdWxLeWFVTFNRPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/120px-Movistar_Golf.svg.png",Movistar Golf 
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3243.m3u8
 #EXTINF:-1 tvg-name="Anime TV" tvg-logo="http://www.imperioanime.com/wp-content/uploads/2011/06/TVavatar.png",Anime TV
