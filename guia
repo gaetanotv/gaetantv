@@ -22,19 +22,26 @@ http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/558.m3u8
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/index.m3u8
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/11151/logo_canal%20hollywood3.png",Hollywood
 http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/577/index.m3u8
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/11151/logo_canal%20hollywood3.png",Hollywood
+http://185.231.163.17/610/1/index.m3u8?k=2729679a77c3b001646ee0eb1b672b945c02e059ba827a9824556c71fa0e879d82d29e85721b277c7e87d0214244c95272f3dedc727609224c22466c9a2b21c7c1e7aa37a6b50d31fce6f5e5dbd53c0f94dfd8080ed6aade436ef118db81000294be3d8485b32eeebca0ba99a0469f1b
 #EXTINF:-1 tvg-logo="https://dash.mediaupdate.co.za/story/image/121261/121261_t.jpg",Fox Life
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/567/index.m3u8
 #EXTINF:-1 tvg-logo="http://dshm.tmsimg.com/h5/NowShowing/75423/s75423_h5_aa.png",Fox 
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/608/index.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-6TCNxaYMCHg/TdUHkmTKX7I/AAAAAAAAAyo/yBfpTQ-02JQ/s1600/HighResLogo_RGB.jpg",AXN
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-6TCNxaYMCHg/TdUHkmTKX7I/AAAAAAAAAyo/yBfpTQ-02JQ/s1600/HighResLogo_RGB.jpg",AXN
+http://185.231.163.17/612/1/index.m3u8?k=e625b662da779a07880abb7ae73459043962b28a59c5f963f4987add2dd47ac0fd5db40c747102e1596c78859a2b1d28e37e208f5dc9b1f8b83c6da309dbfb8c22c813f5e2b12525147bc413b2c2e186c16e84952d2787f61571741c2ddbfe43d0f7533678f8203de3f007fbbfeea395
 #EXTINF:-1 tvg-logo="http://domingomartinez.com/bitacora/wp-content/media/captura-de-pantalla-2013-05-24-a-las-012543-300x296.png",Calle 13
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live/berto/berto/7247.m3u8
+http://xxedge66.livesports.pw/live/calle13/chunklist.m3u8?md5=Ofyof0lXmijlIOgtHmTdww&expires=1526823690
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/46/88/e6/4688e66e78ed451e0d55733386ead24d.jpg",TNT
-http://b40476-p121-h45-af30wpov.1.cdn.telefonica.com/_40476/apple/sogecable/channel15/05.m3u8
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(07)/index.m3u8
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/46/88/e6/4688e66e78ed451e0d55733386ead24d.jpg",TNT
+http://copo1.mitopo.me/live/tnt/index.m3u8?token=vzNXC8b7kerkp1Lv7mdYDw&expires=1526822597
 #EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2013/11/amc-logo.jpg",AMC
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/614/index.m3u8
+#EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2013/11/amc-logo.jpg",AMC
+http://185.231.163.17/653/1/index.m3u8?k=1d82529930561f93aaa25c9cd2de0841157aa9e850a424bbee89216ceb7817bb0b533f8fcfaaff694f52356345ef1916e48073841a0b34f80442d8006a0e0085951d933a4c00f940e0ab2b53a6f3b70a8e9c4bfc5b9d429e3c9e1e4844040c80045a9e1bcc0b887c9322620efcb342bf
 #EXTINF:-1 tvg-logo="https://i0.wp.com/media2.slashfilm.com/slashfilm/wp/wp-content/images/Syfy-new-logo.jpg",SYFY 
 http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/608/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/1200px-Cosmo_TV_logo.svg.png",COSMO
@@ -45,27 +52,32 @@ https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fMpB1ufWR0g/VuwigsX1_WI/AAAAAAAAACQ/n2Fy1VyrYSQ9b-tSuTveLCXf4wRpB_HMQ/s1600/-CD4VuPl.png",#0
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/611/index.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fMpB1ufWR0g/VuwigsX1_WI/AAAAAAAAACQ/n2Fy1VyrYSQ9b-tSuTveLCXf4wRpB_HMQ/s1600/-CD4VuPl.png",#0
+http://185.231.163.17/650/2/index.m3u8?k=e6207ef8be436d8a1095b53c6ed37fbf044553749d0a74372bad264eaea479bfd83a2a543e09f3ae222aefbf4faa0ba3b9f8b981e13845fe52a57110a38d0a00225df24cafc75b907564c977d4ccff377119c8afb7fe860820ac7e72d122d7f62b26d9eb8152af76cb4ace1fee08e9d5
 #EXTINF:-1 tvg-logo="https://i0.wp.com/diariomnipresente.com/wp-content/uploads/2016/09/Star-Wars-Movistar-Estrenos.png",Movistar Estrenos
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live/berto/berto/8771.m3u8
+http://copo2.mitopo.me/live/plusestrenos/index.m3u8?token=bVqj4c_7DVrgP7qhzH2W7g&expires=1526822537
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1200px-Movistar_Series.svg.png",Movistar Series Xtra 
-http://185.21.216.153:7071/cdn/mseriesxtra/chunks.m3u8?nimblesessionid=5154551&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDE4IDk6MDU6MzYgUE0maGFzaF92YWx1ZT0rUzJ0aU5ha1IyenVYUUgwUkU1WXp3PT0mdmFsaWRtaW51dGVzPTI=
+http://185.231.163.17/600/1/index.m3u8?k=98504a26fa2d4d2b93ea82500c97c19c8e6d02e5d5f2e344c46ad0229ccb2bc650d0c50f63ec0a686ab7486edf6b1cc37b18bddb23d7d3506632e2d00850e89b6ce0f9417421df84323087c9c55a852e402cd94c88e4e8fac238daa4244e98da2b7806e86d52b57569c081c3aba1ad03
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png", Movistar Comedia
 http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/580/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png", Movistar Comedia
+http://185.231.163.17/613/1/index.m3u8?k=b184bc6a70ddaa09f9efcdec5c4d5a99f41e24ed2c6216b80a81195dc16c85909d76f826d69829d0b2b1e64f8479768197438197ac66764e0b413ff99b3aebb265195fcd4155b9ce8f12d700f1d3f48315c46cf807860574b9c1cb43820fa53d2a0f0aa7dcd549f9eac2c54e91256516
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1200px-Movistar_DCine.svg.png", Movistar DCine
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8
 #EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/movistar-accion.png", Movistar Accion 
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/605/index.m3u8
+#EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/movistar-accion.png", Movistar Accion 
+http://185.231.163.17/609/1/index.m3u8?k=87debaf296ef2f5122529f5237f813f56d5a3b8739f63a43342ae417c0e644bc080adc6a829e8a35f8e3c19587e4630569359d09dea50915e0ea90f7e4d7c160e0bea8003bccb05afd8aebbca30d36e6f4f8f287d0e03a76aff6a39e67dd2c101a1c4f27c85932cf0769818e23ee02d6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Movistar_Xtra.svg/1200px-Movistar_Xtra.svg.png", Movistar Xtra
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
 #EXTINF:-1 tvg-logo="http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png",Movistar Formula 1
 http://185.231.163.17/651/1/index.m3u8?k=87a873c9d29b04e342caa6a7307c5853d919e474844f0803f98c0a2c5b2cb9c43ee94010c8d2f1a1b7a68ed8a0ad230b34025c46da19782ab61c0c1ce86e8d573ac786be7f1e034d28ab3965399df277b8d7544c97765d9d4d37b94fc2bf93c4a210e656e9cdc35e8ef4a8b5f76710c7
 #EXTINF:-1 tvg-logo="http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png",Movistar Formula 1 
-http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/59/index.m3u8
+http://185.231.163.17/651/1/index.m3u8?k=0d5911cd9fc2cc8360773fd99cd78b2528e894afe2c97affc13c39ee30dafa47a77d514c1b11d429f67beca0312a918a2427a1f236e5d411f4a3134911a9a4791c708093ebdb44f8022ff796a802ade46fe7e193eb79966e0fbf7f9b49aa3ad2fadccfc3e3894bb86c1907e89f50d74e
 #EXTINF:-1 tvg-logo="http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png",Movistar Formula 1 
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/612/index.m3u8
 #EXTINF:-1 tvg-logo="http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png",Movistar Formula 1 
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3245.m3u8
+http://185.231.163.17/651/1/index.m3u8?k=369bf62eaf1f47227a01b8abd1bc852aedb00b33d4629c622419d515ba8ea1b784b1adc6ad798fc3942d28ed989f22a4502a6a775abf5397c7c42fa296e18c322a6148f140a169abdf1012f028ddf03ff44aea93974e421a7dc7cbd93bf1697067758be1ac679e7c59080744e35ba516
 #EXTINF:-1 tvg-logo="http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png",Movistar Formula 1 
 http://185.231.163.17/651/1/index.m3u8?k=d5341bf963e5bf8d9231aeab90fd6c4f1557dbf020062a81af7415d619fef4f913d4a338ae1f75608dde9c17b037923edf3889d159654dc095e85c4dc724c5854b232afe97beea2641979076fabec254bad7d7776bd08b3c4ebcd0d8186f84346252bb53bee187e452e07fbc714206ba
 #EXTINF:-1 tvg-logo="http://todotele.com/wp-content/uploads/2016/04/movistar-motoGP-logo.png",Movistar Moto GP 
@@ -75,15 +87,15 @@ http://185.21.216.153:7071/cdn/mmotogpes/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rpb
 #EXTINF:-1 tvg-logo="http://todotele.com/wp-content/uploads/2016/04/movistar-motoGP-logo.png",Movistar Moto GP 
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/613/index.m3u8
 #EXTINF:-1 tvg-logo="http://todotele.com/wp-content/uploads/2016/04/movistar-motoGP-logo.png",Movistar Moto GP
-http://playlist.onlybest.tv/ru/channel/93308c1d4668223e600a223a8004a665/613/index.m3u8
+http://185.231.163.17/652/1/index.m3u8?k=16373f5234b2314d74e61c7ced16be8d3b5ed1084c6fdce94303c2185d3a99966cae2544b3a2ba7580e49009ae99a10c659a3ce082697f7baf79ad49222a79ad6e89888c6c31ee1571141a839ecf929254cfce9c8e3b5d4ee26401e0c15885b93678d89cf78288d823a986c5ef1b14f9
 #EXTINF:-1 tvg-logo="http://todotele.com/wp-content/uploads/2016/04/movistar-motoGP-logo.png",Movistar Moto GP
-http://playlist.onlybest.tv/ru/channel/3b2f5506be6a5d5311b6a80c6acb5476/613/index.m3u8
+http://185.231.163.17/652/1/index.m3u8?k=24c702b4737680e24c1f39d8d51893b7a5100fb1069e1f56f829203194858d4077b5e7b0c29f3da24c559ea0a9eed947e752eb12faf41fe637cd83b65467ed701378010cd4101b127ebaf8ad3a302a772452f2f47c1e67488683ff2af6429a5b1ac974af328e5f0eb3bab8e97d83d434
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VTeboaN.png",beIN SPORTS 
-http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8 
+http://185.231.163.17/607/1/index.m3u8?k=586bb405f364645802e13be569beffb7a8d71fdf5d2ab866ca8fe483e0d39b42d13cccb59b5159973f1125ebfd34c0419c39dd37a0eb71eb6b43c6cdaa3fc96521e2a2665308b299d60df116e0752804b193008c3d5c6acd05cf5948633fac10d49fc6815645946aee76c67ecc15aae1 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VTeboaN.png",beIN SPORTS 
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.beinconnect.es/uploads/comun/img/logos/bein-laliga-md.png",Bein LaLiga 
-http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/574/index.m3u8
+http://185.231.163.17/614/1/index.m3u8?k=bfc36a8fc235bda5ddfb400f1cbb15993ca1722399a4a10270a0b86f75550a99ceb289115cbc8deb204477c9c94f2007b1bf42b5613810977ade9cb857205c3d8c77765defb201137ffed276522fd2e453869c938766f4130515597ae7163260efa083c0b96826c86fe450080a91b2f6
 #EXTINF:-1 tvg-logo="https://static.beinconnect.es/uploads/comun/img/logos/bein-laliga-md.png",Bein LaLiga 
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/574/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.beinconnect.es/uploads/comun/img/logos/bein-laliga-md.png",Bein LaLiga 
@@ -97,7 +109,7 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/581/inde
 #EXTINF:-1 tvg-logo="http://static.goltelevision.com/uploads/gol/web/img/logos/laliga-123-lg-v.png",BEIN_LA_LIGA_123
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3248.m3u8
 #EXTINF:-1 tvg-logo="http://vercanalestv.com/imagenes/movistar-futbol.jpg",Movistar Futbol
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
+http://185.231.163.17/608/1/index.m3u8?k=bf9f59de459d494729b3f4e4904eeb73bdd30e85836802d32cccada149e4fcb572a974757e9588fa53312131a88b245cd97f45f912a1675715b72a4e5e34aae1eb59283b82c482f5d883536b6b69a45649c22c6179b0e044690f6700446e450a1a37e3aad8eb891ad9b4d28693f1983c
 #EXTINF:-1 tvg-logo="http://meteoalcorcon.es/1_0_19_7828_428_1_C00000_0_0_0.png",Movistar Deportes 1
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3246.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/langfr-280px-Movistar_Deportes_2.svg.png",Movistar Deportes 2
@@ -105,7 +117,7 @@ http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3247.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Eurosport_2_Logo.jpg",Eurosport 2
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/77/index.m3u8
 #EXTINF:-1 tvg-logo="http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png",Movistar Formula 1
-http://185.21.216.153:7071/cdn/mf1es/chunks.m3u8?nimblesessionid=4632697&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDE4IDk6MDQ6NDMgUE0maGFzaF92YWx1ZT1YS2pNMzJvZVZ2ZFF3RVFXSGQyWG9RPT0mdmFsaWRtaW51dGVzPTI=
+http://185.21.216.153:7071/cdn/mf1es/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDE4IDE6NDU6MjIgUE0maGFzaF92YWx1ZT1BWURHL1RIQVRFRW5MZ3RaWEJORjRBPT0mdmFsaWRtaW51dGVzPTI
 #EXTINF:-1 tvg-logo="http://todotele.com/wp-content/uploads/2016/04/movistar-motoGP-logo.png",Movistar Moto GP 
 http://185.21.216.153:7071/cdn/mmotogpes/chunks.m3u8?nimblesessionid=4633682&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDE4IDk6MDg6MzEgUE0maGFzaF92YWx1ZT1xNGtsWC9Hck1jM2svdWxLeWFVTFNRPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/120px-Movistar_Golf.svg.png",Movistar Golf 
@@ -115,27 +127,27 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/NVsHrx9Asc4/maxresdefault.jpg",MOVISTAR FightBox
 http://hls.redefine.pl/ECD95B41/1573/0/hls720/masterlist.m3u8
 #EXTINF:-1,Movistar Disney
-http://195.154.236.48/live/plusdisney/index.m3u8?token=4j0Bgl9UdYEuJ8OsRGKS5A&expires=1526442227
+http://xxedge62.livesports.pw/live/mdisney/chunklist.m3u8?md5=XN-07YVheDRUPc-3r4qYtQ&expires=1526823606
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/92/d3/67/92d367188454874297c67bf1bdd9bf8e.jpg",NICK JR
 http://178.132.5.98:25461/live/oDNKz4UHGu/47iuV7JxAv/3654.m3u8
 #EXTINF:-1 tvg-logo="http://lofrev.net/wp-content/photos/2016/06/nickelodeon-logo.jpg",Nickelodeon
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3323.m3u8
+http://xxedge65.livesports.pw/live/nick/chunklist.m3u8?md5=-rcLd4ZRRIgVEUySeSAyvQ&expires=1526823818
 #EXTINF:-1 tvg-logo="http://t03.deviantart.net/06qA8F4dev0i9E0rDwP4VVqoyRk=/fit-in/700x350/filters:fixed_height(100,100):origin()/pre01/903b/th/pre/i/2016/343/f/b/disney_channel_logo_redesign_by_megamario99-dar2n4v.png",Disney Channel
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3327.m3u8
+http://xxedge64.livesports.pw/live/disneychannel/chunklist.m3u8?md5=ZPJgMzCqDaIhw581K-90Tg&expires=1526823733
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png",Boing
-http://lsd2-latam.secure2.footprint.net/hls-live/streamroot_lsd2latam-pkpk/_definst_/live/stream1.m3u8
+http://xxedge62.livesports.pw/live/boing/chunklist.m3u8?md5=2aKdFfDRQ10u3Sp9FtY8zQ&expires=1526823784
 #EXTINF:-1 tvg-logo="https://fontmeme.com/images/Disney-Junior-Logo.jpg",Disney Junior
-http://185.21.216.153:7071/cdn/disneyjres/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDE4IDc6MTc6NTAgUE0maGFzaF92YWx1ZT1SK25ncVZtMGxsUEphTVRsVGNXRU13PT0mdmFsaWRtaW51dGVzPTI=
+http://185.231.163.17/643/2/index.m3u8?k=b9a2a552ddfca0f7d916af2153d0f75f21016f77434948f6c304c2d40b15eae7f5212a53e3601fba64e88a6b74f100ad0d86c1480a75afa1732970be7cb0106db1102e52be408c295b6d879cb3d7623a21eaf1b64c4db4c74701594dba8db5c5750ac061bc927b39b6a751e77a5550fd
 #EXTINF:-1 tvg-logo="http://beyondthemarquee.com/wp-content/uploads/2012/04/Disney+XD+Logo.jpg",Disney XD
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3325.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Historia_Logo_2015.png",Historia 
-http://185.21.216.153:7071/cdn/historyes/chunks.m3u8?nimblesessionid=5153937&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDE4IDk6MDM6MDcgUE0maGFzaF92YWx1ZT1IY1FjTmJRbDBkSnE4NmVtYTVyKy93PT0mdmFsaWRtaW51dGVzPTI=
+http://copo4.mitopo.me/live/historia/index.m3u8?token=tOLMygD5fWaLhRFTbpQFIw&expires=1526822710
 #EXTINF:-1 tvg-logo="https://www.nationalgeographic.com/content/dam/magazine/Logos/national-geographic.ngsversion.1475151192637.adapt.1900.1.jpg",National Geographic
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3337.m3u8
+http://copo2.mitopo.me/live/nationalgeo/index.m3u8?token=ixqJ0fFMD3E7QNYaQiMNWg&expires=1526822840
 #EXTINF:-1 tvg-logo="http://media-cache-ak0.pinimg.com/736x/8f/8d/03/8f8d03b5ec0fe64cd8541bcbc6dd1f63.jpg",Nat Geo Wild 
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3338.m3u8
+http://copo4.mitopo.me/live/nationalwild/index.m3u8?token=apPIgp50Xr2poLH9_iYxMw&expires=1526822767
 #EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/04/Discovery-channel-logo-old.png",Discovery 
-http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3340.m3u8
+http://copo7.mitopo.me/live/discovery/index.m3u8?token=-mHwA9vXTPdvvV75DJ0wzQ&expires=1526822799
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ma9Kz5T.png" group-title="DEPORTES", Box Nation
 http://185.21.216.149:7071/super/boxnation/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDE4IDc6MTk6MTYgUE0maGFzaF92YWx1ZT1rRU5pTHJCS2Y3Y1pjZ0VuMjVYaGdBPT0mdmFsaWRtaW51dGVzPTI=
 
