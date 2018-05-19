@@ -35,8 +35,6 @@ http://185.231.163.17/612/1/index.m3u8?k=e625b662da779a07880abb7ae73459043962b28
 #EXTINF:-1 tvg-logo="http://domingomartinez.com/bitacora/wp-content/media/captura-de-pantalla-2013-05-24-a-las-012543-300x296.png",Calle 13
 http://xxedge66.livesports.pw/live/calle13/chunklist.m3u8?md5=Ofyof0lXmijlIOgtHmTdww&expires=1526823690
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/46/88/e6/4688e66e78ed451e0d55733386ead24d.jpg",TNT
-http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(07)/index.m3u8
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/46/88/e6/4688e66e78ed451e0d55733386ead24d.jpg",TNT
 http://copo1.mitopo.me/live/tnt/index.m3u8?token=vzNXC8b7kerkp1Lv7mdYDw&expires=1526822597
 #EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2013/11/amc-logo.jpg",AMC
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/614/index.m3u8
