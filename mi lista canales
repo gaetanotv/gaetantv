@@ -32,7 +32,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://petopa151.caraponi.me/live/formula1/index.m3u8?token=HWHZ-2eFWLz3MZAqBYPr0w&expires=1526500944</page>
+<page>http://www.vercanalestv.com/ver-formula-1-en-directo-y-online-gratis/</page>
 <referer>http://vergol.com/live3/formula1.php</referer>
 </regex>
 <thumbnail>http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png</thumbnail>
