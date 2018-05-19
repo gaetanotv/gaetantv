@@ -59,8 +59,7 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/605/inde
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Movistar_Xtra.svg/1200px-Movistar_Xtra.svg.png", Movistar Xtra
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
 #EXTINF:-1 tvg-logo="http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png",Movistar Formula 1
-#EXTVLCOPT:network-caching=1000
-http://mypanel.tv:8080/live/berto/berto/13549.m3u8
+http://185.231.163.17/651/1/index.m3u8?k=87a873c9d29b04e342caa6a7307c5853d919e474844f0803f98c0a2c5b2cb9c43ee94010c8d2f1a1b7a68ed8a0ad230b34025c46da19782ab61c0c1ce86e8d573ac786be7f1e034d28ab3965399df277b8d7544c97765d9d4d37b94fc2bf93c4a210e656e9cdc35e8ef4a8b5f76710c7
 #EXTINF:-1 tvg-logo="http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png",Movistar Formula 1 
 http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/59/index.m3u8
 #EXTINF:-1 tvg-logo="http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png",Movistar Formula 1 
