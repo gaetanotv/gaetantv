@@ -32,7 +32,7 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/inde
 #EXTVLCOPT:network-caching=1000
 http://mypanel.tv:8080/live/berto/berto/7247.m3u8
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/46/88/e6/4688e66e78ed451e0d55733386ead24d.jpg",TNT
-http://185.21.216.153:7071/cdn/tntes/chunks.m3u8?nimblesessionid=5154943&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDE4IDk6MDc6MTYgUE0maGFzaF92YWx1ZT13TExjNzVTVTFBWUFMMm1oZFB3Y0ZRPT0mdmFsaWRtaW51dGVzPTI=
+http://b40476-p121-h45-af30wpov.1.cdn.telefonica.com/_40476/apple/sogecable/channel15/20180510T061417-05-3781723.ts
 #EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2013/11/amc-logo.jpg",AMC
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/614/index.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/media2.slashfilm.com/slashfilm/wp/wp-content/images/Syfy-new-logo.jpg",SYFY 
