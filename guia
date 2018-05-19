@@ -126,16 +126,7 @@ http://xxedge62.livesports.pw/live/boing/chunklist.m3u8?md5=2aKdFfDRQ10u3Sp9FtY8
 http://185.231.163.17/643/2/index.m3u8?k=b9a2a552ddfca0f7d916af2153d0f75f21016f77434948f6c304c2d40b15eae7f5212a53e3601fba64e88a6b74f100ad0d86c1480a75afa1732970be7cb0106db1102e52be408c295b6d879cb3d7623a21eaf1b64c4db4c74701594dba8db5c5750ac061bc927b39b6a751e77a5550fd
 #EXTINF:-1 tvg-logo="http://beyondthemarquee.com/wp-content/uploads/2012/04/Disney+XD+Logo.jpg",Disney XD
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3325.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Historia_Logo_2015.png",Historia 
-http://copo4.mitopo.me/live/historia/index.m3u8?token=tOLMygD5fWaLhRFTbpQFIw&expires=1526822710
-#EXTINF:-1 tvg-logo="https://www.nationalgeographic.com/content/dam/magazine/Logos/national-geographic.ngsversion.1475151192637.adapt.1900.1.jpg",National Geographic
-http://copo2.mitopo.me/live/nationalgeo/index.m3u8?token=ixqJ0fFMD3E7QNYaQiMNWg&expires=1526822840
-#EXTINF:-1 tvg-logo="http://media-cache-ak0.pinimg.com/736x/8f/8d/03/8f8d03b5ec0fe64cd8541bcbc6dd1f63.jpg",Nat Geo Wild 
-http://copo4.mitopo.me/live/nationalwild/index.m3u8?token=apPIgp50Xr2poLH9_iYxMw&expires=1526822767
-#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/04/Discovery-channel-logo-old.png",Discovery 
-http://copo7.mitopo.me/live/discovery/index.m3u8?token=-mHwA9vXTPdvvV75DJ0wzQ&expires=1526822799
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ma9Kz5T.png" group-title="DEPORTES", Box Nation
-http://185.21.216.149:7071/super/boxnation/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDE4IDc6MTk6MTYgUE0maGFzaF92YWx1ZT1rRU5pTHJCS2Y3Y1pjZ0VuMjVYaGdBPT0mdmFsaWRtaW51dGVzPTI=
+
 
 
 
