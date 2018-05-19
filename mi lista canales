@@ -19,8 +19,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte.php?file=funoesp&width=650&height=397</page>
-<referer>http://telefivegb.com/canales/deporte/F1/</referer>
+<page>http://www.playerfs.com/hembedplayer/forfor/1/650/400</page>
+<referer>http://verdirectotv.tv/ver-formula-1-en-directo-y-online-f1-en-vivo/</referer>
 </regex>
 <thumbnail>http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
@@ -32,8 +32,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vercanalestv.com/tv/deportes/formula1-multi.php</page>
-<referer>http://vergol.com/live3/formula1.php</referer>
+<page>http://vergol.com/live3/formula1.php</page>
+<referer>http://www.vercanalestv.com/ver-formula-1-en-directo-y-online-gratis/</referer>
 </regex>
 <thumbnail>http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
