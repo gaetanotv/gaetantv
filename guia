@@ -33,9 +33,11 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/inde
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-6TCNxaYMCHg/TdUHkmTKX7I/AAAAAAAAAyo/yBfpTQ-02JQ/s1600/HighResLogo_RGB.jpg",AXN
 http://185.231.163.17/612/1/index.m3u8?k=e625b662da779a07880abb7ae73459043962b28a59c5f963f4987add2dd47ac0fd5db40c747102e1596c78859a2b1d28e37e208f5dc9b1f8b83c6da309dbfb8c22c813f5e2b12525147bc413b2c2e186c16e84952d2787f61571741c2ddbfe43d0f7533678f8203de3f007fbbfeea395
 #EXTINF:-1 tvg-logo="http://domingomartinez.com/bitacora/wp-content/media/captura-de-pantalla-2013-05-24-a-las-012543-300x296.png",Calle 13
-http://163.172.52.83:8000/live/szLZYL0ImHRVzpp/hPK4pymOf8awKbM/577.m3u8
+http://37.187.128.169:8000/live/21NOad8998fjkaii/dhfuu3DDe4555gf5/42.m3u8
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/46/88/e6/4688e66e78ed451e0d55733386ead24d.jpg",TNT
-http://163.172.52.83:8000/live/szLZYL0ImHRVzpp/hPK4pymOf8awKbM/503.m3u8
+http://copo1.mitopo.me/live/tnt/index.m3u8?token=OvcpLK2Jd2nobEBR3q2wyw&expires=1527183019
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/46/88/e6/4688e66e78ed451e0d55733386ead24d.jpg",TNT
+http://37.187.128.169:8000/live/21NOad8998fjkaii/dhfuu3DDe4555gf5/12.m3u8
 #EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2013/11/amc-logo.jpg",AMC
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/614/index.m3u8
 #EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2013/11/amc-logo.jpg",AMC
@@ -55,7 +57,7 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/611/inde
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fMpB1ufWR0g/VuwigsX1_WI/AAAAAAAAACQ/n2Fy1VyrYSQ9b-tSuTveLCXf4wRpB_HMQ/s1600/-CD4VuPl.png",#0
 http://185.231.163.17/650/2/index.m3u8?k=e6207ef8be436d8a1095b53c6ed37fbf044553749d0a74372bad264eaea479bfd83a2a543e09f3ae222aefbf4faa0ba3b9f8b981e13845fe52a57110a38d0a00225df24cafc75b907564c977d4ccff377119c8afb7fe860820ac7e72d122d7f62b26d9eb8152af76cb4ace1fee08e9d5
 #EXTINF:-1 tvg-logo="https://i0.wp.com/diariomnipresente.com/wp-content/uploads/2016/09/Star-Wars-Movistar-Estrenos.png",Movistar Estrenos
-http://163.172.52.83:8000/live/szLZYL0ImHRVzpp/hPK4pymOf8awKbM/527.ts
+http://37.187.128.169:8000/live/21NOad8998fjkaii/dhfuu3DDe4555gf5/48.ts
 #EXTINF:-1 tvg-logo="https://i0.wp.com/diariomnipresente.com/wp-content/uploads/2016/09/Star-Wars-Movistar-Estrenos.png",Movistar Estrenos
 http://copo5.mitopo.me/live/plusestrenos/index.m3u8?token=XjR2YDuzWo6gDIlm996Ouw&expires=1527160292
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1200px-Movistar_Series.svg.png",Movistar Series Xtra 
@@ -129,13 +131,13 @@ http://xxedge64.livesports.pw/live/disneychannel/chunklist.m3u8?md5=ZPJgMzCqDaIh
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png",Boing
 http://xxedge62.livesports.pw/live/boing/chunklist.m3u8?md5=2aKdFfDRQ10u3Sp9FtY8zQ&expires=1526823784
 #EXTINF:-1 tvg-logo="https://fontmeme.com/images/Disney-Junior-Logo.jpg",Disney Junior
-http://185.231.163.17/643/2/index.m3u8?k=b9a2a552ddfca0f7d916af2153d0f75f21016f77434948f6c304c2d40b15eae7f5212a53e3601fba64e88a6b74f100ad0d86c1480a75afa1732970be7cb0106db1102e52be408c295b6d879cb3d7623a21eaf1b64c4db4c74701594dba8db5c5750ac061bc927b39b6a751e77a5550fd
+http://37.187.128.169:8000/live/21NOad8998fjkaii/dhfuu3DDe4555gf5/9.m3u8
 #EXTINF:-1 tvg-logo="http://beyondthemarquee.com/wp-content/uploads/2012/04/Disney+XD+Logo.jpg",Disney XD
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3325.m3u8
 #EXTINF:-1,Historia
 http://copo7.mitopo.me/live/historia/index.m3u8?token=8y5VwRJuaZeWUGUG--iO8Q&expires=1527160470
 #EXTINF:-1,National Geographic
-http://163.172.52.83:8000/live/szLZYL0ImHRVzpp/hPK4pymOf8awKbM/519.m3u8
+http://37.187.128.169:8000/live/21NOad8998fjkaii/dhfuu3DDe4555gf5/23.m3u8
 
 
 
