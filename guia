@@ -35,7 +35,7 @@ http://185.231.163.17/612/1/index.m3u8?k=e625b662da779a07880abb7ae73459043962b28
 #EXTINF:-1 tvg-logo="http://domingomartinez.com/bitacora/wp-content/media/captura-de-pantalla-2013-05-24-a-las-012543-300x296.png",Calle 13
 http://xxedge61.livesports.pw/live/calle13/chunklist.m3u8?md5=XrGCrVfTdPYjQanCTFfHHA&expires=1527011889
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/46/88/e6/4688e66e78ed451e0d55733386ead24d.jpg",TNT
-http://163.172.52.83:8000/live/szLZYL0ImHRVzpp/hPK4pymOf8awKbM/503.ts
+http://163.172.52.83:8000/live/szLZYL0ImHRVzpp/hPK4pymOf8awKbM/503.m3u8
 #EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2013/11/amc-logo.jpg",AMC
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/614/index.m3u8
 #EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2013/11/amc-logo.jpg",AMC
@@ -57,9 +57,9 @@ http://185.231.163.17/650/2/index.m3u8?k=e6207ef8be436d8a1095b53c6ed37fbf0445537
 #EXTINF:-1 tvg-logo="https://i0.wp.com/diariomnipresente.com/wp-content/uploads/2016/09/Star-Wars-Movistar-Estrenos.png",Movistar Estrenos
 http://xxedge64.livesports.pw/live/mestrenos/chunklist.m3u8?md5=GM9FnixELmalVc_5EztT4g&expires=1527010814
 #EXTINF:-1 tvg-logo="https://i0.wp.com/diariomnipresente.com/wp-content/uploads/2016/09/Star-Wars-Movistar-Estrenos.png",Movistar Estrenos
-http://copo7.mitopo.me/live/plusestrenos/index.m3u8?token=DcNSrd9ukJQAq2sBq1WiRw&expires=1527012176
+http://copo5.mitopo.me/live/plusestrenos/index.m3u8?token=XjR2YDuzWo6gDIlm996Ouw&expires=1527160292
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1200px-Movistar_Series.svg.png",Movistar Series Xtra 
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
+http://petu14.pedromo.me/live/plusseries/index.m3u8?token=HiDyORj6JDxPEpqP1ffvng&expires=1527160364
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png", Movistar Comedia
 http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/580/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png", Movistar Comedia
@@ -133,7 +133,7 @@ http://185.231.163.17/643/2/index.m3u8?k=b9a2a552ddfca0f7d916af2153d0f75f21016f7
 #EXTINF:-1 tvg-logo="http://beyondthemarquee.com/wp-content/uploads/2012/04/Disney+XD+Logo.jpg",Disney XD
 http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3325.m3u8
 #EXTINF:-1,Historia
-http://185.21.216.153:7071/cdn/historyes/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDE4IDY6MDM6MzggUE0maGFzaF92YWx1ZT1MKzFBS0tZdGQzeDlDMHZSZi9oY1hnPT0mdmFsaWRtaW51dGVzPTI=
+http://copo7.mitopo.me/live/historia/index.m3u8?token=8y5VwRJuaZeWUGUG--iO8Q&expires=1527160470
 #EXTINF:-1,National Geographic
 http://167.114.157.19:38953/live/1/1/12900.ts
 
