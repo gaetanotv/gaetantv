@@ -61,19 +61,19 @@ http://37.187.128.169:8000/live/21NOad8998fjkaii/dhfuu3DDe4555gf5/48.ts
 #EXTINF:-1 tvg-logo="https://i0.wp.com/diariomnipresente.com/wp-content/uploads/2016/09/Star-Wars-Movistar-Estrenos.png",Movistar Estrenos
 http://copo5.mitopo.me/live/plusestrenos/index.m3u8?token=XjR2YDuzWo6gDIlm996Ouw&expires=1527160292
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1200px-Movistar_Series.svg.png",Movistar Series Xtra 
-http://petu14.pedromo.me/live/plusseries/index.m3u8?token=HiDyORj6JDxPEpqP1ffvng&expires=1527160364
+http://37.187.128.169:8000/live/21NOad8998fjkaii/dhfuu3DDe4555gf5/18.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png", Movistar Comedia
 http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/580/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png", Movistar Comedia
 http://185.231.163.17/613/1/index.m3u8?k=b184bc6a70ddaa09f9efcdec5c4d5a99f41e24ed2c6216b80a81195dc16c85909d76f826d69829d0b2b1e64f8479768197438197ac66764e0b413ff99b3aebb265195fcd4155b9ce8f12d700f1d3f48315c46cf807860574b9c1cb43820fa53d2a0f0aa7dcd549f9eac2c54e91256516
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1200px-Movistar_DCine.svg.png", Movistar DCine
-http://185.21.216.153:7071/cdn/mdcinees/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDE4IDY6MDY6MjcgUE0maGFzaF92YWx1ZT1iOGVUOUhtR2ZObEdtNUJCTjRwYXh3PT0mdmFsaWRtaW51dGVzPTI=
+http://37.187.128.169:8000/live/21NOad8998fjkaii/dhfuu3DDe4555gf5/51.ts
 #EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/movistar-accion.png", Movistar Accion 
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/605/index.m3u8
 #EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/movistar-accion.png", Movistar Accion 
 http://185.231.163.17/609/1/index.m3u8?k=87debaf296ef2f5122529f5237f813f56d5a3b8739f63a43342ae417c0e644bc080adc6a829e8a35f8e3c19587e4630569359d09dea50915e0ea90f7e4d7c160e0bea8003bccb05afd8aebbca30d36e6f4f8f287d0e03a76aff6a39e67dd2c101a1c4f27c85932cf0769818e23ee02d6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Movistar_Xtra.svg/1200px-Movistar_Xtra.svg.png", Movistar Xtra
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
+http://37.187.128.169:8000/live/21NOad8998fjkaii/dhfuu3DDe4555gf5/45.ts
 #EXTINF:-1 tvg-logo="http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png",Movistar Formula 1
 http://37.187.128.169:8000/live/21NOad8998fjkaii/dhfuu3DDe4555gf5/29.ts
 #EXTINF:-1 tvg-logo="http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png",Movistar Formula 1 
