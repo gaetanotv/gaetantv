@@ -45,7 +45,7 @@ http://185.231.163.17/653/1/index.m3u8?k=1d82529930561f93aaa25c9cd2de0841157aa9e
 #EXTINF:-1 tvg-logo="https://i0.wp.com/media2.slashfilm.com/slashfilm/wp/wp-content/images/Syfy-new-logo.jpg",SYFY 
 http://playlist.onlybest.tv/ru/channel/57130b963cf73960c05f8ec9eb7db0e9/608/index.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/media2.slashfilm.com/slashfilm/wp/wp-content/images/Syfy-new-logo.jpg",SYFY 
-http://185.21.216.153:7071/cdn/syfyes/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDE4IDY6MDc6MjMgUE0maGFzaF92YWx1ZT1rS1JwZ2JsL3JFa2tKQ29oNTVxMXVnPT0mdmFsaWRtaW51dGVzPTI=
+http://37.187.128.169:8000/live/21NOad8998fjkaii/dhfuu3DDe4555gf5/43.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/1200px-Cosmo_TV_logo.svg.png",COSMO
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.televisiontdtonline.com/wp-content/uploads/2012/11/divinity_tw.png",Divinity
@@ -137,9 +137,11 @@ http://server.stablechannels.tv:25461/live/5RUTvfRf3/mD2fb0Y3z1/3325.m3u8
 #EXTINF:-1,Historia
 http://copo7.mitopo.me/live/historia/index.m3u8?token=8y5VwRJuaZeWUGUG--iO8Q&expires=1527160470
 #EXTINF:-1,National Geographic
+http://37.187.128.169:8000/live/21NOad8998fjkaii/dhfuu3DDe4555gf5/24.ts
+#EXTINF:-1,National Geo Wild
 http://37.187.128.169:8000/live/21NOad8998fjkaii/dhfuu3DDe4555gf5/23.ts
-
-
+#EXTINF:-1,National Geographic
+http://37.187.128.169:8000/live/21NOad8998fjkaii/dhfuu3DDe4555gf5/22.ts
 
 
 
