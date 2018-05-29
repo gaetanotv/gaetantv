@@ -32,8 +32,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live3/formula1.php</page>
-<referer>http://www.vercanalestv.com/ver-formula-1-en-directo-y-online-gratis/</referer>
+<page>http://vercanalestv.com/tv/deportes/formula1-multi.php</page>
+<referer>http://vertelevision.tv/tv/deportes/f1.html</referer>
 </regex>
 <thumbnail>http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
@@ -59,8 +59,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte.php?file=deporteone&width=650&height=397</page>
-<referer>http://telefivegb.com/canales/deporte/deporte1</referer>
+<page>http://vergol.com/live1/plusdeportes1.php</page>
+<referer>http://verliga.net/live/verliga6.php</referer>
 </regex>
 <thumbnail>http://meteoalcorcon.es/1_0_19_7828_428_1_C00000_0_0_0.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
@@ -111,8 +111,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte.php?file=beinsport&width=650&height=397</page>
-<referer>http://telefivegb.com/canales/deporte/deporte2</referer>
+<page>http://vergol.com/live3/beinsport.php</page>
+<referer>http://vercanalestv.com/tv/deportes/bein-sport-multi.php</referer>
 </regex>
 <thumbnail>https://beinmediagroup.com/wp-content/uploads/2015/03/beINSPORTS.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
@@ -124,8 +124,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte.php?file=mfutboles&width=650&height=397</page>
-<referer>http://telefivegb.com/canales/deporte/futbol/index2.html</referer>
+<page>http://vergol.com/live3/plusfutbol.php</page>
+<referer>http://vercanalestv.com/tv/deportes/canal-plus-futbol.php</referer>
 </regex>
 <thumbnail>http://vercanalestv.com/imagenes/movistar-futbol.jpg</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
@@ -163,8 +163,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte.php?file=motogpm&width=650&height=397</page>
-<referer>http://telefivegb.com/canales/deporte/motogp/index2.html</referer>
+<page>http://www.playerfs.com/hembedplayer/rterce4d3/2/650/400</page>
+<referer>http://vertelevision.tv/tv/deportes/motos.html</referer>
 </regex>
 <thumbnail>http://todotele.com/wp-content/uploads/2016/04/movistar-motoGP-logo.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
