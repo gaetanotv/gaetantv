@@ -67,7 +67,7 @@ http://185.21.216.153:7071/cdn/mf1es/chunks.m3u8?nimblesessionid=3446952&wmsAuth
 #EXTINF:-1 tvg-logo="http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png",Movistar Formula 1 
 http://185.231.163.17/651/1/index.m3u8?k=d5341bf963e5bf8d9231aeab90fd6c4f1557dbf020062a81af7415d619fef4f913d4a338ae1f75608dde9c17b037923edf3889d159654dc095e85c4dc724c5854b232afe97beea2641979076fabec254bad7d7776bd08b3c4ebcd0d8186f84346252bb53bee187e452e07fbc714206ba
 #EXTINF:-1 tvg-logo="http://todotele.com/wp-content/uploads/2016/04/movistar-motoGP-logo.png",Movistar Moto GP 
-http://185.21.216.153:7071/cdn/mmotogpes/chunks.m3u8?nimblesessionid=3446701&wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDE4IDExOjE4OjM2IEFNJmhhc2hfdmFsdWU9aitjOXdLbkVSWlYvOWdqNTR6ZFFCUT09JnZhbGlkbWludXRlcz0y
+http://185.231.163.17/652/1/index.m3u8?k=fe126bd37e51c29815c2f9faa8831f0e838de45d10a3466cd118f9f712e272d149784b0090e4a812e64892e210cf19a6ff9236403e403685653c602bc094693ee85b388c15b9865fcb7fa9f06bf1b6c8d004ccad6c8d62242e9da8d94f03487facf963f1b254543f19b8a79b30976edb
 #EXTINF:-1 tvg-logo="http://todotele.com/wp-content/uploads/2016/04/movistar-motoGP-logo.png",Movistar Moto GP 
 http://185.21.216.153:7071/cdn/mmotogpes/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDE4IDc6MDg6NDggUE0maGFzaF92YWx1ZT1wMHpXdE9uL0dlaVRCTFpPU2d1Z0lnPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 tvg-logo="http://todotele.com/wp-content/uploads/2016/04/movistar-motoGP-logo.png",Movistar Moto GP
