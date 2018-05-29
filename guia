@@ -24,8 +24,6 @@ http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/577/inde
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/567/index.m3u8
 #EXTINF:-1 tvg-logo="http://dshm.tmsimg.com/h5/NowShowing/75423/s75423_h5_aa.png",Fox 
 http://185.21.216.153:7071/cdn/foxes/chunks.m3u8?nimblesessionid=3446194&wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDE4IDExOjE1OjU1IEFNJmhhc2hfdmFsdWU9U013L2xCSGFjSnJubkwvcE5oZDZwQT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1 tvg-logo="http://dshm.tmsimg.com/h5/NowShowing/75423/s75423_h5_aa.png",Fox 
-http://p04.quest123.top:8088/stream/l80865085/playlist.m3u8?id=3112&wowzasessionid=3908702412&pk=bab0937451f7cb0da17ade203fa07c2f17081e865487011c8d81dcda1a348026
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-6TCNxaYMCHg/TdUHkmTKX7I/AAAAAAAAAyo/yBfpTQ-02JQ/s1600/HighResLogo_RGB.jpg",AXN
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8
 #EXTINF:-1 tvg-logo="http://domingomartinez.com/bitacora/wp-content/media/captura-de-pantalla-2013-05-24-a-las-012543-300x296.png",Calle 13
@@ -47,7 +45,7 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/inde
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fMpB1ufWR0g/VuwigsX1_WI/AAAAAAAAACQ/n2Fy1VyrYSQ9b-tSuTveLCXf4wRpB_HMQ/s1600/-CD4VuPl.png",#0
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/611/index.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/diariomnipresente.com/wp-content/uploads/2016/09/Star-Wars-Movistar-Estrenos.png",Movistar Estrenos
-http://p04.quest123.top:8088/stream/l80865085/playlist.m3u8?id=3112&wowzasessionid=3908702412&pk=bab0937451f7cb0da17ade203fa07c2f17081e865487011c8d81dcda1a348026
+http://62.210.162.40:25461/live/amador/amador/61976.ts?token=QxBYUUNbFg9EBwIPAQZeUAMOAVtRAVtWBVEHCAhXVFVaU1NVBQRWVAARShoXQEoGBFRqClFBAgFQCwQPHEcUEl1Ab1lUEQ4XVwJQDlMWFEERUFgGF1kJAlMFBgAEUVFQFBBAWVQRDhdfAVMARhgaBh1NUBFbAlRoBVdFUFMAQ1tWR1xcHBFbWzlXA1UFWlxBXxsFQRlBUUQREAkbZgoFAF5dXlUQdkdFB10HGDcaeU0wFxdPFwFRQxNTR1wSX0NTDwIJEhwRV1oTXRJKHRYCQSBqF08XBkBDBFxAUF8LQ1saRkMSHBFdRjlBA0sQRl0CCFxHQQ9BCBVNEF5YSDoCDlZcVVNEWltbFRFcGlYWFEEIVlsKQQxKaBFbVxsKR1lYAAESTQ==
 #EXTINF:-1 tvg-logo="https://i0.wp.com/diariomnipresente.com/wp-content/uploads/2016/09/Star-Wars-Movistar-Estrenos.png",Movistar Estrenos
 http://copo5.mitopo.me/live/plusestrenos/index.m3u8?token=XjR2YDuzWo6gDIlm996Ouw&expires=1527160292
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1200px-Movistar_Series.svg.png",Movistar Series Xtra 
