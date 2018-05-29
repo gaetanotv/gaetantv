@@ -33,7 +33,7 @@
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
 <page>http://www.playerfs.com/hembedplayer/l80865085/2/650/400</page>
-<referer>http://vertelevision.tv/tv/deportes/f1.html</referer>
+<referer>http://vercanalestv.com/tv/deportes/formula1-multi.php</referer>
 </regex>
 <thumbnail>http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
