@@ -19,8 +19,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://www.vergol.com/live/formula1.php</page>
-<referer>http://verdirectotv.tv/ver-formula-1-en-directo-y-online-f1-en-vivo/</referer>
+<page>http://livesports.pw/embeddeporte1.php?file=f1esp&width=650&height=397</page>
+<referer>http://verplusonline.com/ver-movistar-f1-online/</referer>
 </regex>
 <thumbnail>http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
