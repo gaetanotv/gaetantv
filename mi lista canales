@@ -584,8 +584,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://player.livesports.pw/telecinco/</page>
-<referer>http://telefivegb.com/canales/tdt/telecinco</referer>
+<page>http://vergol.com/live1/telecinco.php</page>
+<referer>http://verdirectotv.com/tv/nacionales2/telecinco.html</referer>
 </regex>
 <thumbnail>https://www.ono.es/ono-resources/img/products-web/logos_parrilla_tv/img_logo_telecinco.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
@@ -597,8 +597,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://player.livesports.pw/cuatro/</page>
-<referer>http://telefivegb.com/canales/tdt/cuatro</referer>
+<page>http://vergol.com/live1/cuatro.php</page>
+<referer>http://verdirectotv.com/tv/nacionales2/cuatro.html</referer>
 </regex>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/b/b2/Cuatro_HD2012.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
@@ -610,9 +610,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://player.livesports.pw/antena3/</page>
-<referer>http://telefivegb.com/canales/tdt/ant3/
- </referer>
+<page>http://vergol.com/live1/antena3.php</page>
+<referer>http://verdirectotv.com/tv/nacionales2/antena3.html</referer>
 </regex>
 <thumbnail>http://www.karlitoway.co.uk/images/logo-antena3.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
@@ -624,8 +623,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://player.livesports.pw/sexta/</page>
-<referer>http://telefivegb.com/canales/tdt/sexta</referer>
+<page>http://vergol.com/live1/lasexta.php</page>
+<referer>http://verdirectotv.com/tv/nacionales/lasexta.html</referer>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/La_Sexta.svg/966px-La_Sexta.svg.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
