@@ -319,8 +319,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=hollywesp&width=650&height=397/</page>
-<referer>http://telefivegb.com/canales/pelis/hollywood</referer>
+<page>http://vergol.com/live/hollywood.php</page>
+<referer>http://www.vercanalestv.com/tv/nacionales/canal-hollywood.html</referer>
 </regex>
 <thumbnail>https://ulango.tv/uploads/channels/11151/logo_canal%20hollywood3.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
@@ -346,7 +346,7 @@
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
 <page>http://vergol.com/live/syfy.php</page>
-<referer>http://vercanalestv.com/tv/nacionales/mtv.html</referer>
+<referer>http://vercanalestv.com/tv/nacionales/syfy.html</referer>
 </regex>
 <thumbnail>https://i0.wp.com/media2.slashfilm.com/slashfilm/wp/wp-content/images/Syfy-new-logo.jpg</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
@@ -385,7 +385,7 @@
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embedna.php?file=darkesp&width=650&height=397/</page>
-<referer>http://telefivegb.com/canales/pelis/dark</referer>
+<referer>http://www.vercanalestv.com/tv/nacionales/canal-dark.html</referer>
 </regex>
 <thumbnail>http://adminweb.onlycable.net/img/Canale/small/Buzz/Buzz_.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
@@ -397,8 +397,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=amcesp&width=650&height=397/</page>
-<referer>http://telefivegb.com/canales/pelis/amc</referer>
+<page>http://vergol.com/live/amc.php</page>
+<referer>http://vercanalestv.com/tv/nacionales/amc.html</referer>
 </regex>
 <thumbnail>https://pmcvariety.files.wordpress.com/2013/11/amc-logo.jpg</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
@@ -410,8 +410,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embeddeporte.php?file=ligaunodostres&width=650&height=397</page>
-<referer>http://telefivegb.com/canales/deporte/LIGA123/</referer>
+<page>http://vergol.com/live3/liga123.php</page>
+<referer>http://verliga.net/live/verliga11.php</referer>
 </regex>
 <thumbnail>http://static.goltelevision.com/uploads/gol/web/img/logos/laliga-123-lg-v.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
@@ -439,8 +439,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://player.livesports.pw/goltv/</page>
-<referer>http://telefivegb.com/canales/deporte/goltv</referer>
+<page>http://vergol.com/live1/goltv.php</page>
+<referer>http://verdirectotv.com/tv/deportes2/golnuevo.html</referer>
 </regex>
 <thumbnail>http://michaelshuemaker.com/blog/new/gol-tv-online-live-3.jpg</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
@@ -466,8 +466,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=historiaesp&width=650&height=397/</page>
-<referer>http://telefivegb.com/canales/documental/historia</referer>
+<page>http://vergol.com/live/historia.php</page>
+<referer>http://vergol.com/live/historia.php</referer>
 </regex>
 <thumbnail>http://pmcdeadline2.files.wordpress.com/2014/05/history_channel_logo__140523153130.jpeg</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
@@ -479,8 +479,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=natgeoesp&width=650&height=397/</page>
-<referer>http://telefivegb.com/canales/documental/natgeo</referer>
+<page>http://vergol.com/live/nationalgeo.php</page>
+<referer>http://vercanalestv.com/tv/documentales/national-geographic.html</referer>
 </regex>
 <thumbnail>http://famouslogos.net/images/national-geographic-logo.jpg</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
@@ -492,8 +492,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=discoverychannelesp&width=650&height=397/</page>
-<referer>http://telefivegb.com/canales/documental/discoverychannel</referer>
+<page>http://vergol.com/live/discovery-channel.php</page>
+<referer>http://vercanalestv.com/tv/documentales/national-geographic.html</referer>
 </regex>
 <thumbnail>http://mymutual.files.wordpress.com/2010/06/discovery_channel_logo-800w_600h.jpg</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
