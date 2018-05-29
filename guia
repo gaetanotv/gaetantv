@@ -20,6 +20,8 @@ http://185.66.143.240:25461/live/amos/1234/659.ts?token=HkMLB0NQEg4bUlBXUwEFDFJc
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/index.m3u8
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/11151/logo_canal%20hollywood3.png",Hollywood
 http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/577/index.m3u8
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/11151/logo_canal%20hollywood3.png",Hollywood
+http://185.231.163.17/610/1/index.m3u8?k=70c7ddac43e0af91fee627c13bfe0aa5081fdfec22d3a888653ca67c90c61f4f8727de91a41b18ca78644e316db20c98e12cb3e25b33a141cdbe7ed51a2b9c7ad6f0780995a6ced574af46c45a352e2fbe30507e3d1c8d9fd84b9f986af04b55a78803d5def4575354587de6430cf47c
 #EXTINF:-1 tvg-logo="https://dash.mediaupdate.co.za/story/image/121261/121261_t.jpg",Fox Life
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/567/index.m3u8
 #EXTINF:-1 tvg-logo="http://dshm.tmsimg.com/h5/NowShowing/75423/s75423_h5_aa.png",Fox 
