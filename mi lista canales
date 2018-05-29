@@ -189,8 +189,8 @@
 <regex> 
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=calle13&width=650&height=397</page>
-<referer>http://telefivegb.com/canales/pelis/calle13</referer>
+<page>http://vergol.com/live/calle13.php</page>
+<referer>http://www.vercanalestv.com/tv/nacionales/calle-13.html</referer>
 </regex> 
 <thumbnail>http://domingomartinez.com/bitacora/wp-content/media/captura-de-pantalla-2013-05-24-a-las-012543-300x296.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
@@ -202,8 +202,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=accion&width=650&height=397</page>
-<referer>http://telefivegb.com/canales/pelis/maccion</referer>
+<page>http://vergol.com/live/plusaccion.php</page>
+<referer>http://www.vercanalestv.com/tv/nacionales/canal-plus-accion.html</referer>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1575px-Movistar_Acci%C3%B3n.svg.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
@@ -215,8 +215,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=mcomedia&width=650&height=397</page>
-<referer>http://telefivegb.com/canales/pelis/mcomedia</referer>
+<page>http://vergol.com/live/comedia.php</page>
+<referer>http://verdirectotv.com/tv/digitales/pluscomedia.html</referer>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>		
@@ -241,8 +241,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=dicneesp&width=650&height=397</page>
-<referer>http://telefivegb.com/canales/pelis/dcinen</referer>
+<page>http://vergol.com/live/dcine.php</page>
+<referer>http://verdirectotv.com/tv/digitales/plusdcine.html</referer>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1200px-Movistar_DCine.svg.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
@@ -254,8 +254,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=movestr&width=650&height=397</page>
-<referer>http://telefivegb.com/canales/pelis/estrenos</referer>
+<page>http://vergol.com/live/plusestrenos.php</page>
+<referer>http://www.vercanalestv.com/tv/nacionales/canal-plus-estrenos.html</referer>
 </regex>
 <thumbnail>https://i0.wp.com/diariomnipresente.com/wp-content/uploads/2016/09/Star-Wars-Movistar-Estrenos.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
@@ -267,8 +267,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=movistarseries&width=650&height=397</page>
-<referer>http://telefivegb.com/canales/series/m_series</referer>
+<page>http://vergol.com/live1/plusseries.php</page>
+<referer>http://www.vercanalestv.com/tv/nacionales/canal-plus-series.html</referer>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1200px-Movistar_Series.svg.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
@@ -280,8 +280,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=axn&width=650&height=397</page>
-<referer>http://telefivegb.com/canales/series/axn</referer>
+<page>http://vergol.com/live/axn.php</page>
+<referer>http://www.vercanalestv.com/tv/nacionales/axn.html</referer>
 </regex>
 <thumbnail>http://4.bp.blogspot.com/-6TCNxaYMCHg/TdUHkmTKX7I/AAAAAAAAAyo/yBfpTQ-02JQ/s1600/HighResLogo_RGB.jpg</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>	
@@ -293,8 +293,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=foxespana&width=650&height=397</page>
-<referer>http://telefivegb.com/canales/series/fox</referer>
+<page>http://vergol.com/live/fox.php</page>
+<referer>http://vercanalestv.com/tv/nacionales/fox.html</referer>
 </regex>
 <thumbnail>http://dshm.tmsimg.com/h5/NowShowing/75423/s75423_h5_aa.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
