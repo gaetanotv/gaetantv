@@ -15,7 +15,7 @@ https://atresplayerp-i.akamaized.net/geoneoxmpp/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.televisiontdtonline.com/wp-content/uploads/2012/11/divinity_tw.png",Divinity
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="http://vertelevisor.com/logos/energy.png",Energy
-http://163.172.52.83:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/558.m3u8
+http://185.66.143.240:25461/live/amos/1234/659.ts?token=HkMLB0NQEg4bUlBXUwEFDFJcVQIGV1EDWlALUFUAVFBXUQADVAoADABHShAQTUZRUFQ8XVRHCQRRUB4UFkQBEToIB0QKGgUEDFNeCkEVFkBYVAYWClQGAFVXAgZTAVdPRxEKAhICEgYNVF4BQRUWUUlNBkZeBF9tBgREXwBSRlkLFA8KHBpfWmYBA18CV1AWCxtTFhxHWkESQwgUNVgAAgMODQMQfUNEWAsHEjAXdRpkF0EYEgdaRhAARlNBDUZWVFNWRBwaU1tMCxJAGhsOFnRqQRgSAEtGBw9BXwxZRllHFRBEHBpZR2YXA0EXS1FVXFwRFgpHAxBOQ19XG2gHDAsPBgVEUV9aSkdcEFMbGBZcVg1dRApBbRIIVhRZFVdaUVZbRE0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png",AXN White 
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/index.m3u8
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/11151/logo_canal%20hollywood3.png",Hollywood
@@ -45,7 +45,7 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/inde
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fMpB1ufWR0g/VuwigsX1_WI/AAAAAAAAACQ/n2Fy1VyrYSQ9b-tSuTveLCXf4wRpB_HMQ/s1600/-CD4VuPl.png",#0
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/611/index.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/diariomnipresente.com/wp-content/uploads/2016/09/Star-Wars-Movistar-Estrenos.png",Movistar Estrenos
-http://62.210.162.40:25461/live/amador/amador/61976.ts?token=QxBYUUNbFg9EBwIPAQZeUAMOAVtRAVtWBVEHCAhXVFVaU1NVBQRWVAARShoXQEoGBFRqClFBAgFQCwQPHEcUEl1Ab1lUEQ4XVwJQDlMWFEERUFgGF1kJAlMFBgAEUVFQFBBAWVQRDhdfAVMARhgaBh1NUBFbAlRoBVdFUFMAQ1tWR1xcHBFbWzlXA1UFWlxBXxsFQRlBUUQREAkbZgoFAF5dXlUQdkdFB10HGDcaeU0wFxdPFwFRQxNTR1wSX0NTDwIJEhwRV1oTXRJKHRYCQSBqF08XBkBDBFxAUF8LQ1saRkMSHBFdRjlBA0sQRl0CCFxHQQ9BCBVNEF5YSDoCDlZcVVNEWltbFRFcGlYWFEEIVlsKQQxKaBFbVxsKR1lYAAESTQ==
+http://185.66.143.210:25461/live/amos/1234/644.ts?token=HkMLB0NQEg4bVAdRAgtSAgkPAVcEUlFTB1FTU1UFAgFWBAZRVFlSBQtHShAQTUZRUFQ8XVRHCQRWVR4UFkQBEToIB0QKGgUEDFNeCkEVFkBYVAYWClQGAFVXAgZQAFBPRxEKAhICEg0KV1AQTxtRTEVcEVpRCWxWBxdbVQYVXg0QDQ9KEldea10AC1MNXRYOEwlBGBIMQEJAWxBgDFMFBQoPBkZ1S0BVVwRGYU14GmEfG08WUgxHQAMVVxRZFVdTUFdBShJbX0FXERRLQQMWcWIbTxZVHUdXDBJbWQ0VXkEREkFKElFDa0sAFUYRXFVZVEtBDhJVER5ADFNOPFQLDQsEABJZV15HG19EAkEVFlleVwpAXxdsQgsFEAxBBF1RVVVBGw==
 #EXTINF:-1 tvg-logo="https://i0.wp.com/diariomnipresente.com/wp-content/uploads/2016/09/Star-Wars-Movistar-Estrenos.png",Movistar Estrenos
 http://copo5.mitopo.me/live/plusestrenos/index.m3u8?token=XjR2YDuzWo6gDIlm996Ouw&expires=1527160292
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1200px-Movistar_Series.svg.png",Movistar Series Xtra 
@@ -87,9 +87,9 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/581/inde
 #EXTINF:-1 tvg-logo="http://vercanalestv.com/imagenes/movistar-futbol.jpg",Movistar Futbol
 http://185.231.163.17/608/1/index.m3u8?k=b765e55bd83deff7e109f12db7f063bcbc93befdd807593fc066a7b127f2f895cac79e3b3a2775b331bda906a608665558af1b9f2869fabf77699d9bae308e921c259a687632d48fd6b1cd0190a5e4a074f362208b2a91e71090585ff847a59188bd8b77c4362ba7190c872301b7d6dd
 #EXTINF:-1 tvg-logo="http://meteoalcorcon.es/1_0_19_7828_428_1_C00000_0_0_0.png",Movistar Deportes 1
-http://petu15.pedromo.me/live/plusdeportes/index.m3u8?token=Dd29pVXbfuld8DoaQocuuQ&expires=1527677632
+http://185.66.143.240:25461/live/amos/1234/682.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/langfr-280px-Movistar_Deportes_2.svg.png",Movistar Deportes 2
-http://petu17.pedromo.me/live/plusdeportes2/index.m3u8?token=vd_1NevDAfTxMpPk3mvr7w&expires=1527677164
+http://185.66.143.240:25461/live/amos/1234/683.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Eurosport_2_Logo.jpg",Eurosport 2
 http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/77/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/120px-Movistar_Golf.svg.png",Movistar Golf 
