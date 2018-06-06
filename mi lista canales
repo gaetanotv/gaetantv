@@ -203,7 +203,7 @@
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
 <page>http://vergol.com/live/plusaccion.php</page>
-<referer>http://www.vercanalestv.com/tv/nacionales/canal-plus-accion.html</referer>
+<referer>http://vertelevisor.com/tv/nacionales/canal-plus-accion.html</referer>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1575px-Movistar_Acci%C3%B3n.svg.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
