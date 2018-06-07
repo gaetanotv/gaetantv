@@ -452,9 +452,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://player.livesports.pw/nba/</page>
-<referer>http://telefivegb.com/canales/deporte/NBA/
- </referer>
+<page>http://www.playerfs.com/hembedplayer/dididi/1/650/400</page>
+<referer>http://verdirectotv.com/tv/deportes/plusdeportes.html</referer>
 </regex>
 <thumbnail>https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
