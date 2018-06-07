@@ -268,7 +268,7 @@
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
 <page>http://vergol.com/live1/plusseries.php</page>
-<referer>http://www.vercanalestv.com/tv/nacionales/canal-plus-series.html</referer>
+<referer>http://vertelevisor.com/tv/nacionales/canal-plus-series.html</referer>
 </regex>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1200px-Movistar_Series.svg.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
@@ -281,7 +281,7 @@
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
 <page>http://vergol.com/live/axn.php</page>
-<referer>http://www.vercanalestv.com/tv/nacionales/axn.html</referer>
+<referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
 </regex>
 <thumbnail>http://4.bp.blogspot.com/-6TCNxaYMCHg/TdUHkmTKX7I/AAAAAAAAAyo/yBfpTQ-02JQ/s1600/HighResLogo_RGB.jpg</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>	
@@ -320,7 +320,7 @@
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
 <page>http://vergol.com/live/hollywood.php</page>
-<referer>http://www.vercanalestv.com/tv/nacionales/canal-hollywood.html</referer>
+<referer>http://vertelevisor.com/tv/nacionales/canal-hollywood.html</referer>
 </regex>
 <thumbnail>https://ulango.tv/uploads/channels/11151/logo_canal%20hollywood3.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
@@ -346,7 +346,7 @@
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
 <page>http://vergol.com/live/syfy.php</page>
-<referer>http://vercanalestv.com/tv/nacionales/syfy.html</referer>
+<referer>http://vertelevisor.com/tv/nacionales/syfy.html</referer>
 </regex>
 <thumbnail>https://i0.wp.com/media2.slashfilm.com/slashfilm/wp/wp-content/images/Syfy-new-logo.jpg</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
@@ -372,7 +372,7 @@
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
 <page>http://vergol.com/live/tnt.php</page>
-<referer>http://www.vercanalestv.com/ver-tnt-online-en-directo-gratis-24h-por-internet/</referer>
+<referer>http://vertelevisor.com/tv/nacionales/tnt.html</referer>
 </regex>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/46/88/e6/4688e66e78ed451e0d55733386ead24d.jpg</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
@@ -398,7 +398,7 @@
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
 <page>http://vergol.com/live/amc.php</page>
-<referer>http://vercanalestv.com/tv/nacionales/amc.html</referer>
+<referer>http://vertelevisor.com/tv/nacionales/amc.html</referer>
 </regex>
 <thumbnail>https://pmcvariety.files.wordpress.com/2013/11/amc-logo.jpg</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
@@ -411,7 +411,7 @@
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
 <page>http://vergol.com/live3/liga123.php</page>
-<referer>http://verliga.net/live/verliga11.php</referer>
+<referer>http://vertelevisor.com/tv/deportes/liga123.php</referer>
 </regex>
 <thumbnail>http://static.goltelevision.com/uploads/gol/web/img/logos/laliga-123-lg-v.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
@@ -467,7 +467,7 @@
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
 <page>http://vergol.com/live/historia.php</page>
-<referer>http://vergol.com/live/historia.php</referer>
+<referer>http://vertelevisor.com/tv/documentales/canal-historia.html</referer>
 </regex>
 <thumbnail>http://pmcdeadline2.files.wordpress.com/2014/05/history_channel_logo__140523153130.jpeg</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
@@ -480,7 +480,7 @@
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
 <page>http://vergol.com/live/nationalgeo.php</page>
-<referer>http://vercanalestv.com/tv/documentales/national-geographic.html</referer>
+<referer>http://vertelevisor.com/tv/documentales/national-geographic.html/referer>
 </regex>
 <thumbnail>http://famouslogos.net/images/national-geographic-logo.jpg</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
@@ -493,7 +493,7 @@
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
 <page>http://vergol.com/live/discovery-channel.php</page>
-<referer>http://vercanalestv.com/tv/documentales/national-geographic.html</referer>
+<referer>http://vertelevisor.com/tv/documentales/discovery-channel.html</referer>
 </regex>
 <thumbnail>http://mymutual.files.wordpress.com/2010/06/discovery_channel_logo-800w_600h.jpg</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
