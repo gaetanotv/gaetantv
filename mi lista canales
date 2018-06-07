@@ -190,7 +190,7 @@
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
 <page>http://vergol.com/live/calle13.php</page>
-<referer>http://www.vercanalestv.com/tv/nacionales/calle-13.html</referer>
+<referer>http://vertelevisor.com/tv/nacionales/calle-13.html</referer>
 </regex> 
 <thumbnail>http://domingomartinez.com/bitacora/wp-content/media/captura-de-pantalla-2013-05-24-a-las-012543-300x296.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
@@ -255,7 +255,7 @@
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
 <page>http://vergol.com/live/plusestrenos.php</page>
-<referer>http://www.vercanalestv.com/tv/nacionales/canal-plus-estrenos.html</referer>
+<referer>http://vertelevisor.com/tv/nacionales/canal-plus-estrenos.html</referer>
 </regex>
 <thumbnail>https://i0.wp.com/diariomnipresente.com/wp-content/uploads/2016/09/Star-Wars-Movistar-Estrenos.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
