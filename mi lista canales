@@ -155,7 +155,20 @@
 </regex>
 <thumbnail>http://verplusonline.com/wp-content/uploads/2017/12/disney.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item
+</item>
+
+<item>
+<title>MOVISTAR DISNEY</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://ver.movistarplus.es/player/?canal=MDISNE&serviceUid=4445&id_perfil=OTT&suscripcion=PS-APERTURALI%2CPS-CERO%2CPS-FAKENU%2CPS-MINTDTLI%2CPS-PREMEXLI%2CPS-PREMEXPC%2CPS-SELEPLI%2CPS-SELEPPC&nv=2&network=movistarplus</page>
+<referer>http://ver.movistarplus.es/</referer>
+</regex>
+<thumbnail>http://verplusonline.com/wp-content/uploads/2017/12/disney.png</thumbnail>
+<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
+</item>
 
 <item>
 <title>MOVISTAR MOTOGP OP.1</title>
