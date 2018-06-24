@@ -20,7 +20,7 @@
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
 <page>http://livesports.pw/embeddeporte1.php?file=m_f1&width=650&height=397</page>
-<referer>http://verbeinlaliga.com/canales/deporte/F1/</referer>
+<referer>http://verplusonline.com/movistar-formula-uno/</referer>
 </regex>
 <thumbnail>http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
