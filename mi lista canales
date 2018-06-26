@@ -158,26 +158,13 @@
 </item>
 
 <item>
-<title>MOVISTAR DISNEY</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://ver.movistarplus.es/player/?canal=MDISNE&serviceUid=4445&id_perfil=OTT&suscripcion=PS-APERTURALI%2CPS-CERO%2CPS-FAKENU%2CPS-MINTDTLI%2CPS-PREMEXLI%2CPS-PREMEXPC%2CPS-SELEPLI%2CPS-SELEPPC&nv=2&network=movistarplus</page>
-<referer>http://ver.movistarplus.es/</referer>
-</regex>
-<thumbnail>http://verplusonline.com/wp-content/uploads/2017/12/disney.png</thumbnail>
-<fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
-
-<item>
 <title>MOVISTAR MOTOGP OP.1</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://www.playerfs.com/hembedplayer/rterce4d3/2/650/400</page>
-<referer>http://vertelevision.tv/tv/deportes/motos.html</referer>
+<page>http://livesports.pw/embeddeporte1.php?file=motogpm&width=650&height=397</page>
+<referer>http://verplusonline.com/movistar-moto-gp-online/</referer>
 </regex>
 <thumbnail>http://todotele.com/wp-content/uploads/2016/04/movistar-motoGP-logo.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
@@ -491,8 +478,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/nationalgeo.php</page>
-<referer>http://vertelevisor.com/tv/documentales/national-geographic.html/referer>
+<page>http://livesports.pw/embedna.php?file=natgeo&width=650&height=397</page>
+<referer>http://telefivegb.com/canales/documental/natgeo</referer>
 </regex>
 <thumbnail>http://famouslogos.net/images/national-geographic-logo.jpg</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
