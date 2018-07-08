@@ -32,8 +32,8 @@
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://www.playerfs.com/hembedplayer/l80865085/2/650/400</page>
-<referer>http://vercanalestv.com/tv/deportes/formula1-multi.php</referer>
+<page>http://ver.movistarplus.es/player/mundial-de-formula-2-gp-gran-bretanya/gp-gran-bretanya-carrera-corta/?id=1538003&evento=&channels=&id_perfil=OTT&suscripcion=PS-APERTURALI%2CPS-CERO%2CPS-FAKENU%2CPS-MINTDTLI%2CPS-PREMEXLI%2CPS-PREMEXPC%2CPS-SELEPLI%2CPS-SELEPPC&nv=2&network=movistarplus</page>
+<referer>http://ver.movistarplus.es/</referer>
 </regex>
 <thumbnail>http://todocotilleo.com/wp-content/uploads/2017/01/MOVISTAR-F1.png</thumbnail>
 <fanart>https://s18.postimg.org/kvp4paatl/fondocanalestv.jpg</fanart>
