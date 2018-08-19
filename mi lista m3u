@@ -38,7 +38,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]T
 #EXTINF:-1 tvg-name="M Serie" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logo.ndasat.com/iptv/images/9295_mserie.png" group-title="{BOUQUET_NAME}",M Serie
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/35.ts
 #EXTINF:-1 tvg-name="Bein LaLiga" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logo.ndasat.com/iptv/images/42160_beinlaliga.png" group-title="{BOUQUET_NAME}",Bein LaLiga
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1590.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://185.152.66.51:25461/live/MVjkS95fZ/h87ZiysX49/4070.ts
 #EXTINF:-1 tvg-name="Bein sPORT" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logo.ndasat.com/iptv/images/51673_16.jpg" group-title="{BOUQUET_NAME}",Bein sPORT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/578.ts
 #EXTINF:-1 tvg-name="la Liga  ES" tvg-logo="" group-title="{BOUQUET_NAME}",la Liga  ES
