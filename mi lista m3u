@@ -1,7 +1,6 @@
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg",[COLOR lime]paypal.me/TvGratiskodi[/COLOR]
-paypal.me/TvGratiskodi
+
 #EXTINF:-1 tvg-name="La1" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logo.ndasat.com/iptv/images/51679_la1.jpg" group-title="{BOUQUET_NAME}",La1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/536.ts
 #EXTINF:-1 tvg-name="La2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://logo.ndasat.com/iptv/images/95093_la2.jpg" group-title="{BOUQUET_NAME}",La2
