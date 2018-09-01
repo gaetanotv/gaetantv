@@ -84,6 +84,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]G
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]GAETANTV[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1598.ts
 #EXTINF:-1 tvg-name="M MotoGP" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]GAETANTV[/COLOR];url=http://logo.ndasat.com/iptv/images/64132_mmotogp.png" group-title="{BOUQUET_NAME}",M MotoGP
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]GAETANTV[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1594.ts
+#EXTINF:-1 tvg-name="M MotoGP" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]GAETANTV[/COLOR];url=http://logo.ndasat.com/iptv/images/64132_mmotogp.png" group-title="{BOUQUET_NAME}",M MotoGP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]GAETANTV[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37166.ts
 #EXTINF:-1 tvg-name="AMC Spain" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]GAETANTV[/COLOR];url=http://logo.ndasat.com/iptv/images/95139_amc.jpg" group-title="{BOUQUET_NAME}",AMC Spain
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]GAETANTV[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/2756.ts
 #EXTINF:-1 tvg-name="AXN es" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]GAETANTV[/COLOR];url=http://logo.ndasat.com/iptv/images/62077_AXN.png" group-title="{BOUQUET_NAME}",AXN es
