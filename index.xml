@@ -9,7 +9,7 @@
 </item>
  
 <item>
- <title>[COLOR lightskyblue]Tv premium [COLOR white]Movistar Lista 1 [/COLOR]</title>
+ <title>[COLOR lightskyblue]Tv premium [COLOR white]Movistar Lista [/COLOR]</title>
  <link>$doregex[makelist2]</link>
  <regex> 
  <name>makelist2</name>
