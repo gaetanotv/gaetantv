@@ -20,7 +20,7 @@
  <fanart>http://www.arturogoga.com/wp-content/uploads/2009/12/image4.png</fanart>
  ]]></listrepeat>
  <expres><![CDATA[(?s)"name": "(.*?)".*?"image": "(.*?)".*?"url": "(.*?)".*?]]></expres>
- <page>https://pastebin.com/raw/B0RGkkun</page>
+ <page>https://raw.githubusercontent.com/gaetanotv/gaetantv/master/lista%20opcional</page>
  </regex>
  <regex>
  <name>get-id</name>
