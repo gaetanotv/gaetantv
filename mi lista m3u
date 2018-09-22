@@ -81,7 +81,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]T
 #EXTINF:-1,M. Cine Espaæol
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/542.ts
 #EXTINF:-1,M. ACCI©N HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/543.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22017.ts
 #EXTINF:-1,LTC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/544.ts
 #EXTINF:-1,LA 2
