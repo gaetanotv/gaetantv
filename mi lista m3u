@@ -153,7 +153,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]T
 #EXTINF:-1,BEIN MAX 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/580.ts
 #EXTINF:-1,BEIN LALIGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/581.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22049.ts
 #EXTINF:-1,BARCA TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/582.ts
 #EXTINF:-1,BABY TV
