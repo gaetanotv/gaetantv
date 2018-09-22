@@ -45,7 +45,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]T
 #EXTINF:-1,M.PartidazoHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/524.ts
 #EXTINF:-1,M.MOTOGPHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/525.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22007.ts
 #EXTINF:-1,M.FORMULA1HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/526.ts
 #EXTINF:-1,M.ESTRENOSHD
