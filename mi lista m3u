@@ -1,39 +1,41 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg"
 #EXTINF:-1,VIAJAR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/501.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2452.ts
 #EXTINF:-1,TOROS TV HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/502.ts
 #EXTINF:-1,TNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/21990.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2280.ts
 #EXTINF:-1,TELEDEPORTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/504.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2180.ts
 #EXTINF:-1,TELECINCO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/21992.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2104.ts
+#EXTINF:-1,LA SEXTA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/1670.ts
 #EXTINF:-1,TCM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/21993.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2185.ts
 #EXTINF:-1,SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/21994.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2092.ts
 #EXTINF:-1,SUNDANCE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/509.ts
 #EXTINF:-1,R. MADRID TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/21995.ts
 #EXTINF:-1,PARAMOUNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/21986.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2448.ts
 #EXTINF:-1,NOVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/21998.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2502.ts
 #EXTINF:-1,NONSTOPEOPLE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/513.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2449.ts
 #EXTINF:-1,NICKELODEONHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/21999.ts
 #EXTINF:-1,NICK JR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/515.ts
 #EXTINF:-1,NG WILD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22002.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/1023.ts
 #EXTINF:-1,NEOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22000.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2582.ts
 #EXTINF:-1,NAT GEO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22001.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/1674.ts
 #EXTINF:-1,MULTIDEPORTE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/520.ts
 #EXTINF:-1,MTV ESPA¹A
@@ -45,89 +47,95 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]T
 #EXTINF:-1,M.PartidazoHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/524.ts
 #EXTINF:-1,M.MOTOGPHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22007.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2182.ts
 #EXTINF:-1,M.FORMULA1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22010.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2181.ts
 #EXTINF:-1,M.ESTRENOSHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22011.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/1672.ts
+#EXTINF:-1,M.ESTRENOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2493.ts
 #EXTINF:-1,M.COMEDIA HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22016.ts
 #EXTINF:-1,M. XTRA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22003.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2176.ts
 #EXTINF:-1,M. XTRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22003.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2494.ts
 #EXTINF:-1,M. SeriesXtraHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22004.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/1671.ts
 #EXTINF:-1,M. SERIES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22005.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2453.ts
 #EXTINF:-1,M. MOTOGP
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22007.ts
 #EXTINF:-1,M. GOLF HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22008.ts
 #EXTINF:-1,M. F.TBOL HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22009.ts
-#EXTINF:-1,M. ESTRENOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22011.ts
 #EXTINF:-1,M. eSports
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/537.ts
 #EXTINF:-1,M. DEP 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/538.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2177.ts
 #EXTINF:-1,M. DEP 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22013.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2178.ts
+#EXTINF:-1,M.FUTBOL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2175.ts
+#EXTINF:-1,M.LA LIGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/890.ts
+#EXTINF:-1,M.LIGA DE CAMPEONES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2456.ts
 #EXTINF:-1,M. DCINE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22014.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/889.ts
 #EXTINF:-1,M. COMEDIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22016.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2504.ts
 #EXTINF:-1,M. Cine Espaæol
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22015.ts
 #EXTINF:-1,M. ACCI©N HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22017.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/1675.ts
 #EXTINF:-1,LTC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/544.ts
 #EXTINF:-1,LA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22022.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2089.ts
 #EXTINF:-1,LA 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22023.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2088.ts
 #EXTINF:-1,IBERALIA TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/548.ts
 #EXTINF:-1,HOLLYWOODHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22025.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/1032.ts
 #EXTINF:-1,HISTORIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22026.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2090.ts
 #EXTINF:-1,GOL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22027.ts
 #EXTINF:-1,FOX NEWS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/552.ts
 #EXTINF:-1,FOX LIFE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22028.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/1024.ts
 #EXTINF:-1,FOX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22029.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2454.ts
 #EXTINF:-1,FDF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22030.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2743.ts
 #EXTINF:-1,EUROSPORT1HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22031.ts
 #EXTINF:-1,EUROSPORT 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/557.ts
 #EXTINF:-1,ENERGY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22032.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2191.ts
 #EXTINF:-1,DIVINITY
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22033.ts
 #EXTINF:-1,DISNEY XD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22034.ts
 #EXTINF:-1,DISNEY JR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22035.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2106.ts
 #EXTINF:-1,DISNEY CH HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22036.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2183.ts
 #EXTINF:-1,DISCOVERY
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22037.ts
 #EXTINF:-1,CUATRO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22039.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2091.ts
 #EXTINF:-1,CRIMEN INVES
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22060.ts
 #EXTINF:-1,COSMO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22040.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2450.ts
 #EXTINF:-1,COMEDYCENTRALHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22041.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2451.ts
 #EXTINF:-1,CLASSICA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/568.ts
 #EXTINF:-1,CLAN  TVE
@@ -145,11 +153,11 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]T
 #EXTINF:-1,CANAL COCINA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/576.ts
 #EXTINF:-1,CALLE 13 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22044.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/1676.ts
 #EXTINF:-1,BOING
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22045.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2186.ts
 #EXTINF:-1,BEIN SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22046.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2184.ts
 #EXTINF:-1,BEIN MAX 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/580.ts
 #EXTINF:-1,BEIN LALIGA
@@ -159,21 +167,21 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]T
 #EXTINF:-1,BABY TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/583.ts
 #EXTINF:-1,AXN WHITE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22052.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/970.ts
 #EXTINF:-1,AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22053.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/971.ts
 #EXTINF:-1,ARAGON TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/586.ts
 #EXTINF:-1,ANTENA 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22054.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/1117.ts
 #EXTINF:-1,AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22056.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2742.ts
 #EXTINF:-1,A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/589.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2636.ts
 #EXTINF:-1,24 HORAS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/590.ts
 #EXTINF:-1,#0 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://tv.shacktv.com:8080/live/1977/1977/22059.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://5.189.187.55:8000/live/nour/skype/2566.ts
 #EXTINF:-1,ALQUILER_1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/86.ts
 #EXTINF:-1,ALQUILER_2
